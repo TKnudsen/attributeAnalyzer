@@ -10,6 +10,7 @@ import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IObjectPar
 import com.github.TKnudsen.ComplexDataObject.model.tools.StatisticsSupport;
 import com.github.TKnudsen.infoVis.view.panels.boxplot.BoxPlotHorizontalCartPanel;
 import com.github.TKnudsen.infoVis.view.panels.distribution1D.Distribution1DHorizontalPanel;
+import com.github.TKnudsen.infoVis.view.panels.distribution1D.Distribution1DHorizontalPanels;
 
 public class NumericalContinuousAttributeCharacteristicsPanel extends AttributeCharacteristicsPanel<Double> {
 
@@ -39,8 +40,8 @@ public class NumericalContinuousAttributeCharacteristicsPanel extends AttributeC
 		infoVisBoxPlotHorizontalPanel.setBackgroundColor(null);
 		contentPanel.add(infoVisBoxPlotHorizontalPanel);
 
-		Distribution1DHorizontalPanel infoVisDistribution1DHorizontalPanel = new Distribution1DHorizontalPanel(
-				getParsedValues());
+		Distribution1DHorizontalPanel<Double> infoVisDistribution1DHorizontalPanel = Distribution1DHorizontalPanels
+				.createForDoubles(getParsedValues());
 		infoVisDistribution1DHorizontalPanel.setBackgroundColor(null);
 		contentPanel.add(infoVisDistribution1DHorizontalPanel);
 

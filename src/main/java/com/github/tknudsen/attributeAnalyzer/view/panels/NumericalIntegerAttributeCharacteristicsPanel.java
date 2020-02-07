@@ -4,6 +4,7 @@ import java.awt.BorderLayout;
 import java.awt.GridLayout;
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.List;
 
 import javax.swing.JPanel;
 
@@ -11,6 +12,7 @@ import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IObjectPar
 import com.github.TKnudsen.ComplexDataObject.model.tools.StatisticsSupport;
 import com.github.TKnudsen.infoVis.view.panels.boxplot.BoxPlotHorizontalCartPanel;
 import com.github.TKnudsen.infoVis.view.panels.distribution1D.Distribution1DHorizontalPanel;
+import com.github.TKnudsen.infoVis.view.panels.distribution1D.Distribution1DHorizontalPanels;
 
 public class NumericalIntegerAttributeCharacteristicsPanel extends AttributeCharacteristicsPanel<Integer> {
 
@@ -40,11 +42,12 @@ public class NumericalIntegerAttributeCharacteristicsPanel extends AttributeChar
 		infoVisBoxPlotHorizontalPanel.setBackgroundColor(null);
 		contentPanel.add(infoVisBoxPlotHorizontalPanel);
 
-		Collection<Double> values = new ArrayList<>();
+		List<Double> values = new ArrayList<>();
 		for (Integer i : getParsedValues())
 			values.add(i.doubleValue());
 
-		Distribution1DHorizontalPanel infoVisDistribution1DHorizontalPanel = new Distribution1DHorizontalPanel(values);
+		Distribution1DHorizontalPanel<Double> infoVisDistribution1DHorizontalPanel = Distribution1DHorizontalPanels
+				.createForDoubles(values);
 		infoVisDistribution1DHorizontalPanel.setBackgroundColor(null);
 		contentPanel.add(infoVisDistribution1DHorizontalPanel);
 

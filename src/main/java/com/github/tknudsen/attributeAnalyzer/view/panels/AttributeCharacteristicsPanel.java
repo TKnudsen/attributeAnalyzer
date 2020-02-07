@@ -28,7 +28,7 @@ public abstract class AttributeCharacteristicsPanel<T> extends JPanel {
 	private static final long serialVersionUID = 7287578850006835039L;
 
 	private Collection<Object> values;
-	private Collection<T> parsedValues;
+	private List<T> parsedValues;
 
 	private IObjectParser<T> parser;
 	private T missingValueIndicator;
@@ -71,7 +71,7 @@ public abstract class AttributeCharacteristicsPanel<T> extends JPanel {
 	@Override
 	public abstract String getName();
 
-	public Collection<T> getParsedValues() {
+	public List<T> getParsedValues() {
 		return parsedValues;
 	}
 

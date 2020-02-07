@@ -5,6 +5,7 @@ import java.awt.GridLayout;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Date;
+import java.util.List;
 
 import javax.swing.JPanel;
 
@@ -12,6 +13,7 @@ import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IObjectPar
 import com.github.TKnudsen.ComplexDataObject.model.tools.StatisticsSupport;
 import com.github.TKnudsen.infoVis.view.panels.boxplot.BoxPlotHorizontalCartPanel;
 import com.github.TKnudsen.infoVis.view.panels.distribution1D.Distribution1DHorizontalPanel;
+import com.github.TKnudsen.infoVis.view.panels.distribution1D.Distribution1DHorizontalPanels;
 
 public class DateAttributeCharacteristicsPanel extends AttributeCharacteristicsPanel<Date> {
 
@@ -31,7 +33,7 @@ public class DateAttributeCharacteristicsPanel extends AttributeCharacteristicsP
 		if (parsedValues.size() == 0)
 			return;
 
-		Collection<Double> values = new ArrayList<>();
+		List<Double> values = new ArrayList<>();
 		for (Date d : parsedValues)
 			values.add((double) d.getTime());
 
@@ -44,7 +46,8 @@ public class DateAttributeCharacteristicsPanel extends AttributeCharacteristicsP
 		infoVisBoxPlotHorizontalPanel.setBackgroundColor(null);
 		contentPanel.add(infoVisBoxPlotHorizontalPanel);
 
-		Distribution1DHorizontalPanel infoVisDistribution1DHorizontalPanel = new Distribution1DHorizontalPanel(values);
+		Distribution1DHorizontalPanel<Double> infoVisDistribution1DHorizontalPanel = Distribution1DHorizontalPanels
+				.createForDoubles(values);
 		infoVisDistribution1DHorizontalPanel.setBackgroundColor(null);
 		contentPanel.add(infoVisDistribution1DHorizontalPanel);
 
