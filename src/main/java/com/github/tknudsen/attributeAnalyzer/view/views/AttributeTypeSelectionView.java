@@ -25,6 +25,7 @@ import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.BooleanPar
 import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser;
 import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IObjectParser;
 import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser;
+import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser;
 import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.StringParser;
 import com.github.tknudsen.attributeAnalyzer.data.events.AttributeTypeDecisionActionEvent;
 import com.github.tknudsen.attributeAnalyzer.view.panels.AttributeCharacteristicsPanel;
@@ -32,6 +33,7 @@ import com.github.tknudsen.attributeAnalyzer.view.panels.BooleanAttributeCharact
 import com.github.tknudsen.attributeAnalyzer.view.panels.CategoricalAttributeCharacteristicsPanel;
 import com.github.tknudsen.attributeAnalyzer.view.panels.NumericalContinuousAttributeCharacteristicsPanel;
 import com.github.tknudsen.attributeAnalyzer.view.panels.NumericalIntegerAttributeCharacteristicsPanel;
+import com.github.tknudsen.attributeAnalyzer.view.panels.NumericalLongAttributeCharacteristicsPanel;
 
 public class AttributeTypeSelectionView extends JPanel implements AttributeTypeAndParserDetector, ActionListener {
 
@@ -227,8 +229,12 @@ public class AttributeTypeSelectionView extends JPanel implements AttributeTypeA
 		numericalDiscretePanel.addActionListener(this);
 		attributeCharacteristicsPanels.add(numericalDiscretePanel);
 
+		NumericalLongAttributeCharacteristicsPanel numericalDiscreteLongPanel = new NumericalLongAttributeCharacteristicsPanel(
+				values, new LongParser(), null);
+		numericalDiscreteLongPanel.addActionListener(this);
+		attributeCharacteristicsPanels.add(numericalDiscreteLongPanel);
+
 		DoubleParser doubleParser = new DoubleParser(true);
-//		doubleParser.setDotMeansThousands(true);
 
 		NumericalContinuousAttributeCharacteristicsPanel numericalPanel = new NumericalContinuousAttributeCharacteristicsPanel(
 				values, doubleParser, Double.NaN);
