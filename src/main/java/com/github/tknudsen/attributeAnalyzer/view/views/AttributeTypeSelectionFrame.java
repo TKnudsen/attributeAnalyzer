@@ -80,7 +80,8 @@ public class AttributeTypeSelectionFrame extends SVGFrame implements AttributeTy
 		Entry<Class<T>, IObjectParser<T>> attributeTypeAndParserType = attributeTypeSelectionView
 				.getAttributeTypeAndParserType(values);
 
-		this.dispose();
+		// no. do not do this here. otherwise you can only use it once
+		// this.dispose();
 
 		return attributeTypeAndParserType;
 	}

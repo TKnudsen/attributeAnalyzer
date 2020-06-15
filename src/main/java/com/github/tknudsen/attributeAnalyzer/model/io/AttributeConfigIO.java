@@ -41,13 +41,13 @@ public class AttributeConfigIO {
 	 * 
 	 * Attribute Parser - the parser instance that can do the conversion job
 	 * 
-	 * @param attributeConfigs
+	 * @param attributesConfigs
 	 * @param subFolderName
 	 */
-	public static void saveStocksAttributeConfig(List<Map<String, Object>> attributeConfigs, String fileName) {
+	public static void saveStocksAttributeConfig(List<Map<String, Object>> attributesConfigs, String fileName) {
 
 		try {
-			mapper.writeValue(new File(fileName), attributeConfigs);
+			mapper.writeValue(new File(fileName), attributesConfigs);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}

@@ -72,7 +72,17 @@ public abstract class AttributeCharacteristicsPanel<T> extends JPanel {
 	public abstract String getName();
 
 	public List<T> getParsedValues() {
+		if (parsedValues == null)
+			parseValues();
+
 		return parsedValues;
+	}
+
+	/**
+	 * allows re-configuring parsers
+	 */
+	public void resetParsedValues() {
+		parsedValues = null;
 	}
 
 	public IObjectParser<T> getParser() {
@@ -90,7 +100,7 @@ public abstract class AttributeCharacteristicsPanel<T> extends JPanel {
 		statisticsLeft.add(new JLabel(String.valueOf(MathFunctions.round(parseableRatio, 3))));
 		statisticsInformationPanel.add(statisticsLeft, BorderLayout.WEST);
 
-		PieChart pieChartRight = PieCharts.createPieChartBipartite(parseableRatio, Color.DARK_GRAY);
+		PieChart pieChartRight = PieCharts.createPieChartBipartite(parseableRatio, Color.GREEN.darker());
 		pieChartRight.setPreferredSize(new Dimension(36, 36));
 		statisticsInformationPanel.add(pieChartRight, BorderLayout.EAST);
 

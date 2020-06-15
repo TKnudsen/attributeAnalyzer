@@ -22,6 +22,7 @@ import javax.swing.JTextPane;
 
 import com.github.TKnudsen.ComplexDataObject.data.attributes.AttributeTypeAndParserDetector;
 import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.BooleanParser;
+import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DateParser;
 import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser;
 import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IObjectParser;
 import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser;
@@ -31,6 +32,7 @@ import com.github.tknudsen.attributeAnalyzer.data.events.AttributeTypeDecisionAc
 import com.github.tknudsen.attributeAnalyzer.view.panels.AttributeCharacteristicsPanel;
 import com.github.tknudsen.attributeAnalyzer.view.panels.BooleanAttributeCharacteristicsPanel;
 import com.github.tknudsen.attributeAnalyzer.view.panels.CategoricalAttributeCharacteristicsPanel;
+import com.github.tknudsen.attributeAnalyzer.view.panels.DateAttributeCharacteristicsPanel;
 import com.github.tknudsen.attributeAnalyzer.view.panels.NumericalContinuousAttributeCharacteristicsPanel;
 import com.github.tknudsen.attributeAnalyzer.view.panels.NumericalIntegerAttributeCharacteristicsPanel;
 import com.github.tknudsen.attributeAnalyzer.view.panels.NumericalLongAttributeCharacteristicsPanel;
@@ -64,97 +66,16 @@ public class AttributeTypeSelectionView extends JPanel implements AttributeTypeA
 
 		this.showRawValues = true;
 
-		initialize();
+		refreshView();
 	}
 
-	@Override
-	public void actionPerformed(ActionEvent e) {
-		if (e instanceof AttributeTypeDecisionActionEvent) {
-			AttributeTypeDecisionActionEvent<?> event = (AttributeTypeDecisionActionEvent<?>) e;
-			classType = event.getAttributeType();
-			parser = event.getParser();
-
-			decisionMade = true;
-
-			System.out.println(
-					"AttributeTypeSelectionView: attribute type decision detected: " + classType.getSimpleName());
-		}
-	}
-
-	@Override
-	public Class<?> getAttributeType(Collection<Object> values) {
-		this.values = Objects.requireNonNull(values);
-
-		initialize();
-
-		repaint();
-		revalidate();
-
-		while (!decisionMade) {
-			try {
-				Thread.sleep(100);
-			} catch (InterruptedException e) {
-				e.printStackTrace();
-			}
-		}
-
-		System.out.println("AttributeTypeSelectionView.getAttributeType: leaving while loop: ");
-
-		return classType;
-	}
-
-	@Override
-	public <T> Entry<Class<T>, IObjectParser<T>> getAttributeTypeAndParserType(Collection<Object> values) {
-		this.values = Objects.requireNonNull(values);
-
-		initialize();
-
-		repaint();
-		revalidate();
-
-		while (!decisionMade) {
-			try {
-				repaint();
-				revalidate();
-
-				Thread.sleep(100);
-			} catch (InterruptedException e) {
-				e.printStackTrace();
-			}
-		}
-
-		System.out.println("AttributeTypeSelectionView.getAttributeParserType: leaving while loop: ");
-
-		@SuppressWarnings("unchecked")
-		Class<T> c = (Class<T>) classType;
-		@SuppressWarnings("unchecked")
-		IObjectParser<T> p = (IObjectParser<T>) parser;
-		return new AbstractMap.SimpleEntry<Class<T>, IObjectParser<T>>(c, p);
-	}
-
-	/**
-	 * can be triggered from an external source. Used, e.g., when a Frame is about
-	 * to be closed, or if no decision can be made.
-	 */
-	public void forceNullReturn() {
-		classType = null;
-		parser = null;
-
-		decisionMade = true;
-
-		System.out.println("AttributeTypeSelectionView: null return forced by external trigger");
-	}
-
-	private final void initialize() {
+	private final void refreshView() {
 		decisionMade = false;
-		this.removeAll();
+
+		removeAll();
+		setLayout(new GridLayout(1, 0));
 
 		initializeAttributeCharacteristicsPanels();
-
-//		if (!isShowRawValues())
-//			setLayout(new GridLayout(0, attributeCharacteristicsPanels.size()));
-//		else
-		setLayout(new GridLayout(0, attributeCharacteristicsPanels.size() + 1));
 
 		JPanel valuesPanel = new JPanel(new BorderLayout());
 
@@ -211,6 +132,85 @@ public class AttributeTypeSelectionView extends JPanel implements AttributeTypeA
 		}
 	}
 
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		if (e instanceof AttributeTypeDecisionActionEvent) {
+			AttributeTypeDecisionActionEvent<?> event = (AttributeTypeDecisionActionEvent<?>) e;
+			classType = event.getAttributeType();
+			parser = event.getParser();
+
+			decisionMade = true;
+
+			System.out.println(
+					"AttributeTypeSelectionView: attribute type decision detected: " + classType.getSimpleName());
+		}
+	}
+
+	@Override
+	public Class<?> getAttributeType(Collection<Object> values) {
+		this.values = Objects.requireNonNull(values);
+
+		refreshView();
+
+		this.setVisible(true);
+
+		repaint();
+		revalidate();
+
+		while (!decisionMade) {
+			try {
+				Thread.sleep(100);
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
+		}
+
+//		System.out.println("AttributeTypeSelectionView.getAttributeType: leaving while loop: ");
+
+		return classType;
+	}
+
+	@Override
+	public <T> Entry<Class<T>, IObjectParser<T>> getAttributeTypeAndParserType(Collection<Object> values) {
+		this.values = Objects.requireNonNull(values);
+
+		refreshView();
+
+		this.setVisible(true);
+
+		repaint();
+		revalidate();
+
+		while (!decisionMade) {
+			try {
+				Thread.sleep(100);
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
+		}
+
+//		System.out.println("AttributeTypeSelectionView.getAttributeParserType: leaving while loop: ");
+
+		@SuppressWarnings("unchecked")
+		Class<T> c = (Class<T>) classType;
+		@SuppressWarnings("unchecked")
+		IObjectParser<T> p = (IObjectParser<T>) parser;
+		return new AbstractMap.SimpleEntry<Class<T>, IObjectParser<T>>(c, p);
+	}
+
+	/**
+	 * can be triggered from an external source. Used, e.g., when a Frame is about
+	 * to be closed, or if no decision can be made.
+	 */
+	public void forceNullReturn() {
+		classType = null;
+		parser = null;
+
+		decisionMade = true;
+
+		System.out.println("AttributeTypeSelectionView: null return forced by external trigger");
+	}
+
 	protected void initializeAttributeCharacteristicsPanels() {
 		attributeCharacteristicsPanels = new ArrayList<>();
 
@@ -224,6 +224,10 @@ public class AttributeTypeSelectionView extends JPanel implements AttributeTypeA
 		booleanPanel.addActionListener(this);
 		attributeCharacteristicsPanels.add(booleanPanel);
 
+		DateAttributeCharacteristicsPanel datePanel = new DateAttributeCharacteristicsPanel(values, new DateParser());
+		datePanel.addActionListener(this);
+		attributeCharacteristicsPanels.add(datePanel);
+
 		NumericalIntegerAttributeCharacteristicsPanel numericalDiscretePanel = new NumericalIntegerAttributeCharacteristicsPanel(
 				values, new IntegerParser(), null);
 		numericalDiscretePanel.addActionListener(this);
@@ -235,7 +239,6 @@ public class AttributeTypeSelectionView extends JPanel implements AttributeTypeA
 		attributeCharacteristicsPanels.add(numericalDiscreteLongPanel);
 
 		DoubleParser doubleParser = new DoubleParser(true);
-
 		NumericalContinuousAttributeCharacteristicsPanel numericalPanel = new NumericalContinuousAttributeCharacteristicsPanel(
 				values, doubleParser, Double.NaN);
 		numericalPanel.addActionListener(this);
