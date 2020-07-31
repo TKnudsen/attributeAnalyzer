@@ -12,7 +12,7 @@ import javax.swing.JLabel;
 
 import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IObjectParser;
 import com.github.TKnudsen.ComplexDataObject.model.tools.MathFunctions;
-import com.github.TKnudsen.infoVis.view.panels.barchart.BarChartHorizontalPanel;
+import com.github.TKnudsen.infoVis.view.panels.barchart.BarChartHorizontal;
 import com.google.common.collect.Lists;
 
 public class BooleanAttributeCharacteristicsPanel extends AttributeCharacteristicsPanel<Boolean> {
@@ -43,7 +43,7 @@ public class BooleanAttributeCharacteristicsPanel extends AttributeCharacteristi
 		for (Double d : data)
 			colors.add(Color.GRAY.darker());
 
-		BarChartHorizontalPanel panel = new BarChartHorizontalPanel(data, colors);
+		BarChartHorizontal panel = new BarChartHorizontal(data, colors);
 		panel.setBackgroundColor(null);
 
 		valueDistributionPanel.add(panel, BorderLayout.CENTER);
