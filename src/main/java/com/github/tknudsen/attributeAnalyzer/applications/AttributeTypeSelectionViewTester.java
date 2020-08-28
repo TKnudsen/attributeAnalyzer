@@ -28,6 +28,7 @@ public class AttributeTypeSelectionViewTester {
 		values.add(2.5);
 		values.add(3);
 		values.add(3);
+		values.add(3);
 
 		for (int i = 0; i < 100; i++)
 			values.add(Math.random() * 3);

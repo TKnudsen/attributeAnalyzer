@@ -19,7 +19,7 @@ import com.github.TKnudsen.ComplexDataObject.model.io.json.ObjectMapperFactory;
  * </p>
  * 
  * <p>
- * Copyright: (c) 2016-2019 Juergen Bernard,
+ * Copyright: (c) 2016-2020 Juergen Bernard,
  * https://github.com/TKnudsen/AttributeAnalyzer
  * </p>
  * 

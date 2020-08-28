@@ -71,7 +71,8 @@ public class AttributeTypeSelectionFrame extends SVGFrame implements AttributeTy
 
 		this.dispose();
 
-//		System.out.println("AttributeTypeSelectionFramw: attribute type decision detected. return.");
+		// System.out.println("AttributeTypeSelectionFramw: attribute type decision
+		// detected. return.");
 		return attributeType;
 	}
 

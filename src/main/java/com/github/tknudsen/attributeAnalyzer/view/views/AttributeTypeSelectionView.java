@@ -165,7 +165,8 @@ public class AttributeTypeSelectionView extends JPanel implements AttributeTypeA
 			}
 		}
 
-//		System.out.println("AttributeTypeSelectionView.getAttributeType: leaving while loop: ");
+		// System.out.println("AttributeTypeSelectionView.getAttributeType: leaving
+		// while loop: ");
 
 		return classType;
 	}
@@ -189,7 +190,8 @@ public class AttributeTypeSelectionView extends JPanel implements AttributeTypeA
 			}
 		}
 
-//		System.out.println("AttributeTypeSelectionView.getAttributeParserType: leaving while loop: ");
+		// System.out.println("AttributeTypeSelectionView.getAttributeParserType:
+		// leaving while loop: ");
 
 		@SuppressWarnings("unchecked")
 		Class<T> c = (Class<T>) classType;
