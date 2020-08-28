@@ -5,11 +5,12 @@
 
 	<groupId>com.github.tknudsen</groupId>
 	<artifactId>attribute-analyzer</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
 	<name>attributeAnalyzer</name>
-	<url>http://maven.apache.org</url>
+	<description>A library that helps analyzing and interpreting data attributes (columns of data tables).</description>
+	<url>https://github.com/TKnudsen/attributeAnalyzer</url>
 
 	<licenses>
 		<license>
@@ -18,27 +19,36 @@
 		</license>
 	</licenses>
 
+	<scm>
+		<url>https://github.com/TKnudsen/attributeAnalyzer</url>
+		<connection>https://github.com/TKnudsen/attributeAnalyzer.git</connection>
+		<developerConnection>https://github.com/TKnudsen/attributeAnalyzer.git</developerConnection>
+	</scm>
+
+	<developers>
+		<developer>
+			<id>tknudsen</id>
+			<name>Juergen Bernard</name>
+			<email>mail@juergen-bernard.de</email>
+		</developer>
+	</developers>
+
+	<distributionManagement>
+		<snapshotRepository>
+			<id>ossrh</id>
+			<url>https://oss.sonatype.org/content/repositories/snapshots</url>
+		</snapshotRepository>
+		<repository>
+			<id>ossrh</id>
+			<url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+		</repository>
+	</distributionManagement>
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven-compiler-plugin.source>1.8</maven-compiler-plugin.source>
 		<maven-compiler-plugin.target>1.8</maven-compiler-plugin.target>
 	</properties>
-
-	<build>
-		<sourceDirectory>../src/main/java</sourceDirectory>
-
-		<plugins>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.6.1</version>
-				<configuration>
-					<source>${maven-compiler-plugin.source}</source>
-					<target>${maven-compiler-plugin.target}</target>
-				</configuration>
-			</plugin>
-		</plugins>
-	</build>
 
 	<dependencies>
 		<dependency>
@@ -59,4 +69,51 @@
 			<version>0.0.1</version>
 		</dependency>
 	</dependencies>
+
+	<build>
+		<sourceDirectory>../src/main/java</sourceDirectory>
+
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.6.1</version>
+				<configuration>
+					<source>${maven-compiler-plugin.source}</source>
+					<target>${maven-compiler-plugin.target}</target>
+				</configuration>
+			</plugin>
+
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-source-plugin</artifactId>
+				<version>2.1.2</version>
+				<executions>
+					<execution>
+						<id>attach-sources</id>
+						<goals>
+							<goal>jar</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-javadoc-plugin</artifactId>
+				<version>2.10.1</version>
+
+				<executions>
+					<execution>
+						<id>attach-javadocs</id>
+						<goals>
+							<goal>jar</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
+	</build>
+
+
 </project>
