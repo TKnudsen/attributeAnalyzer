@@ -65,7 +65,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.github.tknudsen</groupId>
-			<artifactId>infoVis</artifactId>
+			<artifactId>info-vis</artifactId>
 			<version>0.0.1</version>
 		</dependency>
 	</dependencies>
