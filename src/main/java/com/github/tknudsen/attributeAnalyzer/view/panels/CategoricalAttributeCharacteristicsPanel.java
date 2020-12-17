@@ -13,7 +13,6 @@ import javax.swing.JLabel;
 import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IObjectParser;
 import com.github.TKnudsen.ComplexDataObject.model.tools.MathFunctions;
 import com.github.TKnudsen.infoVis.view.panels.barchart.BarChartHorizontal;
-import com.google.common.collect.Lists;
 
 public class CategoricalAttributeCharacteristicsPanel extends AttributeCharacteristicsPanel<String> {
 
@@ -39,8 +38,8 @@ public class CategoricalAttributeCharacteristicsPanel extends AttributeCharacter
 		if (counts.size() == 0)
 			return;
 
-		List<Double> data = Lists.newArrayList(counts.values());
-		List<Color> colors = new ArrayList();
+		List<Double> data = new ArrayList<Double>(counts.values());
+		List<Color> colors = new ArrayList<>();
 		for (Double d : data)
 			colors.add(Color.GRAY.darker());
 
