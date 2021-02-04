@@ -28,6 +28,7 @@ import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IObjectPar
 import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser;
 import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser;
 import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.StringParser;
+import com.github.TKnudsen.ComplexDataObject.model.tools.Threads;
 import com.github.tknudsen.attributeAnalyzer.data.events.AttributeTypeDecisionActionEvent;
 import com.github.tknudsen.attributeAnalyzer.view.panels.AttributeCharacteristicsPanel;
 import com.github.tknudsen.attributeAnalyzer.view.panels.BooleanAttributeCharacteristicsPanel;
@@ -158,11 +159,7 @@ public class AttributeTypeSelectionView extends JPanel implements AttributeTypeA
 		revalidate();
 
 		while (!decisionMade) {
-			try {
-				Thread.sleep(100);
-			} catch (InterruptedException e) {
-				e.printStackTrace();
-			}
+			Threads.sleep(100, 0);
 		}
 
 		// System.out.println("AttributeTypeSelectionView.getAttributeType: leaving
@@ -183,11 +180,7 @@ public class AttributeTypeSelectionView extends JPanel implements AttributeTypeA
 		revalidate();
 
 		while (!decisionMade) {
-			try {
-				Thread.sleep(100);
-			} catch (InterruptedException e) {
-				e.printStackTrace();
-			}
+			Threads.sleep(100, 0);
 		}
 
 		// System.out.println("AttributeTypeSelectionView.getAttributeParserType:
