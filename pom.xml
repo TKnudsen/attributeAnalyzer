@@ -5,7 +5,7 @@
 
 	<groupId>com.github.tknudsen</groupId>
 	<artifactId>attribute-analyzer</artifactId>
-	<version>0.0.5-SNAPSHOT</version>
+	<version>0.0.5</version>
 	<packaging>jar</packaging>
 
 	<name>attributeAnalyzer</name>
@@ -61,12 +61,12 @@
 		<dependency>
 			<groupId>com.github.tknudsen</groupId>
 			<artifactId>complex-data-object</artifactId>
-			<version>0.2.13-SNAPSHOT</version>
+			<version>0.2.13</version>
 		</dependency>
 		<dependency>
 			<groupId>com.github.tknudsen</groupId>
 			<artifactId>info-vis</artifactId>
-			<version>0.0.1</version>
+			<version>0.0.3</version>
 		</dependency>
 	</dependencies>
 
