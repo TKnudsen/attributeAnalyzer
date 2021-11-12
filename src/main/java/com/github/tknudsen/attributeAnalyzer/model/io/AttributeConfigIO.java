@@ -41,8 +41,8 @@ public class AttributeConfigIO {
 	 * 
 	 * Attribute Parser - the parser instance that can do the conversion job
 	 * 
-	 * @param attributesConfigs
-	 * @param subFolderName
+	 * @param attributesConfigs data
+	 * @param fileName          target file name
 	 */
 	public static void saveStocksAttributeConfig(List<Map<String, Object>> attributesConfigs, String fileName) {
 
@@ -63,8 +63,8 @@ public class AttributeConfigIO {
 	 * 
 	 * Attribute Parser - the parser instance that can do the conversion job
 	 * 
-	 * @param fileName
-	 * @return
+	 * @param fileName source file name
+	 * @return attribute configuration data
 	 */
 	@SuppressWarnings("unchecked")
 	public static List<Map<String, Object>> loadStocksAttributesConfigs(String fileName) {
