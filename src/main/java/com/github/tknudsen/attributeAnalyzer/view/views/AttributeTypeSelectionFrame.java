@@ -1,6 +1,7 @@
 package com.github.tknudsen.attributeAnalyzer.view.views;
 
 import java.awt.Dimension;
+import java.awt.Graphics;
 import java.awt.GridLayout;
 import java.awt.Toolkit;
 import java.util.Collection;
@@ -58,7 +59,13 @@ public class AttributeTypeSelectionFrame extends SVGFrame implements AttributeTy
 				attributeTypeSelectionView.forceNullReturn();
 			}
 		});
+	}
 
+	@Override
+	public void paintComponents(Graphics g) {
+		super.paintComponents(g);
+
+		System.out.println("TEST");
 	}
 
 	public AttributeTypeSelectionView createAttributeTypeSelectionView() {
