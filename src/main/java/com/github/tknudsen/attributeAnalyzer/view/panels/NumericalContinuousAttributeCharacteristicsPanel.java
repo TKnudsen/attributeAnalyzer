@@ -14,7 +14,7 @@ import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IObjectPar
 import com.github.TKnudsen.ComplexDataObject.model.tools.StatisticsSupport;
 import com.github.TKnudsen.infoVis.view.panels.boxplot.BoxPlotHorizontalCartPanel;
 import com.github.TKnudsen.infoVis.view.panels.distribution1D.Distribution1DHorizontalPanel;
-import com.github.TKnudsen.infoVis.view.panels.distribution1D.Distribution1DHorizontalPanels;
+import com.github.TKnudsen.infoVis.view.panels.distribution1D.Distribution1DPanels;
 
 public class NumericalContinuousAttributeCharacteristicsPanel extends AttributeCharacteristicsPanel<Double> {
 
@@ -30,6 +30,11 @@ public class NumericalContinuousAttributeCharacteristicsPanel extends AttributeC
 		super(values, parser, missingValueIndicator);
 	}
 
+	public NumericalContinuousAttributeCharacteristicsPanel(Collection<Object> values, IObjectParser<Double> parser,
+			Double missingValueIndicator, boolean readOnly) {
+		super(values, parser, missingValueIndicator, readOnly);
+	}
+
 	@Override
 	protected void addContentToValueDistributionPanel() {
 		JCheckBox dotMeansThousandsCheckBox = new JCheckBox("Dot means Thousand", false);
@@ -43,9 +48,9 @@ public class NumericalContinuousAttributeCharacteristicsPanel extends AttributeC
 					((DoubleParser) getParser()).setDotMeansThousands(dotMeansThousandsCheckBox.isSelected());
 
 					resetParsedValues();
-					
+
 					refreshContentPanel();
-					
+
 					repaint();
 					revalidate();
 				}
@@ -78,8 +83,10 @@ public class NumericalContinuousAttributeCharacteristicsPanel extends AttributeC
 		infoVisBoxPlotHorizontalPanel.setBackgroundColor(null);
 		contentPanel.add(infoVisBoxPlotHorizontalPanel);
 
-		Distribution1DHorizontalPanel<Double> infoVisDistribution1DHorizontalPanel = Distribution1DHorizontalPanels
-				.createForDoubles(getParsedValues());
+//		Distribution1DHorizontalPanel<Double> infoVisDistribution1DHorizontalPanel = Distribution1DHorizontalPanels
+//				.createForDoubles(getParsedValues());
+		Distribution1DHorizontalPanel<Double> infoVisDistribution1DHorizontalPanel = (Distribution1DHorizontalPanel<Double>) Distribution1DPanels
+				.createForDoubles(parsedValues, false);
 		infoVisDistribution1DHorizontalPanel.setBackgroundColor(null);
 		contentPanel.add(infoVisDistribution1DHorizontalPanel);
 	}

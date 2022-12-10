@@ -10,6 +10,7 @@ import java.awt.event.ActionListener;
 import java.util.AbstractMap;
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map.Entry;
 import java.util.Objects;
@@ -21,22 +22,10 @@ import javax.swing.JPanel;
 import javax.swing.JTextPane;
 
 import com.github.TKnudsen.ComplexDataObject.data.attributes.AttributeTypeAndParserDetector;
-import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.BooleanParser;
-import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DateParser;
-import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser;
 import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IObjectParser;
-import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser;
-import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser;
-import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.StringParser;
 import com.github.TKnudsen.ComplexDataObject.model.tools.Threads;
 import com.github.tknudsen.attributeAnalyzer.data.events.AttributeTypeDecisionActionEvent;
 import com.github.tknudsen.attributeAnalyzer.view.panels.AttributeCharacteristicsPanel;
-import com.github.tknudsen.attributeAnalyzer.view.panels.BooleanAttributeCharacteristicsPanel;
-import com.github.tknudsen.attributeAnalyzer.view.panels.CategoricalAttributeCharacteristicsPanel;
-import com.github.tknudsen.attributeAnalyzer.view.panels.DateAttributeCharacteristicsPanel;
-import com.github.tknudsen.attributeAnalyzer.view.panels.NumericalContinuousAttributeCharacteristicsPanel;
-import com.github.tknudsen.attributeAnalyzer.view.panels.NumericalIntegerAttributeCharacteristicsPanel;
-import com.github.tknudsen.attributeAnalyzer.view.panels.NumericalLongAttributeCharacteristicsPanel;
 
 public class AttributeTypeSelectionView extends JPanel implements AttributeTypeAndParserDetector, ActionListener {
 
@@ -183,9 +172,6 @@ public class AttributeTypeSelectionView extends JPanel implements AttributeTypeA
 			Threads.sleep(100, 0);
 		}
 
-		// System.out.println("AttributeTypeSelectionView.getAttributeParserType:
-		// leaving while loop: ");
-
 		@SuppressWarnings("unchecked")
 		Class<T> c = (Class<T>) classType;
 		@SuppressWarnings("unchecked")
@@ -209,35 +195,12 @@ public class AttributeTypeSelectionView extends JPanel implements AttributeTypeA
 	protected void initializeAttributeCharacteristicsPanels() {
 		attributeCharacteristicsPanels = new ArrayList<>();
 
-		CategoricalAttributeCharacteristicsPanel categoricalPanel = new CategoricalAttributeCharacteristicsPanel(values,
-				new StringParser(), "");
-		categoricalPanel.addActionListener(this);
-		attributeCharacteristicsPanels.add(categoricalPanel);
+		LinkedHashMap<AttributeCharacteristicsPanel<?>, IObjectParser<?>> panelsAndParsers = AttributeTypeSelectionViews
+				.createPanelsWithParsers(values, this, false);
 
-		BooleanAttributeCharacteristicsPanel booleanPanel = new BooleanAttributeCharacteristicsPanel(values,
-				new BooleanParser());
-		booleanPanel.addActionListener(this);
-		attributeCharacteristicsPanels.add(booleanPanel);
+		for (AttributeCharacteristicsPanel<?> p : panelsAndParsers.keySet())
+			attributeCharacteristicsPanels.add(p);
 
-		DateAttributeCharacteristicsPanel datePanel = new DateAttributeCharacteristicsPanel(values, new DateParser());
-		datePanel.addActionListener(this);
-		attributeCharacteristicsPanels.add(datePanel);
-
-		NumericalIntegerAttributeCharacteristicsPanel numericalDiscretePanel = new NumericalIntegerAttributeCharacteristicsPanel(
-				values, new IntegerParser(), null);
-		numericalDiscretePanel.addActionListener(this);
-		attributeCharacteristicsPanels.add(numericalDiscretePanel);
-
-		NumericalLongAttributeCharacteristicsPanel numericalDiscreteLongPanel = new NumericalLongAttributeCharacteristicsPanel(
-				values, new LongParser(), null);
-		numericalDiscreteLongPanel.addActionListener(this);
-		attributeCharacteristicsPanels.add(numericalDiscreteLongPanel);
-
-		DoubleParser doubleParser = new DoubleParser(true);
-		NumericalContinuousAttributeCharacteristicsPanel numericalPanel = new NumericalContinuousAttributeCharacteristicsPanel(
-				values, doubleParser, Double.NaN);
-		numericalPanel.addActionListener(this);
-		attributeCharacteristicsPanels.add(numericalPanel);
 	}
 
 	public boolean isShowRawValues() {

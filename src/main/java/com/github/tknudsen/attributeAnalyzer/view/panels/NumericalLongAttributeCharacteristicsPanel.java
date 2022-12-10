@@ -12,7 +12,7 @@ import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IObjectPar
 import com.github.TKnudsen.ComplexDataObject.model.tools.StatisticsSupport;
 import com.github.TKnudsen.infoVis.view.panels.boxplot.BoxPlotHorizontalCartPanel;
 import com.github.TKnudsen.infoVis.view.panels.distribution1D.Distribution1DHorizontalPanel;
-import com.github.TKnudsen.infoVis.view.panels.distribution1D.Distribution1DHorizontalPanels;
+import com.github.TKnudsen.infoVis.view.panels.distribution1D.Distribution1DPanels;
 
 public class NumericalLongAttributeCharacteristicsPanel extends AttributeCharacteristicsPanel<Long> {
 
@@ -24,6 +24,11 @@ public class NumericalLongAttributeCharacteristicsPanel extends AttributeCharact
 	public NumericalLongAttributeCharacteristicsPanel(Collection<Object> values, IObjectParser<Long> parser,
 			Long missingValueIndicator) {
 		super(values, parser, missingValueIndicator);
+	}
+
+	public NumericalLongAttributeCharacteristicsPanel(Collection<Object> values, IObjectParser<Long> parser,
+			Long missingValueIndicator, boolean readOnly) {
+		super(values, parser, missingValueIndicator, readOnly);
 	}
 
 	@Override
@@ -46,8 +51,10 @@ public class NumericalLongAttributeCharacteristicsPanel extends AttributeCharact
 		for (Long i : getParsedValues())
 			values.add(i.doubleValue());
 
-		Distribution1DHorizontalPanel<Double> infoVisDistribution1DHorizontalPanel = Distribution1DHorizontalPanels
-				.createForDoubles(values);
+//		Distribution1DHorizontalPanel<Double> infoVisDistribution1DHorizontalPanel = Distribution1DHorizontalPanels
+//				.createForDoubles(values);
+		Distribution1DHorizontalPanel<Double> infoVisDistribution1DHorizontalPanel = (Distribution1DHorizontalPanel<Double>) Distribution1DPanels
+				.createForDoubles(values, false);
 		infoVisDistribution1DHorizontalPanel.setBackgroundColor(null);
 		contentPanel.add(infoVisDistribution1DHorizontalPanel);
 

@@ -25,6 +25,11 @@ public class BooleanAttributeCharacteristicsPanel extends AttributeCharacteristi
 		super(values, parser, null);
 	}
 
+	public BooleanAttributeCharacteristicsPanel(Collection<Object> values, IObjectParser<Boolean> parser,
+			boolean readOnly) {
+		super(values, parser, null, readOnly);
+	}
+
 	@Override
 	protected void addContentToValueDistributionPanel() {
 		Map<Boolean, Double> counts = new LinkedHashMap<>();

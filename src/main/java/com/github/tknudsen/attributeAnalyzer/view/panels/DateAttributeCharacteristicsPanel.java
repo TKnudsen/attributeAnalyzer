@@ -13,7 +13,7 @@ import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IObjectPar
 import com.github.TKnudsen.ComplexDataObject.model.tools.StatisticsSupport;
 import com.github.TKnudsen.infoVis.view.panels.boxplot.BoxPlotHorizontalCartPanel;
 import com.github.TKnudsen.infoVis.view.panels.distribution1D.Distribution1DHorizontalPanel;
-import com.github.TKnudsen.infoVis.view.panels.distribution1D.Distribution1DHorizontalPanels;
+import com.github.TKnudsen.infoVis.view.panels.distribution1D.Distribution1DPanels;
 
 public class DateAttributeCharacteristicsPanel extends AttributeCharacteristicsPanel<Date> {
 
@@ -24,6 +24,10 @@ public class DateAttributeCharacteristicsPanel extends AttributeCharacteristicsP
 
 	public DateAttributeCharacteristicsPanel(Collection<Object> values, IObjectParser<Date> parser) {
 		super(values, parser, null);
+	}
+
+	public DateAttributeCharacteristicsPanel(Collection<Object> values, IObjectParser<Date> parser, boolean readOnly) {
+		super(values, parser, null, readOnly);
 	}
 
 	@Override
@@ -46,8 +50,10 @@ public class DateAttributeCharacteristicsPanel extends AttributeCharacteristicsP
 		infoVisBoxPlotHorizontalPanel.setBackgroundColor(null);
 		contentPanel.add(infoVisBoxPlotHorizontalPanel);
 
-		Distribution1DHorizontalPanel<Double> infoVisDistribution1DHorizontalPanel = Distribution1DHorizontalPanels
-				.createForDoubles(values);
+//		Distribution1DHorizontalPanel<Double> infoVisDistribution1DHorizontalPanel = Distribution1DHorizontalPanels
+//				.createForDoubles(values);
+		Distribution1DHorizontalPanel<Double> infoVisDistribution1DHorizontalPanel = (Distribution1DHorizontalPanel<Double>) Distribution1DPanels
+				.createForDoubles(values, false);
 		infoVisDistribution1DHorizontalPanel.setBackgroundColor(null);
 		contentPanel.add(infoVisDistribution1DHorizontalPanel);
 

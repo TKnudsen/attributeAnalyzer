@@ -32,6 +32,7 @@ public abstract class AttributeCharacteristicsPanel<T> extends JPanel {
 
 	private IObjectParser<T> parser;
 	private T missingValueIndicator;
+	private boolean readOnly = false;
 
 	private double parseableRatio;
 
@@ -41,9 +42,15 @@ public abstract class AttributeCharacteristicsPanel<T> extends JPanel {
 	protected JPanel valueDistributionPanel;
 
 	public AttributeCharacteristicsPanel(Collection<Object> values, IObjectParser<T> parser, T missingValueIndicator) {
+		this(values, parser, missingValueIndicator, false);
+	}
+
+	public AttributeCharacteristicsPanel(Collection<Object> values, IObjectParser<T> parser, T missingValueIndicator,
+			boolean readOnly) {
 		this.values = values;
 		this.parser = parser;
 		this.missingValueIndicator = missingValueIndicator;
+		this.readOnly = readOnly;
 
 		parseValues();
 
@@ -118,24 +125,26 @@ public abstract class AttributeCharacteristicsPanel<T> extends JPanel {
 
 		addContentToValueDistributionPanel();
 
-		JButton acceptButton = new JButton("Accept");
-		valueDistributionPanel.add(acceptButton, BorderLayout.SOUTH);
+		if (!readOnly) {
+			JButton acceptButton = new JButton("Accept");
+			valueDistributionPanel.add(acceptButton, BorderLayout.SOUTH);
+
+			acceptButton.addActionListener(new ActionListener() {
+
+				@Override
+				public void actionPerformed(ActionEvent e) {
+					AttributeTypeDecisionActionEvent<T> actionEvent = new AttributeTypeDecisionActionEvent<T>(this,
+							e.getID(), getName(), getClassType(), parser);
+
+					System.out.println("Decision made for: " + getName());
+
+					for (ActionListener listener : listeners)
+						listener.actionPerformed(actionEvent);
+				}
+			});
+		}
 
 		add(valueDistributionPanel, BorderLayout.CENTER);
-
-		acceptButton.addActionListener(new ActionListener() {
-
-			@Override
-			public void actionPerformed(ActionEvent e) {
-				AttributeTypeDecisionActionEvent<T> actionEvent = new AttributeTypeDecisionActionEvent<T>(this,
-						e.getID(), getName(), getClassType(), parser);
-
-				System.out.println("Decision made for: " + getName());
-
-				for (ActionListener listener : listeners)
-					listener.actionPerformed(actionEvent);
-			}
-		});
 	}
 
 	protected final void parseValues() {

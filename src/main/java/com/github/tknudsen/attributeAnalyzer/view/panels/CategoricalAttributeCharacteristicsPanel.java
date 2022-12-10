@@ -26,6 +26,11 @@ public class CategoricalAttributeCharacteristicsPanel extends AttributeCharacter
 		super(values, parser, missingValueIndicator);
 	}
 
+	public CategoricalAttributeCharacteristicsPanel(Collection<Object> values, IObjectParser<String> parser,
+			String missingValueIndicator, boolean readOnly) {
+		super(values, parser, missingValueIndicator, readOnly);
+	}
+
 	@Override
 	protected void addContentToValueDistributionPanel() {
 		Map<String, Double> counts = new LinkedHashMap<>();
