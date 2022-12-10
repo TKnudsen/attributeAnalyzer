@@ -31,8 +31,8 @@ public class AttributeCharacterization {
 	 * @param tokens        outer list contains rows, inner list contains attributes
 	 * @param headlineCount number of headlines containing attribute names and to be
 	 *                      ignored for the interpretation task
-	 * @return
-	 * @throws IOException
+	 * @return list
+	 * @throws IOException e
 	 */
 	public static List<Entry<Class<Object>, IObjectParser<Object>>> interpreteData(List<List<String>> tokens,
 			int headlineCount) throws IOException {

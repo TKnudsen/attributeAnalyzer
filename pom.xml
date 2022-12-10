@@ -3,7 +3,7 @@
 
 	<groupId>com.github.tknudsen</groupId>
 	<artifactId>attribute-analyzer</artifactId>
-	<version>0.0.10.SNAPSHOT</version>
+	<version>0.0.10-SNAPSHOT</version>
 
 	<name>attributeAnalyzer</name>
 	<description>A library that helps parsing, analyzing, and interpreting data attributes (columns of data tables)</description>
