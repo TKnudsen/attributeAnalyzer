@@ -11,7 +11,7 @@ import javax.swing.JPanel;
 
 import com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IObjectParser;
 import com.github.TKnudsen.ComplexDataObject.model.tools.StatisticsSupport;
-import com.github.TKnudsen.infoVis.view.panels.boxplot.BoxPlotHorizontalCartPanel;
+import com.github.TKnudsen.infoVis.view.panels.boxplot.BoxPlotHorizontalChartPanel;
 import com.github.TKnudsen.infoVis.view.panels.distribution1D.Distribution1DHorizontalPanel;
 import com.github.TKnudsen.infoVis.view.panels.distribution1D.Distribution1DPanels;
 
@@ -46,7 +46,7 @@ public class DateAttributeCharacteristicsPanel extends AttributeCharacteristicsP
 		JPanel contentPanel = new JPanel();
 		contentPanel.setLayout(new GridLayout(2, 0));
 
-		BoxPlotHorizontalCartPanel infoVisBoxPlotHorizontalPanel = new BoxPlotHorizontalCartPanel(dataStatistics);
+		BoxPlotHorizontalChartPanel infoVisBoxPlotHorizontalPanel = new BoxPlotHorizontalChartPanel(dataStatistics);
 		infoVisBoxPlotHorizontalPanel.setBackgroundColor(null);
 		contentPanel.add(infoVisBoxPlotHorizontalPanel);
 
