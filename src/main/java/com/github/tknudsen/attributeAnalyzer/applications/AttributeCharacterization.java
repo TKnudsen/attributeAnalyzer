@@ -21,7 +21,7 @@ public class AttributeCharacterization {
 		Objects.requireNonNull(complexDataContainer);
 		Objects.requireNonNull(detector);
 
-		Collection<Object> values = complexDataContainer.getAttributeValues(attribute).values();
+		Collection<Object> values = complexDataContainer.getAttributeValueCollection(attribute);
 
 		return detector.getAttributeTypeAndParserType(values);
 	}
