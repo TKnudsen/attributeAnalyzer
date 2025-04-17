@@ -103,9 +103,18 @@ public class AttributeTypeSelectionView extends JPanel implements AttributeTypeA
 			valuesPanel.add(new JLabel("Raw Values"), BorderLayout.NORTH);
 
 			StringBuilder builder = new StringBuilder();
+			int length = 0;
 			for (Object o : values)
-				if (o != null)
+				if (o != null) {
 					builder.append((o.toString() + ", "));
+
+					length += (o.toString() + ", ").length();
+					if (length > 5000) {
+						System.out.println(this.getClass().getSimpleName()
+								+ ": stopped bringing more Raw Values data to screen after 5000 characters");
+						break;
+					}
+				}
 
 			JTextPane textPane = new JTextPane();
 			textPane.setText(builder.toString());

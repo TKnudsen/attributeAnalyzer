@@ -6,8 +6,8 @@ import java.util.List;
 import java.util.Map;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.github.TKnudsen.ComplexDataObject.model.io.FileUtils;
 import com.github.TKnudsen.ComplexDataObject.model.io.json.ObjectMapperFactory;
+import com.github.TKnudsen.ComplexDataObject.model.tools.FileUtils;
 
 /**
  * <p>
@@ -19,12 +19,12 @@ import com.github.TKnudsen.ComplexDataObject.model.io.json.ObjectMapperFactory;
  * </p>
  * 
  * <p>
- * Copyright: (c) 2016-2020 Juergen Bernard,
+ * Copyright: (c) 2016-2025 Juergen Bernard,
  * https://github.com/TKnudsen/AttributeAnalyzer
  * </p>
  * 
  * @author Juergen Bernard
- * @version 1.01
+ * @version 1.02
  */
 public class AttributeConfigIO {
 
@@ -47,6 +47,9 @@ public class AttributeConfigIO {
 	public static void saveStocksAttributeConfig(List<Map<String, Object>> attributesConfigs, String fileName) {
 
 		try {
+			File f = new File(FileUtils.createDirectoryNameString(fileName));
+			f.mkdirs();
+
 			mapper.writeValue(new File(fileName), attributesConfigs);
 		} catch (IOException e) {
 			e.printStackTrace();
