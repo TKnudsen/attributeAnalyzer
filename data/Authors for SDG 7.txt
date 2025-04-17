@@ -1,0 +1,100 @@
+RANKING FOR SDG 7SDG 7	Rank 1	Hilty, Lorenz M	Score: 10.373
+SDG 7	Rank 2	Hilty, Lorenz	Score: 9.473
+SDG 7	Rank 3	Zweifel, Peter	Score: 7.646
+SDG 7	Rank 4	Stiller, Burkhard	Score: 6.955
+SDG 7	Rank 5	H�mous, David	Score: 3.846
+SDG 7	Rank 6	Schiller, Eryk	Score: 3.818
+SDG 7	Rank 7	Meins, Erika	Score: 3.582
+SDG 7	Rank 8	Scaramuzza, Davide	Score: 3.573
+SDG 7	Rank 9	Chesney, Marc	Score: 3.1
+SDG 7	Rank 10	Krey, Boris	Score: 2.964
+SDG 7	Rank 11	Bieser, Jan C T	Score: 2.918
+SDG 7	Rank 12	Aghion, Philippe	Score: 2.918
+SDG 7	Rank 13	H�jer, Mattias	Score: 2.764
+SDG 7	Rank 14	Battiston, Stefano	Score: 2.755
+SDG 7	Rank 15	Coroama, Vlad C	Score: 2.618
+SDG 7	Rank 16	Ongena, Steven	Score: 2.596
+SDG 7	Rank 17	Acemoglu, Daron	Score: 2.318
+SDG 7	Rank 18	Bieser, Jan	Score: 2.218
+SDG 7	Rank 19	Lohmann, Wolfgang	Score: 2.209
+SDG 7	Rank 20	Kern, Eva	Score: 2.209
+SDG 7	Rank 21	Leippold, Markus	Score: 2.118
+SDG 7	Rank 22	Pohl, Johanna	Score: 2.036
+SDG 7	Rank 23	Hischier, Roland	Score: 1.991
+SDG 7	Rank 24	Madlener, Reinhard	Score: 1.982
+SDG 7	Rank 25	Vargas, Carlos	Score: 1.982
+SDG 7	Rank 26	Naumann, Stefan	Score: 1.909
+SDG 7	Rank 27	Guldner, Achim	Score: 1.909
+SDG 7	Rank 28	Barrage, Lint	Score: 1.809
+SDG 7	Rank 29	Puschmann, Thomas	Score: 1.791
+SDG 7	Rank 30	Schwabe, Gerhard	Score: 1.727
+SDG 7	Rank 31	Wagner, Alexander F	Score: 1.618
+SDG 7	Rank 32	Aebischer, Bernard	Score: 1.582
+SDG 7	Rank 33	Schmutzler, Armin	Score: 1.577
+SDG 7	Rank 34	Bornh�ft, Nikolaus A	Score: 1.509
+SDG 7	Rank 35	Monasterolo, Irene	Score: 1.509
+SDG 7	Rank 36	Ramelli, Stefano	Score: 1.509
+SDG 7	Rank 37	Kramers, Anna	Score: 1.482
+SDG 7	Rank 38	Kubler, Felix	Score: 1.464
+SDG 7	Rank 39	Pfeifer, Rolf	Score: 1.436
+SDG 7	Rank 40	Hausheer, David	Score: 1.409
+SDG 7	Rank 41	Santarius, Tilman	Score: 1.382
+SDG 7	Rank 42	Gr�ger, Jens	Score: 1.382
+SDG 7	Rank 43	Lange, Steffen	Score: 1.382
+SDG 7	Rank 44	Erdmann, Georg	Score: 1.355
+SDG 7	Rank 45	Kotlikoff, Laurence	Score: 1.309
+SDG 7	Rank 46	Polbin, Andrey	Score: 1.309
+SDG 7	Rank 47	Scheidegger, Simon	Score: 1.309
+SDG 7	Rank 48	Preist, Chris	Score: 1.282
+SDG 7	Rank 49	Neustadt, Ilja	Score: 1.255
+SDG 7	Rank 50	Hintemann, Ralph	Score: 1.182
+SDG 7	Rank 51	Hidalgo-Carrio, Javier	Score: 1.182
+SDG 7	Rank 52	Aerni, Philipp	Score: 1.164
+SDG 7	Rank 53	Seuken, Sven	Score: 1.155
+SDG 7	Rank 54	Casanova, Flurin	Score: 1.155
+SDG 7	Rank 55	Khoban, Roza	Score: 1.155
+SDG 7	Rank 56	Vu Quy, Hung	Score: 1.155
+SDG 7	Rank 57	Shann, Michael	Score: 1.155
+SDG 7	Rank 58	Cioffi, Giovanni	Score: 1.155
+SDG 7	Rank 59	Salvi, Marco	Score: 1.155
+SDG 7	Rank 60	Filler, Andreas	Score: 1.155
+SDG 7	Rank 61	Behrendt, Siegfried	Score: 1.155
+SDG 7	Rank 62	Evers-W�lk, Michaela	Score: 1.155
+SDG 7	Rank 63	Fichter, Klaus	Score: 1.155
+SDG 7	Rank 64	Aryananda, Lijin	Score: 1.155
+SDG 7	Rank 65	Sheikh, Farrukh Iqbal	Score: 1.155
+SDG 7	Rank 66	Wagner, Alexander	Score: 1.136
+SDG 7	Rank 67	Scherer, Andreas Georg	Score: 1.109
+SDG 7	Rank 68	Paetzold, Falko	Score: 1.091
+SDG 7	Rank 69	Ferreboeuf, Hugues	Score: 1.082
+SDG 7	Rank 70	Bocek, Thomas	Score: 1.082
+SDG 7	Rank 71	Scherer, Andreas	Score: 1.064
+SDG 7	Rank 72	Schien, Daniel	Score: 1.055
+SDG 7	Rank 73	et al	Score: 1.036
+SDG 7	Rank 74	Ho�feld, Tobias	Score: 0.982
+SDG 7	Rank 75	Busch, Timo	Score: 0.964
+SDG 7	Rank 76	Vaddadi, Bhavana	Score: 0.955
+SDG 7	Rank 77	Surbeck, Timo	Score: 0.955
+SDG 7	Rank 78	Rafati Niya, Sina	Score: 0.955
+SDG 7	Rank 79	Filippini, Massimo	Score: 0.955
+SDG 7	Rank 80	Ziegler, Andreas	Score: 0.936
+SDG 7	Rank 81	Huang, Elaine May	Score: 0.918
+SDG 7	Rank 82	Heeb, Florian	Score: 0.909
+SDG 7	Rank 83	Miyashita, Shuhei	Score: 0.909
+SDG 7	Rank 84	Papafili, Ioanna	Score: 0.882
+SDG 7	Rank 85	Feige, Annika	Score: 0.855
+SDG 7	Rank 86	Koziolek, Anne	Score: 0.855
+SDG 7	Rank 87	Schneider, Yves	Score: 0.855
+SDG 7	Rank 88	Dencik, Lina	Score: 0.855
+SDG 7	Rank 89	Kleine, Dorothea	Score: 0.855
+SDG 7	Rank 90	Ryghaug, Marianne	Score: 0.855
+SDG 7	Rank 91	Schwanen, Tim	Score: 0.855
+SDG 7	Rank 92	Staab, Philipp	Score: 0.855
+SDG 7	Rank 93	Diez, Tomas	Score: 0.855
+SDG 7	Rank 94	Hankey, Stephanie	Score: 0.855
+SDG 7	Rank 95	Hilbeck, Angelika	Score: 0.855
+SDG 7	Rank 96	Bonomo, Susanne	Score: 0.855
+SDG 7	Rank 97	Wajda, Krzysztof	Score: 0.855
+SDG 7	Rank 98	Lalive, Rafael	Score: 0.841
+SDG 7	Rank 99	Zea Escamilla, Edwin	Score: 0.836
+SDG 7	Rank 100	Sachs, Jeffrey	Score: 0.827

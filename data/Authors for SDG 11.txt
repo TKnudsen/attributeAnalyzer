@@ -1,0 +1,100 @@
+RANKING FOR SDG 11SDG 11	Rank 1	Schwabe, Gerhard	Score: 14.851
+SDG 11	Rank 2	Scaramuzza, Davide	Score: 14.692
+SDG 11	Rank 3	Stiller, Burkhard	Score: 9.382
+SDG 11	Rank 4	Hilty, Lorenz	Score: 9.237
+SDG 11	Rank 5	Frey, Bruno S	Score: 8.887
+SDG 11	Rank 6	Hilty, Lorenz M	Score: 7.105
+SDG 11	Rank 7	Ongena, Steven	Score: 6.996
+SDG 11	Rank 8	Bernstein, Abraham	Score: 6.701
+SDG 11	Rank 9	Fehr, Ernst	Score: 6.514
+SDG 11	Rank 10	Meins, Erika	Score: 6.437
+SDG 11	Rank 11	Scherer, Andreas Georg	Score: 5.391
+SDG 11	Rank 12	Schmutzler, Armin	Score: 4.823
+SDG 11	Rank 13	Pajarola, R	Score: 4.696
+SDG 11	Rank 14	Zilibotti, Fabrizio	Score: 3.928
+SDG 11	Rank 15	Zavolokina, Liudmila	Score: 3.927
+SDG 11	Rank 16	Schiller, Eryk	Score: 3.864
+SDG 11	Rank 17	Battiston, Stefano	Score: 3.541
+SDG 11	Rank 18	Weber, Roberto A	Score: 3.523
+SDG 11	Rank 19	Davidov, Eldad	Score: 3.523
+SDG 11	Rank 20	Fedosov, Anton	Score: 3.446
+SDG 11	Rank 21	Seyff, Norbert	Score: 3.309
+SDG 11	Rank 22	Gamper, Johann	Score: 3.305
+SDG 11	Rank 23	Dolata, Mateusz	Score: 3.291
+SDG 11	Rank 24	Huang, Elaine May	Score: 3.277
+SDG 11	Rank 25	Backes-Gellner, Uschi	Score: 3.146
+SDG 11	Rank 26	Cieciuch, Jan	Score: 3.041
+SDG 11	Rank 27	Lalive, Rafael	Score: 3.009
+SDG 11	Rank 28	Scherer, A G	Score: 2.887
+SDG 11	Rank 29	Aerni, Philipp	Score: 2.773
+SDG 11	Rank 30	Baumann-Pauly, Dorothee	Score: 2.7
+SDG 11	Rank 31	Pycia, Marek	Score: 2.637
+SDG 11	Rank 32	Chesney, Marc	Score: 2.632
+SDG 11	Rank 33	Algesheimer, Ren�	Score: 2.573
+SDG 11	Rank 34	Zea Escamilla, Edwin	Score: 2.564
+SDG 11	Rank 35	Schenker-Wicki, Andrea	Score: 2.537
+SDG 11	Rank 36	Natter, Martin	Score: 2.482
+SDG 11	Rank 37	Palazzo, Guido	Score: 2.455
+SDG 11	Rank 38	Seidl, David	Score: 2.446
+SDG 11	Rank 39	Bartling, Bj�rn	Score: 2.446
+SDG 11	Rank 40	Rochet, Jean-Charles	Score: 2.432
+SDG 11	Rank 41	Steiner, Lasse	Score: 2.423
+SDG 11	Rank 42	Rossetto, Luca	Score: 2.391
+SDG 11	Rank 43	Palazzo, G	Score: 2.35
+SDG 11	Rank 44	Zweim�ller, Josef	Score: 2.337
+SDG 11	Rank 45	B�hlen, Michael	Score: 2.327
+SDG 11	Rank 46	Pfeifer, Rolf	Score: 2.309
+SDG 11	Rank 47	Stiller, B	Score: 2.296
+SDG 11	Rank 48	Schenk, Birgit	Score: 2.273
+SDG 11	Rank 49	Osterloh, Margit	Score: 2.25
+SDG 11	Rank 50	Giesbrecht, Tobias	Score: 2.246
+SDG 11	Rank 51	Dietl, Helmut	Score: 2.218
+SDG 11	Rank 52	Remy, Christian	Score: 2.191
+SDG 11	Rank 53	Zweifel, Peter	Score: 2.146
+SDG 11	Rank 54	Loquercio, Antonio	Score: 2.118
+SDG 11	Rank 55	Goeree, Jacob K	Score: 2.114
+SDG 11	Rank 56	Paetzold, Falko	Score: 2.096
+SDG 11	Rank 57	Hoffmann, Mathias	Score: 2.064
+SDG 11	Rank 58	Hummel, Katrin	Score: 2.055
+SDG 11	Rank 59	Mader, Clemens	Score: 2.046
+SDG 11	Rank 60	Falkinger, Josef	Score: 2.037
+SDG 11	Rank 61	Pamini, Paolo	Score: 1.991
+SDG 11	Rank 62	Schmidt, Peter	Score: 1.987
+SDG 11	Rank 63	Braun, Torsten	Score: 1.982
+SDG 11	Rank 64	Dorn, David	Score: 1.973
+SDG 11	Rank 65	Sachs, Sybille	Score: 1.973
+SDG 11	Rank 66	Voegtlin, Christian	Score: 1.946
+SDG 11	Rank 67	Burkhard, Hans-Peter	Score: 1.936
+SDG 11	Rank 68	Bovet, G�r�me	Score: 1.927
+SDG 11	Rank 69	St�ckli, Sabrina	Score: 1.918
+SDG 11	Rank 70	Stutzer, Alois	Score: 1.918
+SDG 11	Rank 71	Al�s-Ferrer, Carlos	Score: 1.918
+SDG 11	Rank 72	Franck, E	Score: 1.909
+SDG 11	Rank 73	Leippold, Markus	Score: 1.909
+SDG 11	Rank 74	Glinz, Martin	Score: 1.873
+SDG 11	Rank 75	H�jer, Mattias	Score: 1.864
+SDG 11	Rank 76	Bieser, Jan C T	Score: 1.818
+SDG 11	Rank 77	Tessone, Claudio	Score: 1.8
+SDG 11	Rank 78	Delmerico, Jeffrey	Score: 1.791
+SDG 11	Rank 79	Pajarola, Renato	Score: 1.782
+SDG 11	Rank 80	B�hlen, Michael Hanspeter	Score: 1.746
+SDG 11	Rank 81	Nakajima, Kohei	Score: 1.746
+SDG 11	Rank 82	Nowack, Bernd	Score: 1.736
+SDG 11	Rank 83	Huertas Celdran, Alberto	Score: 1.727
+SDG 11	Rank 84	Schneider, Anselm	Score: 1.691
+SDG 11	Rank 85	Habert, Guillaume	Score: 1.682
+SDG 11	Rank 86	Keil, Thomas	Score: 1.646
+SDG 11	Rank 87	Schuldt, Heiko	Score: 1.646
+SDG 11	Rank 88	Huang, Elaine M	Score: 1.609
+SDG 11	Rank 89	Storesletten, Kjetil	Score: 1.6
+SDG 11	Rank 90	Mura, Claudio	Score: 1.591
+SDG 11	Rank 91	Tanner, Carmen	Score: 1.582
+SDG 11	Rank 92	Pouri, Maria J	Score: 1.582
+SDG 11	Rank 93	Kubler, Felix	Score: 1.577
+SDG 11	Rank 94	Fischbacher, Urs	Score: 1.555
+SDG 11	Rank 95	Kaufmann, Elia	Score: 1.518
+SDG 11	Rank 96	M�ggler, Elias	Score: 1.505
+SDG 11	Rank 97	Miscione, Gianluca	Score: 1.473
+SDG 11	Rank 98	Monasterolo, Irene	Score: 1.464
+SDG 11	Rank 99	Wallbaum, Holger	Score: 1.455
+SDG 11	Rank 100	Busch, Timo	Score: 1.441

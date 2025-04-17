@@ -1,0 +1,100 @@
+RANKING FOR SDG 9SDG 9	Rank 1	Scaramuzza, Davide	Score: 58.665
+SDG 9	Rank 2	Stiller, Burkhard	Score: 47.088
+SDG 9	Rank 3	Ongena, Steven	Score: 45.093
+SDG 9	Rank 4	Schwabe, Gerhard	Score: 44.661
+SDG 9	Rank 5	Bernstein, Abraham	Score: 31.651
+SDG 9	Rank 6	Backes-Gellner, Uschi	Score: 27.878
+SDG 9	Rank 7	Battiston, Stefano	Score: 25.055
+SDG 9	Rank 8	Fehr, Ernst	Score: 24.31
+SDG 9	Rank 9	Bacchelli, Alberto	Score: 20.073
+SDG 9	Rank 10	Schmutzler, Armin	Score: 19.669
+SDG 9	Rank 11	Frey, Bruno S	Score: 18.651
+SDG 9	Rank 12	Pajarola, R	Score: 16.555
+SDG 9	Rank 13	Zilibotti, Fabrizio	Score: 16.401
+SDG 9	Rank 14	Schiller, Eryk	Score: 16.1
+SDG 9	Rank 15	Hens, Thorsten	Score: 15.301
+SDG 9	Rank 16	Gall, Harald C	Score: 14.6
+SDG 9	Rank 17	Rossetto, Luca	Score: 13.801
+SDG 9	Rank 18	Keil, Thomas	Score: 12.991
+SDG 9	Rank 19	Seidl, David	Score: 12.682
+SDG 9	Rank 20	Huertas Celdran, Alberto	Score: 12.637
+SDG 9	Rank 21	Glinz, Martin	Score: 12.564
+SDG 9	Rank 22	Stiller, B	Score: 12.255
+SDG 9	Rank 23	Dolata, Mateusz	Score: 11.81
+SDG 9	Rank 24	Hilty, Lorenz	Score: 11.764
+SDG 9	Rank 25	Al�s-Ferrer, Carlos	Score: 11.455
+SDG 9	Rank 26	Wolf, Michael	Score: 11.332
+SDG 9	Rank 27	Rochet, Jean-Charles	Score: 11.091
+SDG 9	Rank 28	Schenker-Wicki, Andrea	Score: 10.946
+SDG 9	Rank 29	Zweim�ller, Josef	Score: 10.91
+SDG 9	Rank 30	Natter, Martin	Score: 10.728
+SDG 9	Rank 31	Pfeifer, Rolf	Score: 10.591
+SDG 9	Rank 32	Hilty, Lorenz M	Score: 10.573
+SDG 9	Rank 33	Bovet, G�r�me	Score: 10.568
+SDG 9	Rank 34	Osterloh, Margit	Score: 10.409
+SDG 9	Rank 35	Hoffmann, Mathias	Score: 10.032
+SDG 9	Rank 36	Seyff, Norbert	Score: 9.882
+SDG 9	Rank 37	Leippold, Markus	Score: 9.491
+SDG 9	Rank 38	Fritz, Thomas	Score: 9.228
+SDG 9	Rank 39	Pajarola, Renato	Score: 9.1
+SDG 9	Rank 40	Zavolokina, Liudmila	Score: 8.964
+SDG 9	Rank 41	Kubler, Felix	Score: 8.669
+SDG 9	Rank 42	Bernstein, A	Score: 8.546
+SDG 9	Rank 43	Ruff, Christian C	Score: 8.537
+SDG 9	Rank 44	Dorn, David	Score: 8.509
+SDG 9	Rank 45	Panichella, Sebastiano	Score: 8.427
+SDG 9	Rank 46	B�hlen, Michael Hanspeter	Score: 8.337
+SDG 9	Rank 47	Palomba, Fabio	Score: 8.282
+SDG 9	Rank 48	Pycia, Marek	Score: 8.246
+SDG 9	Rank 49	Scherer, Andreas Georg	Score: 8.146
+SDG 9	Rank 50	Zweifel, Peter	Score: 8.132
+SDG 9	Rank 51	Gallego, Guillermo	Score: 7.8
+SDG 9	Rank 52	Schmedders, Karl	Score: 7.787
+SDG 9	Rank 53	Goeree, Jacob K	Score: 7.673
+SDG 9	Rank 54	Caldarelli, Guido	Score: 7.673
+SDG 9	Rank 55	Braun, Torsten	Score: 7.518
+SDG 9	Rank 56	Bernard, J�rgen	Score: 7.209
+SDG 9	Rank 57	Friston, K J	Score: 7.027
+SDG 9	Rank 58	Schuldt, Heiko	Score: 6.982
+SDG 9	Rank 59	Gall, H C	Score: 6.946
+SDG 9	Rank 60	Weber, Roberto A	Score: 6.905
+SDG 9	Rank 61	B�hlen, Michael	Score: 6.891
+SDG 9	Rank 62	Acemoglu, Daron	Score: 6.746
+SDG 9	Rank 63	Ledoit, Olivier	Score: 6.746
+SDG 9	Rank 64	Beck, Mathias	Score: 6.682
+SDG 9	Rank 65	Falkinger, Josef	Score: 6.677
+SDG 9	Rank 66	Gall, Harald	Score: 6.627
+SDG 9	Rank 67	P�rez, Gregorio Mart�nez	Score: 6.518
+SDG 9	Rank 68	Nakajima, Kohei	Score: 6.491
+SDG 9	Rank 69	Lalive, Rafael	Score: 6.237
+SDG 9	Rank 70	Bartling, Bj�rn	Score: 6.228
+SDG 9	Rank 71	Algesheimer, Ren�	Score: 6.173
+SDG 9	Rank 72	Dietl, Helmut	Score: 6.109
+SDG 9	Rank 73	Scherer, A G	Score: 6.091
+SDG 9	Rank 74	Lang, Markus	Score: 6.073
+SDG 9	Rank 75	Bocek, Thomas	Score: 6.064
+SDG 9	Rank 76	Schulze, Anja	Score: 6.055
+SDG 9	Rank 77	Stephan, K E	Score: 5.955
+SDG 9	Rank 78	Gamper, Johann	Score: 5.923
+SDG 9	Rank 79	Kaiser, Ulrich	Score: 5.909
+SDG 9	Rank 80	Farkas, Walter	Score: 5.868
+SDG 9	Rank 81	Gehrig, Daniel	Score: 5.841
+SDG 9	Rank 82	Chesney, Marc	Score: 5.828
+SDG 9	Rank 83	Nyborg, Kjell G	Score: 5.827
+SDG 9	Rank 84	Hausheer, D	Score: 5.791
+SDG 9	Rank 85	Franck, E	Score: 5.755
+SDG 9	Rank 86	Seuken, Sven	Score: 5.691
+SDG 9	Rank 87	Rebecq, Henri	Score: 5.691
+SDG 9	Rank 88	Gersbach, Hans	Score: 5.559
+SDG 9	Rank 89	Buehler, Stefan	Score: 5.546
+SDG 9	Rank 90	Richter, Alexander	Score: 5.509
+SDG 9	Rank 91	S�nchez S�nchez, Pedro Miguel	Score: 5.464
+SDG 9	Rank 92	Tessone, Claudio	Score: 5.45
+SDG 9	Rank 93	Meins, Erika	Score: 5.409
+SDG 9	Rank 94	Waldburger, Martin	Score: 5.409
+SDG 9	Rank 95	Winkelmann, Rainer	Score: 5.391
+SDG 9	Rank 96	Kaufmann, Elia	Score: 5.368
+SDG 9	Rank 97	Loquercio, Antonio	Score: 5.337
+SDG 9	Rank 98	Aghion, Philippe	Score: 5.318
+SDG 9	Rank 99	Rodrigues, Bruno	Score: 5.264
+SDG 9	Rank 100	Puschmann, Thomas	Score: 5.227

@@ -1,0 +1,100 @@
+RANKING FOR SDG 2SDG 2	Rank 1	St�ckli, Sabrina	Score: 3.246
+SDG 2	Rank 2	Hare, Todd A	Score: 2.691
+SDG 2	Rank 3	Ongena, Steven	Score: 2.237
+SDG 2	Rank 4	Woitek, Ulrich	Score: 1.927
+SDG 2	Rank 5	Aerni, Philipp	Score: 1.891
+SDG 2	Rank 6	Dorn, Michael	Score: 1.682
+SDG 2	Rank 7	Yanagizawa-Drott, David	Score: 1.664
+SDG 2	Rank 8	Svensson, Jakob	Score: 1.609
+SDG 2	Rank 9	Hilty, Lorenz	Score: 1.537
+SDG 2	Rank 10	Casaburi, Lorenzo	Score: 1.391
+SDG 2	Rank 11	Chesney, Marc	Score: 1.318
+SDG 2	Rank 12	Zilibotti, Fabrizio	Score: 1.209
+SDG 2	Rank 13	Willis, Jack	Score: 1.182
+SDG 2	Rank 14	Floris, Jo�l	Score: 1.155
+SDG 2	Rank 15	Fehr, Ernst	Score: 1.091
+SDG 2	Rank 16	Caprettini, Bruno	Score: 1.064
+SDG 2	Rank 17	Balietti, Anca	Score: 1.055
+SDG 2	Rank 18	Vargas, Carlos	Score: 1.055
+SDG 2	Rank 19	Zweim�ller, Josef	Score: 1.027
+SDG 2	Rank 20	Schmidt, Liane	Score: 0.982
+SDG 2	Rank 21	Ponticelli, Jacopo	Score: 0.955
+SDG 2	Rank 22	Huss, Matthias	Score: 0.955
+SDG 2	Rank 23	Hare, Todd	Score: 0.955
+SDG 2	Rank 24	Bustos, Paula	Score: 0.955
+SDG 2	Rank 25	Battiston, Stefano	Score: 0.937
+SDG 2	Rank 26	Natter, Martin	Score: 0.936
+SDG 2	Rank 27	Dorn, David	Score: 0.882
+SDG 2	Rank 28	Scherer, Andreas Georg	Score: 0.864
+SDG 2	Rank 29	Merian, Sybilla	Score: 0.855
+SDG 2	Rank 30	Hilty, Lorenz M	Score: 0.855
+SDG 2	Rank 31	Sonnino, Andrea	Score: 0.827
+SDG 2	Rank 32	Nichterlein, Karin	Score: 0.827
+SDG 2	Rank 33	Brander, Micheal	Score: 0.827
+SDG 2	Rank 34	Rudgard, Stephen	Score: 0.827
+SDG 2	Rank 35	Bernauer, Thomas	Score: 0.827
+SDG 2	Rank 36	Zweifel, Peter	Score: 0.764
+SDG 2	Rank 37	Frey, Bruno S	Score: 0.755
+SDG 2	Rank 38	Rangel, Antonio	Score: 0.755
+SDG 2	Rank 39	Preissl, Hubert	Score: 0.755
+SDG 2	Rank 40	Smeets, Paul A M	Score: 0.755
+SDG 2	Rank 41	Kuster, Marius	Score: 0.727
+SDG 2	Rank 42	Bold, Tessa	Score: 0.727
+SDG 2	Rank 43	Kaizzi, Kayuki C	Score: 0.727
+SDG 2	Rank 44	Mader, Clemens	Score: 0.691
+SDG 2	Rank 45	Rueff, Henri	Score: 0.627
+SDG 2	Rank 46	Niklaus, Eva	Score: 0.627
+SDG 2	Rank 47	Gaudioso, Antonio	Score: 0.627
+SDG 2	Rank 48	Capri, Ettore	Score: 0.627
+SDG 2	Rank 49	De Vivo, Romano	Score: 0.627
+SDG 2	Rank 50	Menza, Gianpiero	Score: 0.627
+SDG 2	Rank 51	Marchis, Alexandru	Score: 0.627
+SDG 2	Rank 52	Voth, Hans-Joachim	Score: 0.618
+SDG 2	Rank 53	Tanner, Carmen	Score: 0.609
+SDG 2	Rank 54	Zea Escamilla, Edwin	Score: 0.609
+SDG 2	Rank 55	Fedosov, Anton	Score: 0.591
+SDG 2	Rank 56	Autor, David	Score: 0.564
+SDG 2	Rank 57	Volk, E	Score: 0.555
+SDG 2	Rank 58	Waldburger, M	Score: 0.555
+SDG 2	Rank 59	Racz, P	Score: 0.555
+SDG 2	Rank 60	Lepot, Simon	Score: 0.555
+SDG 2	Rank 61	Jacob, A	Score: 0.555
+SDG 2	Rank 62	Reisch, Lucia A	Score: 0.555
+SDG 2	Rank 63	Le Moigne, Mathilde	Score: 0.555
+SDG 2	Rank 64	Fu, Jonathan	Score: 0.536
+SDG 2	Rank 65	Boneva, Teodora	Score: 0.536
+SDG 2	Rank 66	Rauh, Christopher	Score: 0.536
+SDG 2	Rank 67	Hutcherson, Cendri	Score: 0.527
+SDG 2	Rank 68	Manoharan, Nicolas	Score: 0.527
+SDG 2	Rank 69	Leupelt, Verena	Score: 0.527
+SDG 2	Rank 70	Hackmack, Kerstin	Score: 0.527
+SDG 2	Rank 71	Rothemund, Yvonne	Score: 0.527
+SDG 2	Rank 72	Mai, Knut	Score: 0.527
+SDG 2	Rank 73	O'Sullivan, Kevin	Score: 0.527
+SDG 2	Rank 74	Tiefenbeck, Verena	Score: 0.527
+SDG 2	Rank 75	Beretta, Claudio	Score: 0.527
+SDG 2	Rank 76	Bracher, Annelies	Score: 0.527
+SDG 2	Rank 77	Cafagna, Francesco	Score: 0.527
+SDG 2	Rank 78	Haynes, John-Dylan	Score: 0.527
+SDG 2	Rank 79	Kahnt, Thorsten	Score: 0.527
+SDG 2	Rank 80	M�ller, Nadina	Score: 0.527
+SDG 2	Rank 81	Dommes, Esther	Score: 0.527
+SDG 2	Rank 82	Weygandt, Martin	Score: 0.527
+SDG 2	Rank 83	Tusche, Anita	Score: 0.527
+SDG 2	Rank 84	Falkinger, Josef	Score: 0.527
+SDG 2	Rank 85	Fleisch, Elgar	Score: 0.527
+SDG 2	Rank 86	Plassmann, Hilke	Score: 0.527
+SDG 2	Rank 87	St�mpfli, Aline E	Score: 0.527
+SDG 2	Rank 88	Brunner, Thomas A	Score: 0.527
+SDG 2	Rank 89	Spranger, Joachim	Score: 0.527
+SDG 2	Rank 90	Taliun, Andrej	Score: 0.527
+SDG 2	Rank 91	Messner, Claude	Score: 0.527
+SDG 2	Rank 92	B�hlen, Michael	Score: 0.527
+SDG 2	Rank 93	Schwabe, Gerhard	Score: 0.518
+SDG 2	Rank 94	Golin, Marta	Score: 0.509
+SDG 2	Rank 95	Schwandt, Hannes	Score: 0.491
+SDG 2	Rank 96	Monasterolo, Irene	Score: 0.482
+SDG 2	Rank 97	Paetzold, Falko	Score: 0.464
+SDG 2	Rank 98	Scherer, A G	Score: 0.464
+SDG 2	Rank 99	Maier, Silvia U	Score: 0.455
+SDG 2	Rank 100	Fossati, Philippe	Score: 0.455

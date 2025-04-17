@@ -1,0 +1,100 @@
+RANKING FOR SDG 17SDG 17	Rank 1	Schwabe, Gerhard	Score: 21.201
+SDG 17	Rank 2	Ongena, Steven	Score: 16.401
+SDG 17	Rank 3	Frey, Bruno S	Score: 12.569
+SDG 17	Rank 4	Stiller, Burkhard	Score: 11.773
+SDG 17	Rank 5	Bernstein, Abraham	Score: 10.337
+SDG 17	Rank 6	Scaramuzza, Davide	Score: 10.219
+SDG 17	Rank 7	Fehr, Ernst	Score: 9.092
+SDG 17	Rank 8	Battiston, Stefano	Score: 8.855
+SDG 17	Rank 9	Scherer, Andreas Georg	Score: 8.496
+SDG 17	Rank 10	Zilibotti, Fabrizio	Score: 7.864
+SDG 17	Rank 11	Zavolokina, Liudmila	Score: 7.409
+SDG 17	Rank 12	Seidl, David	Score: 6.087
+SDG 17	Rank 13	Backes-Gellner, Uschi	Score: 5.819
+SDG 17	Rank 14	Scherer, A G	Score: 5.214
+SDG 17	Rank 15	Hilty, Lorenz	Score: 5.159
+SDG 17	Rank 16	Schenker-Wicki, Andrea	Score: 4.9
+SDG 17	Rank 17	Davidov, Eldad	Score: 4.728
+SDG 17	Rank 18	Hilty, Lorenz M	Score: 4.687
+SDG 17	Rank 19	Weber, Roberto A	Score: 4.373
+SDG 17	Rank 20	Palazzo, G	Score: 4.35
+SDG 17	Rank 21	Dolata, Mateusz	Score: 4.278
+SDG 17	Rank 22	Osterloh, Margit	Score: 4.114
+SDG 17	Rank 23	Stutzer, Alois	Score: 4.109
+SDG 17	Rank 24	Ziolkowski, Rafael	Score: 4.077
+SDG 17	Rank 25	Miscione, Gianluca	Score: 3.95
+SDG 17	Rank 26	Cieciuch, Jan	Score: 3.873
+SDG 17	Rank 27	Palazzo, Guido	Score: 3.727
+SDG 17	Rank 28	Zweim�ller, Josef	Score: 3.637
+SDG 17	Rank 29	Al�s-Ferrer, Carlos	Score: 3.564
+SDG 17	Rank 30	Mader, Clemens	Score: 3.546
+SDG 17	Rank 31	Bovet, G�r�me	Score: 3.541
+SDG 17	Rank 32	Beck, Mathias	Score: 3.455
+SDG 17	Rank 33	Algesheimer, Ren�	Score: 3.327
+SDG 17	Rank 34	Voegtlin, Christian	Score: 3.327
+SDG 17	Rank 35	Schmidt, Peter	Score: 3.273
+SDG 17	Rank 36	Leippold, Markus	Score: 3.255
+SDG 17	Rank 37	Keil, Thomas	Score: 3.2
+SDG 17	Rank 38	Baumann-Pauly, Dorothee	Score: 3.173
+SDG 17	Rank 39	Wagner, Alexander	Score: 3.118
+SDG 17	Rank 40	Stiller, B	Score: 3.087
+SDG 17	Rank 41	Ossa, Ralph	Score: 3.037
+SDG 17	Rank 42	Hummel, Katrin	Score: 3.027
+SDG 17	Rank 43	Rochet, Jean-Charles	Score: 2.968
+SDG 17	Rank 44	Sachs, Sybille	Score: 2.927
+SDG 17	Rank 45	Storesletten, Kjetil	Score: 2.909
+SDG 17	Rank 46	Hoffmann, Mathias	Score: 2.873
+SDG 17	Rank 47	Rossetto, Luca	Score: 2.809
+SDG 17	Rank 48	Chesney, Marc	Score: 2.8
+SDG 17	Rank 49	Fedosov, Anton	Score: 2.746
+SDG 17	Rank 50	Huertas Celdran, Alberto	Score: 2.737
+SDG 17	Rank 51	Seyff, Norbert	Score: 2.709
+SDG 17	Rank 52	Caldarelli, Guido	Score: 2.709
+SDG 17	Rank 53	Falkinger, Josef	Score: 2.659
+SDG 17	Rank 54	Puschmann, Thomas	Score: 2.573
+SDG 17	Rank 55	Schmutzler, Armin	Score: 2.564
+SDG 17	Rank 56	Paetzold, Falko	Score: 2.546
+SDG 17	Rank 57	Scherer, Andreas	Score: 2.546
+SDG 17	Rank 58	Kubler, Felix	Score: 2.537
+SDG 17	Rank 59	Bartling, Bj�rn	Score: 2.537
+SDG 17	Rank 60	Hu, Daning	Score: 2.527
+SDG 17	Rank 61	Tobler, Philippe N	Score: 2.418
+SDG 17	Rank 62	Glinz, Martin	Score: 2.391
+SDG 17	Rank 63	Bacchelli, Alberto	Score: 2.373
+SDG 17	Rank 64	Rohner, Dominic	Score: 2.282
+SDG 17	Rank 65	Aerni, Philipp	Score: 2.246
+SDG 17	Rank 66	Tanner, Carmen	Score: 2.237
+SDG 17	Rank 67	Meins, Erika	Score: 2.2
+SDG 17	Rank 68	Zweifel, Peter	Score: 2.182
+SDG 17	Rank 69	Schneider, Anselm	Score: 2.118
+SDG 17	Rank 70	Mart�nez P�rez, Gregorio	Score: 2.1
+SDG 17	Rank 71	Acemoglu, Daron	Score: 2.1
+SDG 17	Rank 72	Pomeranz, Dina	Score: 2.087
+SDG 17	Rank 73	S�nchez S�nchez, Pedro Miguel	Score: 2.073
+SDG 17	Rank 74	Busch, Timo	Score: 2.068
+SDG 17	Rank 75	Hens, Thorsten	Score: 2.037
+SDG 17	Rank 76	Fritz, Thomas	Score: 2.018
+SDG 17	Rank 77	Schiller, Eryk	Score: 1.973
+SDG 17	Rank 78	Dorn, David	Score: 1.973
+SDG 17	Rank 79	Mariani, Manuel	Score: 1.964
+SDG 17	Rank 80	Wagner, Alexander F	Score: 1.932
+SDG 17	Rank 81	et al	Score: 1.927
+SDG 17	Rank 82	Ruff, Christian C	Score: 1.918
+SDG 17	Rank 83	Schmedders, Karl	Score: 1.9
+SDG 17	Rank 84	Sarasua, Cristina	Score: 1.891
+SDG 17	Rank 85	Mar�chal, Michel Andr�	Score: 1.873
+SDG 17	Rank 86	H�jer, Mattias	Score: 1.864
+SDG 17	Rank 87	Tessone, Claudio	Score: 1.855
+SDG 17	Rank 88	Fischbacher, Urs	Score: 1.846
+SDG 17	Rank 89	Christen, Markus	Score: 1.846
+SDG 17	Rank 90	St�ckli, Sabrina	Score: 1.827
+SDG 17	Rank 91	Tolmeijer, Suzanne	Score: 1.809
+SDG 17	Rank 92	Schwartz, Shalom H	Score: 1.809
+SDG 17	Rank 93	Kaiser, Ulrich	Score: 1.805
+SDG 17	Rank 94	Rodrigues, Bruno	Score: 1.8
+SDG 17	Rank 95	Feldman, Michael	Score: 1.791
+SDG 17	Rank 96	Pycia, Marek	Score: 1.755
+SDG 17	Rank 97	Briggs, Robert O	Score: 1.736
+SDG 17	Rank 98	Bernard, J�rgen	Score: 1.732
+SDG 17	Rank 99	Scheidegger, Simon	Score: 1.718
+SDG 17	Rank 100	Gancia, Gino	Score: 1.691

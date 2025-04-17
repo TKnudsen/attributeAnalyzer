@@ -1,0 +1,100 @@
+RANKING FOR SDG 16SDG 16	Rank 1	Fehr, Ernst	Score: 30.424
+SDG 16	Rank 2	Frey, Bruno S	Score: 29.46
+SDG 16	Rank 3	Stiller, Burkhard	Score: 16.469
+SDG 16	Rank 4	Schwabe, Gerhard	Score: 14.719
+SDG 16	Rank 5	Ongena, Steven	Score: 12.191
+SDG 16	Rank 6	Rohner, Dominic	Score: 11.773
+SDG 16	Rank 7	Davidov, Eldad	Score: 11.719
+SDG 16	Rank 8	Stutzer, Alois	Score: 10.864
+SDG 16	Rank 9	Scherer, Andreas Georg	Score: 10.573
+SDG 16	Rank 10	Voth, Hans-Joachim	Score: 9.755
+SDG 16	Rank 11	Tanner, Carmen	Score: 9.455
+SDG 16	Rank 12	Weber, Roberto A	Score: 8.673
+SDG 16	Rank 13	Zilibotti, Fabrizio	Score: 7.755
+SDG 16	Rank 14	Cieciuch, Jan	Score: 7.7
+SDG 16	Rank 15	Fischbacher, Urs	Score: 7.627
+SDG 16	Rank 16	Bernstein, Abraham	Score: 7.446
+SDG 16	Rank 17	Luechinger, Simon	Score: 7.1
+SDG 16	Rank 18	Al�s-Ferrer, Carlos	Score: 6.8
+SDG 16	Rank 19	Scherer, A G	Score: 6.137
+SDG 16	Rank 20	Osterloh, Margit	Score: 5.837
+SDG 16	Rank 21	Bartling, Bj�rn	Score: 5.673
+SDG 16	Rank 22	Bovet, G�r�me	Score: 5.618
+SDG 16	Rank 23	Dolata, Mateusz	Score: 5.473
+SDG 16	Rank 24	Huertas Celdran, Alberto	Score: 5.273
+SDG 16	Rank 25	Mar�chal, Michel Andr�	Score: 5.082
+SDG 16	Rank 26	Cohn, Alain	Score: 5.082
+SDG 16	Rank 27	Schmidt, Peter	Score: 4.964
+SDG 16	Rank 28	Tobler, Philippe N	Score: 4.909
+SDG 16	Rank 29	Thoenig, Mathias	Score: 4.891
+SDG 16	Rank 30	Urman, Aleksandra	Score: 4.864
+SDG 16	Rank 31	Yanagizawa-Drott, David	Score: 4.8
+SDG 16	Rank 32	Christen, Markus	Score: 4.527
+SDG 16	Rank 33	Rodrigues, Bruno	Score: 4.423
+SDG 16	Rank 34	Ruff, Christian C	Score: 4.418
+SDG 16	Rank 35	Wagner, Alexander F	Score: 4.387
+SDG 16	Rank 36	Battiston, Stefano	Score: 4.337
+SDG 16	Rank 37	Schwartz, Shalom H	Score: 4.282
+SDG 16	Rank 38	Palazzo, Guido	Score: 4.205
+SDG 16	Rank 39	Makhortykh, Mykola	Score: 4.155
+SDG 16	Rank 40	Palazzo, G	Score: 4.1
+SDG 16	Rank 41	Zavolokina, Liudmila	Score: 3.909
+SDG 16	Rank 42	Scherer, Andreas	Score: 3.773
+SDG 16	Rank 43	Ziolkowski, Rafael	Score: 3.773
+SDG 16	Rank 44	Baumann-Pauly, Dorothee	Score: 3.623
+SDG 16	Rank 45	Killer, Christian	Score: 3.564
+SDG 16	Rank 46	Torgler, Benno	Score: 3.523
+SDG 16	Rank 47	Mart�nez P�rez, Gregorio	Score: 3.427
+SDG 16	Rank 48	Rost, Katja	Score: 3.382
+SDG 16	Rank 49	Efferson, Charles	Score: 3.373
+SDG 16	Rank 50	Miscione, Gianluca	Score: 3.346
+SDG 16	Rank 51	Falk, Armin	Score: 3.227
+SDG 16	Rank 52	Caprettini, Bruno	Score: 3.218
+SDG 16	Rank 53	Vecchione, Michele	Score: 3.191
+SDG 16	Rank 54	Von der Assen, Jan	Score: 3.018
+SDG 16	Rank 55	Seidl, David	Score: 3.0
+SDG 16	Rank 56	Dorn, David	Score: 2.982
+SDG 16	Rank 57	Voegtlin, Christian	Score: 2.973
+SDG 16	Rank 58	S�nchez S�nchez, Pedro Miguel	Score: 2.955
+SDG 16	Rank 59	Haack, Patrick	Score: 2.864
+SDG 16	Rank 60	Segal, Carmit	Score: 2.836
+SDG 16	Rank 61	Miller, Amalia R	Score: 2.836
+SDG 16	Rank 62	Singer, T	Score: 2.764
+SDG 16	Rank 63	Algesheimer, Ren�	Score: 2.755
+SDG 16	Rank 64	Hu, Daning	Score: 2.718
+SDG 16	Rank 65	Schenker-Wicki, Andrea	Score: 2.7
+SDG 16	Rank 66	Buckenmaier, Johannes	Score: 2.691
+SDG 16	Rank 67	Falkinger, Josef	Score: 2.65
+SDG 16	Rank 68	Lamm, Claus	Score: 2.618
+SDG 16	Rank 69	Hein, Grit	Score: 2.564
+SDG 16	Rank 70	Chen, Hsinchun	Score: 2.536
+SDG 16	Rank 71	Schembera, Stefan	Score: 2.509
+SDG 16	Rank 72	Zweim�ller, Josef	Score: 2.464
+SDG 16	Rank 73	Pfaff, Dieter	Score: 2.446
+SDG 16	Rank 74	Chesney, Marc	Score: 2.4
+SDG 16	Rank 75	Kosfeld, Michael	Score: 2.391
+SDG 16	Rank 76	Giesbrecht, Tobias	Score: 2.391
+SDG 16	Rank 77	Sohn, Matthias	Score: 2.364
+SDG 16	Rank 78	Singer, Tania	Score: 2.364
+SDG 16	Rank 79	Rochet, Jean-Charles	Score: 2.355
+SDG 16	Rank 80	Schenk, Birgit	Score: 2.346
+SDG 16	Rank 81	Voigtl�nder, Nico	Score: 2.309
+SDG 16	Rank 82	Gartzke, Erik	Score: 2.309
+SDG 16	Rank 83	M�ller, Katharina O E	Score: 2.286
+SDG 16	Rank 84	Benz, Matthias	Score: 2.273
+SDG 16	Rank 85	Netzer, Nick	Score: 2.246
+SDG 16	Rank 86	Caprara, Gian Vittorio	Score: 2.209
+SDG 16	Rank 87	Heitz, Lucien	Score: 2.209
+SDG 16	Rank 88	Schoen, Harald	Score: 2.209
+SDG 16	Rank 89	Silvester, Jo	Score: 2.209
+SDG 16	Rank 90	Amb�hl, Sandro	Score: 2.173
+SDG 16	Rank 91	Katsarov, Johannes	Score: 2.164
+SDG 16	Rank 92	Schmocker, David	Score: 2.164
+SDG 16	Rank 93	Ugazio, Giuseppe	Score: 2.164
+SDG 16	Rank 94	Tolmeijer, Suzanne	Score: 2.136
+SDG 16	Rank 95	Feld, Lars P	Score: 2.109
+SDG 16	Rank 96	John Scheid, Eder	Score: 2.109
+SDG 16	Rank 97	Engelmann, Jan B	Score: 2.091
+SDG 16	Rank 98	Garagnani, Michele	Score: 2.064
+SDG 16	Rank 99	Pomeranz, Dina	Score: 2.027
+SDG 16	Rank 100	Qi, Shusen	Score: 2.009

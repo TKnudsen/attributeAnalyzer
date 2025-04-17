@@ -1,0 +1,100 @@
+RANKING FOR SDG 15SDG 15	Rank 1	Hilty, Lorenz M	Score: 2.673
+SDG 15	Rank 2	Hilty, Lorenz	Score: 2.164
+SDG 15	Rank 3	Fehr, Ernst	Score: 1.609
+SDG 15	Rank 4	Sautner, Zacharias	Score: 1.482
+SDG 15	Rank 5	Wagner, Alexander	Score: 1.382
+SDG 15	Rank 6	Garel, Alexandre	Score: 1.355
+SDG 15	Rank 7	Romec, Arthur	Score: 1.355
+SDG 15	Rank 8	Scherer, Andreas Georg	Score: 1.309
+SDG 15	Rank 9	Chesney, Marc	Score: 1.218
+SDG 15	Rank 10	Leibbrandt, Andreas	Score: 1.155
+SDG 15	Rank 11	Gheyssens, Jonathan	Score: 1.109
+SDG 15	Rank 12	Tessone, Claudio	Score: 1.064
+SDG 15	Rank 13	Frey, Bruno S	Score: 1.046
+SDG 15	Rank 14	Scaramuzza, Davide	Score: 1.0
+SDG 15	Rank 15	Nowack, Bernd	Score: 0.936
+SDG 15	Rank 16	Holm, Stefan	Score: 0.936
+SDG 15	Rank 17	Lemm, Renato	Score: 0.909
+SDG 15	Rank 18	Thees, Oliver	Score: 0.909
+SDG 15	Rank 19	Sol�-Ribalta, Albert	Score: 0.882
+SDG 15	Rank 20	Mader, Clemens	Score: 0.846
+SDG 15	Rank 21	Battiston, Stefano	Score: 0.846
+SDG 15	Rank 22	Schenker-Wicki, Andrea	Score: 0.836
+SDG 15	Rank 23	Baumann-Pauly, Dorothee	Score: 0.818
+SDG 15	Rank 24	Schiller, Eryk	Score: 0.764
+SDG 15	Rank 25	Leippold, Markus	Score: 0.764
+SDG 15	Rank 26	Ongena, Steven	Score: 0.759
+SDG 15	Rank 27	Meins, Erika	Score: 0.746
+SDG 15	Rank 28	Palazzo, Guido	Score: 0.718
+SDG 15	Rank 29	Bornh�ft, Nikolaus A	Score: 0.709
+SDG 15	Rank 30	Lontzek, Thomas S	Score: 0.682
+SDG 15	Rank 31	Narita, Daiju	Score: 0.655
+SDG 15	Rank 32	Scherer, A G	Score: 0.646
+SDG 15	Rank 33	H�jer, Mattias	Score: 0.636
+SDG 15	Rank 34	Aerni, Philipp	Score: 0.636
+SDG 15	Rank 35	Rueff, Henri	Score: 0.627
+SDG 15	Rank 36	Menza, Gianpiero	Score: 0.627
+SDG 15	Rank 37	Marchis, Alexandru	Score: 0.627
+SDG 15	Rank 38	Capri, Ettore	Score: 0.627
+SDG 15	Rank 39	De Vivo, Romano	Score: 0.627
+SDG 15	Rank 40	Gaudioso, Antonio	Score: 0.627
+SDG 15	Rank 41	Pohl, Johanna	Score: 0.609
+SDG 15	Rank 42	Braun, Torsten	Score: 0.609
+SDG 15	Rank 43	Zea Escamilla, Edwin	Score: 0.609
+SDG 15	Rank 44	Lapin, Andrei	Score: 0.582
+SDG 15	Rank 45	Brunner, Philip	Score: 0.582
+SDG 15	Rank 46	Kunz, Hanspeter	Score: 0.582
+SDG 15	Rank 47	Kropf, Peter	Score: 0.582
+SDG 15	Rank 48	Schatz, W	Score: 0.582
+SDG 15	Rank 49	Eggenberger Hotz, P	Score: 0.582
+SDG 15	Rank 50	Pfeifer, Rolf	Score: 0.564
+SDG 15	Rank 51	Bernstein, Abraham	Score: 0.564
+SDG 15	Rank 52	Hunkeler, Daniel	Score: 0.555
+SDG 15	Rank 53	Pana, Anca Claudia	Score: 0.555
+SDG 15	Rank 54	Hummel, Katrin	Score: 0.546
+SDG 15	Rank 55	Bieser, Jan C T	Score: 0.536
+SDG 15	Rank 56	Borge-Holthoefer, Javie	Score: 0.527
+SDG 15	Rank 57	Ferrari, Carlo	Score: 0.527
+SDG 15	Rank 58	Wilms, Ole	Score: 0.527
+SDG 15	Rank 59	Troja, Bruno	Score: 0.527
+SDG 15	Rank 60	Palazzo, G	Score: 0.518
+SDG 15	Rank 61	Mariani, Manuel	Score: 0.509
+SDG 15	Rank 62	Miyashita, Shuhei	Score: 0.509
+SDG 15	Rank 63	Falkinger, Josef	Score: 0.491
+SDG 15	Rank 64	Sachs, Sybille	Score: 0.491
+SDG 15	Rank 65	Santarius, Tilman	Score: 0.482
+SDG 15	Rank 66	Lange, Steffen	Score: 0.482
+SDG 15	Rank 67	Fedosov, Anton	Score: 0.464
+SDG 15	Rank 68	Busch, Timo	Score: 0.464
+SDG 15	Rank 69	Paetzold, Falko	Score: 0.464
+SDG 15	Rank 70	Voegtlin, Christian	Score: 0.464
+SDG 15	Rank 71	Pouri, Maria	Score: 0.455
+SDG 15	Rank 72	Kern, Eva	Score: 0.455
+SDG 15	Rank 73	Sun, Tian Yin	Score: 0.455
+SDG 15	Rank 74	Forster, Christian	Score: 0.455
+SDG 15	Rank 75	Schwabe, Gerhard	Score: 0.446
+SDG 15	Rank 76	Stutzer, Alois	Score: 0.436
+SDG 15	Rank 77	Beck, Mathias	Score: 0.436
+SDG 15	Rank 78	Burkhard, Hans-Peter	Score: 0.436
+SDG 15	Rank 79	Scherer, Andreas	Score: 0.436
+SDG 15	Rank 80	Penzenstadler, Birgit	Score: 0.436
+SDG 15	Rank 81	Ammann, Manuel	Score: 0.427
+SDG 15	Rank 82	Vereecken, Harry	Score: 0.427
+SDG 15	Rank 83	Schilling, Oliver S	Score: 0.427
+SDG 15	Rank 84	Glavic, B	Score: 0.427
+SDG 15	Rank 85	Seidl, T	Score: 0.427
+SDG 15	Rank 86	Assent, I	Score: 0.427
+SDG 15	Rank 87	Krieger, R	Score: 0.427
+SDG 15	Rank 88	Tang, Qi	Score: 0.427
+SDG 15	Rank 89	Sudicky, Edward	Score: 0.427
+SDG 15	Rank 90	Huang, P-T	Score: 0.427
+SDG 15	Rank 91	Aoyama, Atushi	Score: 0.427
+SDG 15	Rank 92	Cadosch, Dominique	Score: 0.427
+SDG 15	Rank 93	Damian, Dana D	Score: 0.427
+SDG 15	Rank 94	Hendricks Franssen, Harrie-Jan	Score: 0.427
+SDG 15	Rank 95	Kurtz, Wolfgang	Score: 0.427
+SDG 15	Rank 96	Puschmann, Thomas	Score: 0.409
+SDG 15	Rank 97	Seyff, Norbert	Score: 0.409
+SDG 15	Rank 98	Betz, Stefanie	Score: 0.409
+SDG 15	Rank 99	Becker, Christoph	Score: 0.409
+SDG 15	Rank 100	Caldarelli, Guido	Score: 0.409

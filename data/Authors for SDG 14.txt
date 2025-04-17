@@ -1,0 +1,100 @@
+RANKING FOR SDG 14SDG 14	Rank 1	Hilty, Lorenz M	Score: 1.432
+SDG 14	Rank 2	Hilty, Lorenz	Score: 1.409
+SDG 14	Rank 3	Battiston, Stefano	Score: 1.318
+SDG 14	Rank 4	Ongena, Steven	Score: 1.305
+SDG 14	Rank 5	Kunz, Hanspeter	Score: 1.182
+SDG 14	Rank 6	Puschmann, Thomas	Score: 1.136
+SDG 14	Rank 7	Eggenberger Hotz, P	Score: 1.082
+SDG 14	Rank 8	Schatz, W	Score: 1.082
+SDG 14	Rank 9	Chesney, Marc	Score: 1.064
+SDG 14	Rank 10	Fehr, Ernst	Score: 1.018
+SDG 14	Rank 11	Germann, D P	Score: 0.955
+SDG 14	Rank 12	Bieser, Jan C T	Score: 0.914
+SDG 14	Rank 13	H�mous, David	Score: 0.909
+SDG 14	Rank 14	Monasterolo, Irene	Score: 0.882
+SDG 14	Rank 15	Leibbrandt, Andreas	Score: 0.855
+SDG 14	Rank 16	Hemelrijk, Charlotte K	Score: 0.855
+SDG 14	Rank 17	Delis, Manthos D	Score: 0.855
+SDG 14	Rank 18	De Greiff, Kathrin	Score: 0.827
+SDG 14	Rank 19	Beyene, Winta	Score: 0.827
+SDG 14	Rank 20	Le Moigne, Mathilde	Score: 0.755
+SDG 14	Rank 21	Tessone, Claudio	Score: 0.736
+SDG 14	Rank 22	Poll, Luca	Score: 0.727
+SDG 14	Rank 23	Bressan, Giacomo	Score: 0.727
+SDG 14	Rank 24	Olsen, Morten G	Score: 0.727
+SDG 14	Rank 25	Cicala, Steve	Score: 0.727
+SDG 14	Rank 26	?uranovi?, Anja	Score: 0.727
+SDG 14	Rank 27	Quattrocchi, Dario	Score: 0.727
+SDG 14	Rank 28	Balietti, Anca	Score: 0.627
+SDG 14	Rank 29	Vargas, Carlos	Score: 0.627
+SDG 14	Rank 30	Carbajal, Juan Pablo	Score: 0.527
+SDG 14	Rank 31	Germann, Daniel P	Score: 0.527
+SDG 14	Rank 32	Hummel, Katrin	Score: 0.518
+SDG 14	Rank 33	Pohl, Johanna	Score: 0.509
+SDG 14	Rank 34	Penzenstadler, Birgit	Score: 0.509
+SDG 14	Rank 35	H�jer, Mattias	Score: 0.509
+SDG 14	Rank 36	Schiller, Eryk	Score: 0.509
+SDG 14	Rank 37	Santarius, Tilman	Score: 0.482
+SDG 14	Rank 38	Lange, Steffen	Score: 0.482
+SDG 14	Rank 39	Leippold, Markus	Score: 0.482
+SDG 14	Rank 40	Scherer, Andreas Georg	Score: 0.473
+SDG 14	Rank 41	Lapin, Andrei	Score: 0.455
+SDG 14	Rank 42	Hoepner, Andreas G F	Score: 0.455
+SDG 14	Rank 43	Aerni, Philipp	Score: 0.455
+SDG 14	Rank 44	Nowack, Bernd	Score: 0.409
+SDG 14	Rank 45	Mariani, Manuel	Score: 0.409
+SDG 14	Rank 46	Betz, Stefanie	Score: 0.382
+SDG 14	Rank 47	Seyff, Norbert	Score: 0.382
+SDG 14	Rank 48	Venters, Colin C	Score: 0.382
+SDG 14	Rank 49	Chitchyan, Ruzanna	Score: 0.382
+SDG 14	Rank 50	Becker, Christoph	Score: 0.382
+SDG 14	Rank 51	Mader, Clemens	Score: 0.364
+SDG 14	Rank 52	Scherer, A G	Score: 0.364
+SDG 14	Rank 53	Kubler, Felix	Score: 0.355
+SDG 14	Rank 54	Zah, Rainer	Score: 0.355
+SDG 14	Rank 55	Gibson, Rajna	Score: 0.355
+SDG 14	Rank 56	Schlaepfer, Felix	Score: 0.355
+SDG 14	Rank 57	Borge-Holthoefer, Javier	Score: 0.355
+SDG 14	Rank 58	Sol�-Ribalta, Albert	Score: 0.355
+SDG 14	Rank 59	Kleine, Dorothea	Score: 0.355
+SDG 14	Rank 60	Ryghaug, Marianne	Score: 0.355
+SDG 14	Rank 61	Schwanen, Tim	Score: 0.355
+SDG 14	Rank 62	Staab, Philipp	Score: 0.355
+SDG 14	Rank 63	Dencik, Lina	Score: 0.355
+SDG 14	Rank 64	Diez, Tomas	Score: 0.355
+SDG 14	Rank 65	Hankey, Stephanie	Score: 0.355
+SDG 14	Rank 66	Hilbeck, Angelika	Score: 0.355
+SDG 14	Rank 67	Ferreboeuf, Hugues	Score: 0.355
+SDG 14	Rank 68	Palazzo, G	Score: 0.336
+SDG 14	Rank 69	Glasmeier, Amy	Score: 0.327
+SDG 14	Rank 70	�zcan, Mutlu	Score: 0.327
+SDG 14	Rank 71	Waltert, Fabian	Score: 0.327
+SDG 14	Rank 72	Hemelrijk, Charlotte	Score: 0.327
+SDG 14	Rank 73	Bencomo, Nelly	Score: 0.327
+SDG 14	Rank 74	Z�blin, Thomas	Score: 0.327
+SDG 14	Rank 75	Rohrer, Mario	Score: 0.327
+SDG 14	Rank 76	Santos, Maria Jo�o	Score: 0.327
+SDG 14	Rank 77	De Vivo, Romano	Score: 0.327
+SDG 14	Rank 78	Gaudioso, Antonio	Score: 0.327
+SDG 14	Rank 79	Rueff, Henri	Score: 0.327
+SDG 14	Rank 80	Zeltner, Marco	Score: 0.327
+SDG 14	Rank 81	Combemale, Benoit	Score: 0.327
+SDG 14	Rank 82	Scolobig, Anna	Score: 0.327
+SDG 14	Rank 83	Habib, Michel	Score: 0.327
+SDG 14	Rank 84	Kock, Richard	Score: 0.327
+SDG 14	Rank 85	Kalte, Deborah	Score: 0.327
+SDG 14	Rank 86	Polbin, Andrey	Score: 0.327
+SDG 14	Rank 87	Kienzle, J�rg	Score: 0.327
+SDG 14	Rank 88	Bastin, Lucy	Score: 0.327
+SDG 14	Rank 89	Klingert, Sonja	Score: 0.327
+SDG 14	Rank 90	Paige, Richard F	Score: 0.327
+SDG 14	Rank 91	Stoffel, Markus	Score: 0.327
+SDG 14	Rank 92	Bruel, Jean-Michel	Score: 0.327
+SDG 14	Rank 93	Scheidegger, Simon	Score: 0.327
+SDG 14	Rank 94	Ziegler, Alexandre	Score: 0.327
+SDG 14	Rank 95	Cheng, Betty H C	Score: 0.327
+SDG 14	Rank 96	Mussbacher, Gunter	Score: 0.327
+SDG 14	Rank 97	Syriani, Eugene	Score: 0.327
+SDG 14	Rank 98	Kotlikoff, Laurence	Score: 0.327
+SDG 14	Rank 99	Coray, Rafaela	Score: 0.327
+SDG 14	Rank 100	Petchey, Owen	Score: 0.327

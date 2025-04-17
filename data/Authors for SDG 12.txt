@@ -1,0 +1,100 @@
+RANKING FOR SDG 12SDG 12	Rank 1	Hilty, Lorenz M	Score: 20.373
+SDG 12	Rank 2	Hilty, Lorenz	Score: 16.959
+SDG 12	Rank 3	Stiller, Burkhard	Score: 8.991
+SDG 12	Rank 4	Schwabe, Gerhard	Score: 7.61
+SDG 12	Rank 5	Natter, Martin	Score: 6.909
+SDG 12	Rank 6	Ongena, Steven	Score: 5.669
+SDG 12	Rank 7	Frey, Bruno S	Score: 5.596
+SDG 12	Rank 8	Scaramuzza, Davide	Score: 5.523
+SDG 12	Rank 9	Chesney, Marc	Score: 5.368
+SDG 12	Rank 10	St�ckli, Sabrina	Score: 5.3
+SDG 12	Rank 11	Meins, Erika	Score: 5.037
+SDG 12	Rank 12	Battiston, Stefano	Score: 4.909
+SDG 12	Rank 13	Bieser, Jan C T	Score: 4.746
+SDG 12	Rank 14	Leippold, Markus	Score: 4.45
+SDG 12	Rank 15	Schmutzler, Armin	Score: 4.364
+SDG 12	Rank 16	Bernstein, Abraham	Score: 4.255
+SDG 12	Rank 17	Weber, Roberto A	Score: 3.964
+SDG 12	Rank 18	Hischier, Roland	Score: 3.664
+SDG 12	Rank 19	Hummel, Katrin	Score: 3.582
+SDG 12	Rank 20	Scherer, Andreas Georg	Score: 3.582
+SDG 12	Rank 21	H�mous, David	Score: 3.573
+SDG 12	Rank 22	Huang, Elaine May	Score: 3.427
+SDG 12	Rank 23	Bartling, Bj�rn	Score: 3.355
+SDG 12	Rank 24	Coroama, Vlad C	Score: 3.218
+SDG 12	Rank 25	Scherer, A G	Score: 3.164
+SDG 12	Rank 26	Schenker-Wicki, Andrea	Score: 3.164
+SDG 12	Rank 27	Schiller, Eryk	Score: 3.155
+SDG 12	Rank 28	Dorn, Michael	Score: 3.009
+SDG 12	Rank 29	Fehr, Ernst	Score: 3.0
+SDG 12	Rank 30	H�jer, Mattias	Score: 2.964
+SDG 12	Rank 31	Zavolokina, Liudmila	Score: 2.946
+SDG 12	Rank 32	Seyff, Norbert	Score: 2.937
+SDG 12	Rank 33	Remy, Christian	Score: 2.918
+SDG 12	Rank 34	Faulstich, Martin	Score: 2.836
+SDG 12	Rank 35	Schluep, Mathias	Score: 2.836
+SDG 12	Rank 36	Nowack, Bernd	Score: 2.814
+SDG 12	Rank 37	Bieser, Jan	Score: 2.791
+SDG 12	Rank 38	Aerni, Philipp	Score: 2.773
+SDG 12	Rank 39	Lohmann, Wolfgang	Score: 2.736
+SDG 12	Rank 40	Wagner, Alexander	Score: 2.709
+SDG 12	Rank 41	Acemoglu, Daron	Score: 2.7
+SDG 12	Rank 42	Zilibotti, Fabrizio	Score: 2.659
+SDG 12	Rank 43	Keil, Thomas	Score: 2.646
+SDG 12	Rank 44	Stiller, B	Score: 2.637
+SDG 12	Rank 45	Mild, Andreas	Score: 2.618
+SDG 12	Rank 46	Bacchelli, Alberto	Score: 2.614
+SDG 12	Rank 47	Kern, Eva	Score: 2.609
+SDG 12	Rank 48	Mader, Clemens	Score: 2.546
+SDG 12	Rank 49	Falkinger, Josef	Score: 2.509
+SDG 12	Rank 50	Gall, Harald C	Score: 2.482
+SDG 12	Rank 51	Monasterolo, Irene	Score: 2.473
+SDG 12	Rank 52	Bernard, J�rgen	Score: 2.441
+SDG 12	Rank 53	Fedosov, Anton	Score: 2.418
+SDG 12	Rank 54	Penzenstadler, Birgit	Score: 2.418
+SDG 12	Rank 55	Bornh�ft, Nikolaus A	Score: 2.414
+SDG 12	Rank 56	Naumann, Stefan	Score: 2.409
+SDG 12	Rank 57	Guldner, Achim	Score: 2.409
+SDG 12	Rank 58	Palazzo, G	Score: 2.4
+SDG 12	Rank 59	Paetzold, Falko	Score: 2.396
+SDG 12	Rank 60	Hoffmann, Mathias	Score: 2.391
+SDG 12	Rank 61	Zea Escamilla, Edwin	Score: 2.364
+SDG 12	Rank 62	Aghion, Philippe	Score: 2.346
+SDG 12	Rank 63	Tanner, Carmen	Score: 2.327
+SDG 12	Rank 64	Backes-Gellner, Uschi	Score: 2.282
+SDG 12	Rank 65	Hens, Thorsten	Score: 2.214
+SDG 12	Rank 66	Kraus, Mathias	Score: 2.196
+SDG 12	Rank 67	Palazzo, Guido	Score: 2.146
+SDG 12	Rank 68	Pohl, Johanna	Score: 2.136
+SDG 12	Rank 69	Beck, Mathias	Score: 2.118
+SDG 12	Rank 70	Chitchyan, Ruzanna	Score: 2.091
+SDG 12	Rank 71	Pfeifer, Rolf	Score: 2.055
+SDG 12	Rank 72	Puschmann, Thomas	Score: 2.018
+SDG 12	Rank 73	Zweim�ller, Josef	Score: 2.018
+SDG 12	Rank 74	K�lbel, Julian	Score: 1.991
+SDG 12	Rank 75	Pajarola, R	Score: 1.991
+SDG 12	Rank 76	Rochet, Jean-Charles	Score: 1.982
+SDG 12	Rank 77	Pouri, Maria	Score: 1.982
+SDG 12	Rank 78	Baumann-Pauly, Dorothee	Score: 1.973
+SDG 12	Rank 79	Busch, Timo	Score: 1.968
+SDG 12	Rank 80	Panichella, Sebastiano	Score: 1.9
+SDG 12	Rank 81	Stutzer, Alois	Score: 1.891
+SDG 12	Rank 82	Thi�baud, Esther	Score: 1.882
+SDG 12	Rank 83	Betz, Stefanie	Score: 1.864
+SDG 12	Rank 84	Palomba, Fabio	Score: 1.85
+SDG 12	Rank 85	Vargas, Carlos	Score: 1.809
+SDG 12	Rank 86	Braun, Torsten	Score: 1.8
+SDG 12	Rank 87	Sachs, Sybille	Score: 1.8
+SDG 12	Rank 88	Voegtlin, Christian	Score: 1.791
+SDG 12	Rank 89	Pouri, Maria J	Score: 1.782
+SDG 12	Rank 90	Gr�ger, Jens	Score: 1.782
+SDG 12	Rank 91	Kubler, Felix	Score: 1.773
+SDG 12	Rank 92	Venters, Colin C	Score: 1.764
+SDG 12	Rank 93	Becker, Christoph	Score: 1.764
+SDG 12	Rank 94	Zweifel, Peter	Score: 1.709
+SDG 12	Rank 95	Goeree, Jacob K	Score: 1.691
+SDG 12	Rank 96	Itten, Ren�	Score: 1.682
+SDG 12	Rank 97	Blumer, Yann	Score: 1.682
+SDG 12	Rank 98	Holm, Stefan	Score: 1.664
+SDG 12	Rank 99	Hausheer, D	Score: 1.646
+SDG 12	Rank 100	Bocek, Thomas	Score: 1.646

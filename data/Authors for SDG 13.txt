@@ -1,0 +1,100 @@
+RANKING FOR SDG 13SDG 13	Rank 1	Hilty, Lorenz M	Score: 16.791
+SDG 13	Rank 2	Hilty, Lorenz	Score: 16.069
+SDG 13	Rank 3	Battiston, Stefano	Score: 11.818
+SDG 13	Rank 4	Leippold, Markus	Score: 9.2
+SDG 13	Rank 5	Ongena, Steven	Score: 8.055
+SDG 13	Rank 6	Chesney, Marc	Score: 7.446
+SDG 13	Rank 7	Monasterolo, Irene	Score: 7.273
+SDG 13	Rank 8	H�mous, David	Score: 6.473
+SDG 13	Rank 9	Ramelli, Stefano	Score: 6.1
+SDG 13	Rank 10	Stiller, Burkhard	Score: 5.564
+SDG 13	Rank 11	Kubler, Felix	Score: 5.473
+SDG 13	Rank 12	Scheidegger, Simon	Score: 5.473
+SDG 13	Rank 13	Kraus, Mathias	Score: 5.173
+SDG 13	Rank 14	Aghion, Philippe	Score: 5.018
+SDG 13	Rank 15	Wagner, Alexander	Score: 4.882
+SDG 13	Rank 16	Schmutzler, Armin	Score: 4.559
+SDG 13	Rank 17	Scaramuzza, Davide	Score: 4.491
+SDG 13	Rank 18	Bieser, Jan	Score: 4.318
+SDG 13	Rank 19	Webersinke, Nicolas	Score: 4.318
+SDG 13	Rank 20	Bieser, Jan C T	Score: 4.246
+SDG 13	Rank 21	Zweifel, Peter	Score: 4.146
+SDG 13	Rank 22	Hischier, Roland	Score: 3.991
+SDG 13	Rank 23	Lontzek, Thomas S	Score: 3.964
+SDG 13	Rank 24	Polbin, Andrey	Score: 3.936
+SDG 13	Rank 25	Acemoglu, Daron	Score: 3.918
+SDG 13	Rank 26	Bingler, Julia Anna	Score: 3.591
+SDG 13	Rank 27	Coroama, Vlad C	Score: 3.518
+SDG 13	Rank 28	Sautner, Zacharias	Score: 3.318
+SDG 13	Rank 29	Wang, Qian	Score: 3.264
+SDG 13	Rank 30	Bornh�ft, Nikolaus A	Score: 3.264
+SDG 13	Rank 31	Nowack, Bernd	Score: 3.164
+SDG 13	Rank 32	Delis, Manthos D	Score: 3.164
+SDG 13	Rank 33	Meins, Erika	Score: 3.137
+SDG 13	Rank 34	Kotlikoff, Laurence	Score: 3.109
+SDG 13	Rank 35	K�lbel, Julian	Score: 3.018
+SDG 13	Rank 36	H�jer, Mattias	Score: 2.964
+SDG 13	Rank 37	Gheyssens, Jonathan	Score: 2.909
+SDG 13	Rank 38	Aerni, Philipp	Score: 2.846
+SDG 13	Rank 39	Penzenstadler, Birgit	Score: 2.718
+SDG 13	Rank 40	Barrage, Lint	Score: 2.709
+SDG 13	Rank 41	Hummel, Katrin	Score: 2.655
+SDG 13	Rank 42	Schiller, Eryk	Score: 2.637
+SDG 13	Rank 43	Pohl, Johanna	Score: 2.636
+SDG 13	Rank 44	De Greiff, Kathrin	Score: 2.636
+SDG 13	Rank 45	Beyene, Winta	Score: 2.609
+SDG 13	Rank 46	Fehr, Ernst	Score: 2.418
+SDG 13	Rank 47	Zea Escamilla, Edwin	Score: 2.364
+SDG 13	Rank 48	Ossola, Elisa	Score: 2.282
+SDG 13	Rank 49	Rancan, Michela	Score: 2.282
+SDG 13	Rank 50	Lohmann, Wolfgang	Score: 2.236
+SDG 13	Rank 51	Puschmann, Thomas	Score: 2.218
+SDG 13	Rank 52	Stammbach, Dominik	Score: 2.209
+SDG 13	Rank 53	Naumann, Stefan	Score: 2.209
+SDG 13	Rank 54	Guldner, Achim	Score: 2.209
+SDG 13	Rank 55	Ziegler, Alexandre	Score: 2.209
+SDG 13	Rank 56	Seyff, Norbert	Score: 2.173
+SDG 13	Rank 57	Kern, Eva	Score: 2.109
+SDG 13	Rank 58	Le Moigne, Mathilde	Score: 2.109
+SDG 13	Rank 59	Frey, Bruno S	Score: 2.091
+SDG 13	Rank 60	Wagner, Alexander F	Score: 2.091
+SDG 13	Rank 61	Khoban, Roza	Score: 2.082
+SDG 13	Rank 62	Luechinger, Simon	Score: 2.064
+SDG 13	Rank 63	Goeree, Jacob K	Score: 2.009
+SDG 13	Rank 64	St�ckli, Sabrina	Score: 2.0
+SDG 13	Rank 65	Chitchyan, Ruzanna	Score: 1.991
+SDG 13	Rank 66	Betz, Stefanie	Score: 1.964
+SDG 13	Rank 67	Starks, Laura T	Score: 1.882
+SDG 13	Rank 68	Ferreboeuf, Hugues	Score: 1.882
+SDG 13	Rank 69	Schenker-Wicki, Andrea	Score: 1.818
+SDG 13	Rank 70	Krueger, Philipp	Score: 1.809
+SDG 13	Rank 71	Santarius, Tilman	Score: 1.782
+SDG 13	Rank 72	Narita, Daiju	Score: 1.782
+SDG 13	Rank 73	Judd, Kenneth L	Score: 1.782
+SDG 13	Rank 74	Burtraw, Dallas	Score: 1.782
+SDG 13	Rank 75	Lange, Steffen	Score: 1.782
+SDG 13	Rank 76	Zeckhauser, Richard	Score: 1.782
+SDG 13	Rank 77	Becker, Christoph	Score: 1.764
+SDG 13	Rank 78	Scherer, Andreas Georg	Score: 1.668
+SDG 13	Rank 79	Krey, Boris	Score: 1.664
+SDG 13	Rank 80	Mader, Clemens	Score: 1.646
+SDG 13	Rank 81	Huang, Elaine May	Score: 1.591
+SDG 13	Rank 82	Alessi, Lucia	Score: 1.582
+SDG 13	Rank 83	Schimanski, Tobias	Score: 1.582
+SDG 13	Rank 84	Itten, Ren�	Score: 1.582
+SDG 13	Rank 85	Hintemann, Ralph	Score: 1.582
+SDG 13	Rank 86	Bingler, Julia	Score: 1.582
+SDG 13	Rank 87	Blumer, Yann	Score: 1.582
+SDG 13	Rank 88	Bahn, Olivier	Score: 1.555
+SDG 13	Rank 89	Troja, Bruno	Score: 1.555
+SDG 13	Rank 90	Bressan, Giacomo	Score: 1.555
+SDG 13	Rank 91	Falkinger, Josef	Score: 1.523
+SDG 13	Rank 92	Blanga-Gubbay, Michael	Score: 1.482
+SDG 13	Rank 93	Gr�ger, Jens	Score: 1.482
+SDG 13	Rank 94	Scherer, Andreas	Score: 1.464
+SDG 13	Rank 95	Schmedders, Karl	Score: 1.464
+SDG 13	Rank 96	van Ruijven, Bas J	Score: 1.455
+SDG 13	Rank 97	Lepot, Simon	Score: 1.455
+SDG 13	Rank 98	Salieri, Beatrice	Score: 1.455
+SDG 13	Rank 99	Friedl, Aleksandra	Score: 1.455
+SDG 13	Rank 100	Folini, Doris	Score: 1.455

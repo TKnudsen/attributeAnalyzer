@@ -1,0 +1,100 @@
+RANKING FOR SDG 8SDG 8	Rank 1	Ongena, Steven	Score: 61.27
+SDG 8	Rank 2	Backes-Gellner, Uschi	Score: 33.992
+SDG 8	Rank 3	Fehr, Ernst	Score: 32.319
+SDG 8	Rank 4	Zweim�ller, Josef	Score: 30.419
+SDG 8	Rank 5	Hens, Thorsten	Score: 27.387
+SDG 8	Rank 6	Schwabe, Gerhard	Score: 23.588
+SDG 8	Rank 7	Battiston, Stefano	Score: 22.746
+SDG 8	Rank 8	Zilibotti, Fabrizio	Score: 18.982
+SDG 8	Rank 9	Schmutzler, Armin	Score: 16.291
+SDG 8	Rank 10	Frey, Bruno S	Score: 16.087
+SDG 8	Rank 11	Stiller, Burkhard	Score: 15.533
+SDG 8	Rank 12	Dorn, David	Score: 15.037
+SDG 8	Rank 13	Rochet, Jean-Charles	Score: 12.391
+SDG 8	Rank 14	Hoffmann, Mathias	Score: 12.319
+SDG 8	Rank 15	Lalive, Rafael	Score: 11.973
+SDG 8	Rank 16	Natter, Martin	Score: 11.673
+SDG 8	Rank 17	Scaramuzza, Davide	Score: 11.196
+SDG 8	Rank 18	Leippold, Markus	Score: 11.005
+SDG 8	Rank 19	Kubler, Felix	Score: 10.664
+SDG 8	Rank 20	Keil, Thomas	Score: 10.441
+SDG 8	Rank 21	Winkelmann, Rainer	Score: 9.9
+SDG 8	Rank 22	Fritz, Thomas	Score: 9.837
+SDG 8	Rank 23	Lang, Markus	Score: 9.478
+SDG 8	Rank 24	Dietl, Helmut	Score: 9.123
+SDG 8	Rank 25	Osterloh, Margit	Score: 9.069
+SDG 8	Rank 26	Wolf, Michael	Score: 8.723
+SDG 8	Rank 27	Jaimovich, Nir	Score: 8.618
+SDG 8	Rank 28	Al�s-Ferrer, Carlos	Score: 8.591
+SDG 8	Rank 29	Bartling, Bj�rn	Score: 8.555
+SDG 8	Rank 30	Bernstein, Abraham	Score: 8.441
+SDG 8	Rank 31	Weber, Roberto A	Score: 8.437
+SDG 8	Rank 32	Falkinger, Josef	Score: 8.027
+SDG 8	Rank 33	Bacchelli, Alberto	Score: 7.746
+SDG 8	Rank 34	Seidl, David	Score: 7.664
+SDG 8	Rank 35	Zehnder, Christian	Score: 7.6
+SDG 8	Rank 36	Gall, Harald C	Score: 7.423
+SDG 8	Rank 37	Schenk-Hopp�, Klaus Reiner	Score: 7.364
+SDG 8	Rank 38	Schmedders, Karl	Score: 7.241
+SDG 8	Rank 39	Autor, David	Score: 6.937
+SDG 8	Rank 40	Ledoit, Olivier	Score: 6.814
+SDG 8	Rank 41	Goeree, Jacob K	Score: 6.787
+SDG 8	Rank 42	Dolata, Mateusz	Score: 6.75
+SDG 8	Rank 43	Acemoglu, Daron	Score: 6.746
+SDG 8	Rank 44	Wagner, Alexander	Score: 6.718
+SDG 8	Rank 45	Caldarelli, Guido	Score: 6.646
+SDG 8	Rank 46	Egger, H	Score: 6.564
+SDG 8	Rank 47	Akyildirim, Erdin�	Score: 6.537
+SDG 8	Rank 48	Basten, Christoph	Score: 6.518
+SDG 8	Rank 49	Buehler, Stefan	Score: 6.496
+SDG 8	Rank 50	Paolella, Marc S	Score: 6.409
+SDG 8	Rank 51	Franck, E	Score: 6.382
+SDG 8	Rank 52	Zweifel, Peter	Score: 6.364
+SDG 8	Rank 53	Voth, Hans-Joachim	Score: 6.318
+SDG 8	Rank 54	Hanson, Gordon H	Score: 6.255
+SDG 8	Rank 55	Nyborg, Kjell G	Score: 6.137
+SDG 8	Rank 56	Wagner, Alexander F	Score: 6.127
+SDG 8	Rank 57	Stutzer, Alois	Score: 5.937
+SDG 8	Rank 58	Berentsen, Aleksander	Score: 5.891
+SDG 8	Rank 59	Scheuer, Florian	Score: 5.805
+SDG 8	Rank 60	Schenker-Wicki, Andrea	Score: 5.764
+SDG 8	Rank 61	Chesney, Marc	Score: 5.732
+SDG 8	Rank 62	Cohn, Alain	Score: 5.691
+SDG 8	Rank 63	Woitek, Ulrich	Score: 5.687
+SDG 8	Rank 64	Storesletten, Kjetil	Score: 5.564
+SDG 8	Rank 65	Degryse, Hans	Score: 5.491
+SDG 8	Rank 66	Farkas, Walter	Score: 5.405
+SDG 8	Rank 67	Dietl, H	Score: 5.318
+SDG 8	Rank 68	Braggion, Fabio	Score: 5.227
+SDG 8	Rank 69	Kaiser, Ulrich	Score: 5.182
+SDG 8	Rank 70	Seyff, Norbert	Score: 5.146
+SDG 8	Rank 71	Pycia, Marek	Score: 5.109
+SDG 8	Rank 72	Gersbach, Hans	Score: 5.059
+SDG 8	Rank 73	Koch-Medina, Pablo	Score: 5.046
+SDG 8	Rank 74	Ossa, Ralph	Score: 4.991
+SDG 8	Rank 75	Ewerhart, Christian	Score: 4.927
+SDG 8	Rank 76	Scherer, Andreas Georg	Score: 4.891
+SDG 8	Rank 77	Foellmi, Reto	Score: 4.755
+SDG 8	Rank 78	Hilty, Lorenz	Score: 4.732
+SDG 8	Rank 79	Sautner, Zacharias	Score: 4.691
+SDG 8	Rank 80	Garcia-Appendini, Emilia	Score: 4.682
+SDG 8	Rank 81	Evstigneev, Igor V	Score: 4.637
+SDG 8	Rank 82	Egger, P	Score: 4.627
+SDG 8	Rank 83	Algesheimer, Ren�	Score: 4.555
+SDG 8	Rank 84	Habib, Michel A	Score: 4.537
+SDG 8	Rank 85	Franck, Egon	Score: 4.527
+SDG 8	Rank 86	De Giorgi, Enrico	Score: 4.509
+SDG 8	Rank 87	Crawford, Gregory S	Score: 4.496
+SDG 8	Rank 88	Glinz, Martin	Score: 4.478
+SDG 8	Rank 89	Mar�chal, Michel Andr�	Score: 4.455
+SDG 8	Rank 90	Zeisberger, Stefan	Score: 4.418
+SDG 8	Rank 91	Falk, Armin	Score: 4.409
+SDG 8	Rank 92	Ziegler, Alexandre	Score: 4.382
+SDG 8	Rank 93	Aghion, Philippe	Score: 4.264
+SDG 8	Rank 94	Menges, Jochen I	Score: 4.237
+SDG 8	Rank 95	Pfaff, Dieter	Score: 4.191
+SDG 8	Rank 96	Menges, Jochen	Score: 4.182
+SDG 8	Rank 97	Moreno-Bromberg, Santiago	Score: 4.1
+SDG 8	Rank 98	Netzer, Nick	Score: 4.087
+SDG 8	Rank 99	Gancia, Gino	Score: 4.073
+SDG 8	Rank 100	Schmidt, Klaus M	Score: 4.055

@@ -1,0 +1,481 @@
+[ "java.util.ArrayList", [ [ "java.util.HashMap", {
+  "Attribute" : "publication_title",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.String" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.StringParser", { } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "publication_sql_id",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.String" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.StringParser", { } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "publication_zora_id",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.String" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.StringParser", { } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "publication_abstract",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.String" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.StringParser", { } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "author_ids",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.String" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.StringParser", { } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "author_names",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.String" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.StringParser", { } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_rel_1",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_rel_2",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_rel_3",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_rel_4",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_rel_5",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_rel_6",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_rel_7",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_rel_8",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_rel_9",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_rel_10",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_rel_11",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_rel_12",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_rel_13",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_rel_14",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_rel_15",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_rel_16",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_rel_17",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_cont_1",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_cont_2",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_cont_3",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_cont_4",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_cont_5",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_cont_6",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_cont_7",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_cont_8",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_cont_9",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_cont_10",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_cont_11",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_cont_12",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_cont_13",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_cont_14",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_cont_15",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_cont_16",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "ChatGPT_cont_17",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "Max rel",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "Max cont",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Double" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.DoubleParser", {
+    "dotMeansThousands" : false,
+    "printStackTrace" : false
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_relevance_confidence_1",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_relevance_confidence_2",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_relevance_confidence_3",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_relevance_confidence_4",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_relevance_confidence_5",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_relevance_confidence_6",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_relevance_confidence_7",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_relevance_confidence_8",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_relevance_confidence_9",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_relevance_confidence_10",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_relevance_confidence_11",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_relevance_confidence_12",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_relevance_confidence_13",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_relevance_confidence_14",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_relevance_confidence_15",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_relevance_confidence_16",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_relevance_confidence_17",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_contribution_confidence_1",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_contribution_confidence_2",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_contribution_confidence_3",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_contribution_confidence_4",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_contribution_confidence_5",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_contribution_confidence_6",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_contribution_confidence_7",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_contribution_confidence_8",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_contribution_confidence_9",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_contribution_confidence_10",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_contribution_confidence_11",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_contribution_confidence_12",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_contribution_confidence_13",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_contribution_confidence_14",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_contribution_confidence_15",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_contribution_confidence_16",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ], [ "java.util.HashMap", {
+  "Attribute" : "sdg_contribution_confidence_17",
+  "Attribute Type" : [ "java.lang.Class", "java.lang.Integer" ],
+  "Attribute Parser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.IntegerParser", {
+    "LongParser" : [ "com.github.TKnudsen.ComplexDataObject.model.io.parsers.objects.LongParser", { } ]
+  } ]
+} ] ] ]

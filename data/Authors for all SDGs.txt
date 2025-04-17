@@ -1,0 +1,1718 @@
+reading data\faculty_publications_with_authors_curated2 ...
+RANKING FOR SDG 1
+SDG 1	Rank 1	Ongena, Steven	Score: 19.4
+SDG 1	Rank 2	Zweim�ller, Josef	Score: 14.5
+SDG 1	Rank 3	Fehr, Ernst	Score: 14.35
+SDG 1	Rank 4	Frey, Bruno S	Score: 12.3
+SDG 1	Rank 5	Zilibotti, Fabrizio	Score: 10.75
+SDG 1	Rank 6	Schwabe, Gerhard	Score: 7.9
+SDG 1	Rank 7	Backes-Gellner, Uschi	Score: 7.77
+SDG 1	Rank 8	Battiston, Stefano	Score: 7.2
+SDG 1	Rank 9	Winkelmann, Rainer	Score: 5.95
+SDG 1	Rank 10	Lalive, Rafael	Score: 5.75
+SDG 1	Rank 11	Scherer, Andreas Georg	Score: 5.65
+SDG 1	Rank 12	Dorn, David	Score: 5.6
+SDG 1	Rank 13	Zweifel, Peter	Score: 5.3
+SDG 1	Rank 14	Hens, Thorsten	Score: 5.25
+SDG 1	Rank 15	Pomeranz, Dina	Score: 5.2
+SDG 1	Rank 16	Woitek, Ulrich	Score: 4.45
+SDG 1	Rank 17	Storesletten, Kjetil	Score: 4.4
+SDG 1	Rank 18	Stutzer, Alois	Score: 4.4
+SDG 1	Rank 19	Voth, Hans-Joachim	Score: 4.35
+SDG 1	Rank 20	Lichand, Guilherme	Score: 4.3
+SDG 1	Rank 21	Weber, Roberto A	Score: 4.1
+SDG 1	Rank 22	Rochet, Jean-Charles	Score: 4.0
+SDG 1	Rank 23	Falkinger, Josef	Score: 3.75
+SDG 1	Rank 24	Osterloh, Margit	Score: 3.7
+SDG 1	Rank 25	Foellmi, Reto	Score: 3.6
+SDG 1	Rank 26	Hoffmann, Mathias	Score: 3.55
+SDG 1	Rank 27	Jaimovich, Nir	Score: 3.55
+SDG 1	Rank 28	Scheuer, Florian	Score: 3.35
+SDG 1	Rank 29	Kubler, Felix	Score: 3.25
+SDG 1	Rank 30	Hilty, Lorenz	Score: 3.2
+SDG 1	Rank 31	Stiller, Burkhard	Score: 3.2
+SDG 1	Rank 32	Cohn, Alain	Score: 3.05
+SDG 1	Rank 33	Schmutzler, Armin	Score: 3.05
+SDG 1	Rank 34	Kast, Felipe	Score: 3.0
+SDG 1	Rank 35	Bartling, Bj�rn	Score: 3.0
+SDG 1	Rank 36	Tobler, Philippe N	Score: 2.95
+SDG 1	Rank 37	Hilty, Lorenz M	Score: 2.75
+SDG 1	Rank 38	Bernstein, Abraham	Score: 2.75
+SDG 1	Rank 39	Doepke, Matthias	Score: 2.7
+SDG 1	Rank 40	Davidov, Eldad	Score: 2.7
+SDG 1	Rank 41	Wagner, Alexander	Score: 2.65
+SDG 1	Rank 42	Hanson, Gordon H	Score: 2.6
+SDG 1	Rank 43	Schwandt, Hannes	Score: 2.55
+SDG 1	Rank 44	Leippold, Markus	Score: 2.44
+SDG 1	Rank 45	Mar�chal, Michel Andr�	Score: 2.4
+SDG 1	Rank 46	Boes, Stefan	Score: 2.4
+SDG 1	Rank 47	Dolata, Mateusz	Score: 2.4
+SDG 1	Rank 48	Yanagizawa-Drott, David	Score: 2.4
+SDG 1	Rank 49	Epper, Thomas	Score: 2.35
+SDG 1	Rank 50	Al�s-Ferrer, Carlos	Score: 2.35
+SDG 1	Rank 51	Scherer, A G	Score: 2.35
+SDG 1	Rank 52	Hare, Todd A	Score: 2.35
+SDG 1	Rank 53	Meier, Stephan	Score: 2.3
+SDG 1	Rank 54	Autor, David	Score: 2.3
+SDG 1	Rank 55	Casaburi, Lorenzo	Score: 2.3
+SDG 1	Rank 56	Caldarelli, Guido	Score: 2.3
+SDG 1	Rank 57	Dietl, Helmut	Score: 2.3
+SDG 1	Rank 58	Zavolokina, Liudmila	Score: 2.3
+SDG 1	Rank 59	Chesney, Marc	Score: 2.25
+SDG 1	Rank 60	Ruff, Christian C	Score: 2.21
+SDG 1	Rank 61	Aerni, Philipp	Score: 2.2
+SDG 1	Rank 62	Schenker-Wicki, Andrea	Score: 2.2
+SDG 1	Rank 63	Fu, Jonathan	Score: 2.15
+SDG 1	Rank 64	Palazzo, Guido	Score: 2.15
+SDG 1	Rank 65	Egger, H	Score: 2.1
+SDG 1	Rank 66	Staubli, Stefan	Score: 2.1
+SDG 1	Rank 67	F�llmi, Reto	Score: 2.1
+SDG 1	Rank 68	Acemoglu, Daron	Score: 2.1
+SDG 1	Rank 69	Meins, Erika	Score: 2.1
+SDG 1	Rank 70	Lang, Markus	Score: 2.05
+SDG 1	Rank 71	Seidl, David	Score: 2.05
+SDG 1	Rank 72	Cieciuch, Jan	Score: 2.05
+SDG 1	Rank 73	Rohner, Dominic	Score: 2.0
+SDG 1	Rank 74	Falk, Armin	Score: 1.9
+SDG 1	Rank 75	Hassler, John	Score: 1.9
+SDG 1	Rank 76	Basten, Christoph	Score: 1.9
+SDG 1	Rank 77	Grossmann, Volker	Score: 1.9
+SDG 1	Rank 78	Pycia, Marek	Score: 1.9
+SDG 1	Rank 79	Tanner, Carmen	Score: 1.85
+SDG 1	Rank 80	Paetzold, Falko	Score: 1.8
+SDG 1	Rank 81	Braggion, Fabio	Score: 1.8
+SDG 1	Rank 82	Currie, Janet	Score: 1.8
+SDG 1	Rank 83	Schmedders, Karl	Score: 1.8
+SDG 1	Rank 84	Song, Zheng	Score: 1.8
+SDG 1	Rank 85	Baumann-Pauly, Dorothee	Score: 1.8
+SDG 1	Rank 86	Biroli, Pietro	Score: 1.8
+SDG 1	Rank 87	Berentsen, Aleksander	Score: 1.8
+SDG 1	Rank 88	Fischbacher, Urs	Score: 1.75
+SDG 1	Rank 89	Steinhauer, Andreas	Score: 1.75
+SDG 1	Rank 90	Crawford, Gregory S	Score: 1.7
+SDG 1	Rank 91	Floris, Jo�l	Score: 1.7
+SDG 1	Rank 92	Svensson, Jakob	Score: 1.7
+SDG 1	Rank 93	Hummel, Katrin	Score: 1.7
+SDG 1	Rank 94	Caprettini, Bruno	Score: 1.7
+SDG 1	Rank 95	Goette, Lorenz	Score: 1.65
+SDG 1	Rank 96	Keil, Thomas	Score: 1.65
+SDG 1	Rank 97	Algesheimer, Ren�	Score: 1.65
+SDG 1	Rank 98	Palazzo, G	Score: 1.65
+SDG 1	Rank 99	Voegtlin, Christian	Score: 1.6
+SDG 1	Rank 100	Ossa, Ralph	Score: 1.55
+RANKING FOR SDG 2
+SDG 2	Rank 1	Ongena, Steven	Score: 6.2
+SDG 2	Rank 2	Hare, Todd A	Score: 4.1
+SDG 2	Rank 3	St�ckli, Sabrina	Score: 4.0
+SDG 2	Rank 4	Fehr, Ernst	Score: 3.54
+SDG 2	Rank 5	Zilibotti, Fabrizio	Score: 3.25
+SDG 2	Rank 6	Frey, Bruno S	Score: 3.2
+SDG 2	Rank 7	Zweim�ller, Josef	Score: 2.95
+SDG 2	Rank 8	Hilty, Lorenz	Score: 2.85
+SDG 2	Rank 9	Woitek, Ulrich	Score: 2.8
+SDG 2	Rank 10	Schwabe, Gerhard	Score: 2.65
+SDG 2	Rank 11	Aerni, Philipp	Score: 2.4
+SDG 2	Rank 12	Battiston, Stefano	Score: 2.3
+SDG 2	Rank 13	Scherer, Andreas Georg	Score: 2.25
+SDG 2	Rank 14	Zweifel, Peter	Score: 2.15
+SDG 2	Rank 15	Chesney, Marc	Score: 2.1
+SDG 2	Rank 16	Yanagizawa-Drott, David	Score: 2.1
+SDG 2	Rank 17	Dorn, David	Score: 1.9
+SDG 2	Rank 18	Dorn, Michael	Score: 1.9
+SDG 2	Rank 19	Svensson, Jakob	Score: 1.9
+SDG 2	Rank 20	Casaburi, Lorenzo	Score: 1.9
+SDG 2	Rank 21	Hilty, Lorenz M	Score: 1.9
+SDG 2	Rank 22	Winkelmann, Rainer	Score: 1.57
+SDG 2	Rank 23	Backes-Gellner, Uschi	Score: 1.5
+SDG 2	Rank 24	Caprettini, Bruno	Score: 1.5
+SDG 2	Rank 25	Willis, Jack	Score: 1.4
+SDG 2	Rank 26	Natter, Martin	Score: 1.4
+SDG 2	Rank 27	Falkinger, Josef	Score: 1.4
+SDG 2	Rank 28	Floris, Jo�l	Score: 1.3
+SDG 2	Rank 29	Voth, Hans-Joachim	Score: 1.25
+SDG 2	Rank 30	Vargas, Carlos	Score: 1.25
+SDG 2	Rank 31	Hens, Thorsten	Score: 1.25
+SDG 2	Rank 32	Mader, Clemens	Score: 1.25
+SDG 2	Rank 33	Stutzer, Alois	Score: 1.25
+SDG 2	Rank 34	Schmidt, Liane	Score: 1.2
+SDG 2	Rank 35	Balietti, Anca	Score: 1.2
+SDG 2	Rank 36	Zavolokina, Liudmila	Score: 1.15
+SDG 2	Rank 37	Davidov, Eldad	Score: 1.15
+SDG 2	Rank 38	Fedosov, Anton	Score: 1.1
+SDG 2	Rank 39	Ponticelli, Jacopo	Score: 1.1
+SDG 2	Rank 40	Storesletten, Kjetil	Score: 1.1
+SDG 2	Rank 41	Huss, Matthias	Score: 1.1
+SDG 2	Rank 42	Hare, Todd	Score: 1.1
+SDG 2	Rank 43	Bustos, Paula	Score: 1.1
+SDG 2	Rank 44	Leippold, Markus	Score: 1.08
+SDG 2	Rank 45	Tanner, Carmen	Score: 1.05
+SDG 2	Rank 46	Schwandt, Hannes	Score: 1.05
+SDG 2	Rank 47	Palazzo, Guido	Score: 1.05
+SDG 2	Rank 48	Paetzold, Falko	Score: 1.05
+SDG 2	Rank 49	Autor, David	Score: 1.0
+SDG 2	Rank 50	Scherer, A G	Score: 1.0
+SDG 2	Rank 51	Hummel, Katrin	Score: 1.0
+SDG 2	Rank 52	Lalive, Rafael	Score: 1.0
+SDG 2	Rank 53	Merian, Sybilla	Score: 1.0
+SDG 2	Rank 54	Tobler, Philippe N	Score: 1.0
+SDG 2	Rank 55	Wagner, Alexander	Score: 1.0
+SDG 2	Rank 56	Weber, Roberto A	Score: 0.96
+SDG 2	Rank 57	Osterloh, Margit	Score: 0.95
+SDG 2	Rank 58	Fu, Jonathan	Score: 0.95
+SDG 2	Rank 59	Hoffmann, Mathias	Score: 0.93
+SDG 2	Rank 60	Ruff, Christian C	Score: 0.91
+SDG 2	Rank 61	Sonnino, Andrea	Score: 0.9
+SDG 2	Rank 62	Zea Escamilla, Edwin	Score: 0.9
+SDG 2	Rank 63	Cieciuch, Jan	Score: 0.9
+SDG 2	Rank 64	Rauh, Christopher	Score: 0.9
+SDG 2	Rank 65	Stiller, Burkhard	Score: 0.9
+SDG 2	Rank 66	Bernauer, Thomas	Score: 0.9
+SDG 2	Rank 67	Rangel, Antonio	Score: 0.9
+SDG 2	Rank 68	Rudgard, Stephen	Score: 0.9
+SDG 2	Rank 69	Rochet, Jean-Charles	Score: 0.9
+SDG 2	Rank 70	Nichterlein, Karin	Score: 0.9
+SDG 2	Rank 71	Preissl, Hubert	Score: 0.9
+SDG 2	Rank 72	Busch, Timo	Score: 0.9
+SDG 2	Rank 73	Schmutzler, Armin	Score: 0.9
+SDG 2	Rank 74	Palazzo, G	Score: 0.9
+SDG 2	Rank 75	Brander, Micheal	Score: 0.9
+SDG 2	Rank 76	Meins, Erika	Score: 0.9
+SDG 2	Rank 77	Sachs, Sybille	Score: 0.9
+SDG 2	Rank 78	Scherer, Andreas	Score: 0.9
+SDG 2	Rank 79	Boneva, Teodora	Score: 0.9
+SDG 2	Rank 80	Smeets, Paul A M	Score: 0.9
+SDG 2	Rank 81	Kubler, Felix	Score: 0.85
+SDG 2	Rank 82	Baumann-Pauly, Dorothee	Score: 0.85
+SDG 2	Rank 83	Bernstein, Abraham	Score: 0.85
+SDG 2	Rank 84	Foellmi, Reto	Score: 0.85
+SDG 2	Rank 85	Golin, Marta	Score: 0.85
+SDG 2	Rank 86	Epper, Thomas	Score: 0.85
+SDG 2	Rank 87	Lichand, Guilherme	Score: 0.8
+SDG 2	Rank 88	Pycia, Marek	Score: 0.8
+SDG 2	Rank 89	Egger, H	Score: 0.8
+SDG 2	Rank 90	Lang, Markus	Score: 0.8
+SDG 2	Rank 91	Voegtlin, Christian	Score: 0.8
+SDG 2	Rank 92	Kaizzi, Kayuki C	Score: 0.8
+SDG 2	Rank 93	Bold, Tessa	Score: 0.8
+SDG 2	Rank 94	Schenker-Wicki, Andrea	Score: 0.8
+SDG 2	Rank 95	Kuster, Marius	Score: 0.8
+SDG 2	Rank 96	Ossa, Ralph	Score: 0.75
+SDG 2	Rank 97	Jaimovich, Nir	Score: 0.75
+SDG 2	Rank 98	Schiller, Eryk	Score: 0.75
+SDG 2	Rank 99	Algesheimer, Ren�	Score: 0.75
+SDG 2	Rank 100	Gancia, Gino	Score: 0.75
+RANKING FOR SDG 3
+SDG 3	Rank 1	Tobler, Philippe N	Score: 50.0
+SDG 3	Rank 2	Ruff, Christian C	Score: 37.1
+SDG 3	Rank 3	Fehr, Ernst	Score: 31.3
+SDG 3	Rank 4	Zweifel, Peter	Score: 31.05
+SDG 3	Rank 5	Stephan, K E	Score: 23.45
+SDG 3	Rank 6	Hare, Todd A	Score: 22.95
+SDG 3	Rank 7	Frey, Bruno S	Score: 21.75
+SDG 3	Rank 8	Cieciuch, Jan	Score: 17.8
+SDG 3	Rank 9	Winkelmann, Rainer	Score: 17.7
+SDG 3	Rank 10	Friston, K J	Score: 17.45
+SDG 3	Rank 11	Schwabe, Gerhard	Score: 17.0
+SDG 3	Rank 12	Stutzer, Alois	Score: 13.75
+SDG 3	Rank 13	Seifritz, Erich	Score: 12.9
+SDG 3	Rank 14	Zweim�ller, Josef	Score: 12.3
+SDG 3	Rank 15	Ongena, Steven	Score: 11.75
+SDG 3	Rank 16	Kaiser, Stefan	Score: 11.7
+SDG 3	Rank 17	Polania, Rafael	Score: 11.0
+SDG 3	Rank 18	Bernstein, Abraham	Score: 10.3
+SDG 3	Rank 19	Backes-Gellner, Uschi	Score: 9.9
+SDG 3	Rank 20	Kirschner, Matthias	Score: 9.4
+SDG 3	Rank 21	Nebe, Stephan	Score: 9.3
+SDG 3	Rank 22	St�ckli, Sabrina	Score: 9.1
+SDG 3	Rank 23	Telser, Harry	Score: 8.7
+SDG 3	Rank 24	Grueschow, Marcus	Score: 8.3
+SDG 3	Rank 25	Beck, Konstantin	Score: 7.8
+SDG 3	Rank 26	Dolan, R J	Score: 7.2
+SDG 3	Rank 27	Dolata, Mateusz	Score: 7.2
+SDG 3	Rank 28	Soutschek, Alexander	Score: 7.2
+SDG 3	Rank 29	Smolka, Michael N	Score: 7.0
+SDG 3	Rank 30	Davidov, Eldad	Score: 7.0
+SDG 3	Rank 31	Moisa, Marius	Score: 7.0
+SDG 3	Rank 32	Blankenburg, F	Score: 6.9
+SDG 3	Rank 33	Stiller, Burkhard	Score: 6.9
+SDG 3	Rank 34	Driver, J	Score: 6.8
+SDG 3	Rank 35	Woitek, Ulrich	Score: 6.6
+SDG 3	Rank 36	Casey, B J	Score: 6.6
+SDG 3	Rank 37	Lalive, Rafael	Score: 6.3
+SDG 3	Rank 38	Heinz, Andreas	Score: 6.3
+SDG 3	Rank 39	Schwandt, Hannes	Score: 6.3
+SDG 3	Rank 40	Fritz, Thomas	Score: 6.3
+SDG 3	Rank 41	Sebold, Miriam	Score: 6.3
+SDG 3	Rank 42	Zilibotti, Fabrizio	Score: 6.25
+SDG 3	Rank 43	Paulus, Walter	Score: 6.0
+SDG 3	Rank 44	Bestmann, S	Score: 5.9
+SDG 3	Rank 45	Huertas Celdran, Alberto	Score: 5.55
+SDG 3	Rank 46	Biroli, Pietro	Score: 5.4
+SDG 3	Rank 47	Scaramuzza, Davide	Score: 5.3
+SDG 3	Rank 48	Tanner, Carmen	Score: 5.15
+SDG 3	Rank 49	Beck, K	Score: 5.1
+SDG 3	Rank 50	Han, Hyemin	Score: 5.1
+SDG 3	Rank 51	Stephan, Klaas E	Score: 5.0
+SDG 3	Rank 52	Daunizeau, J	Score: 5.0
+SDG 3	Rank 53	Weber, Roberto A	Score: 4.95
+SDG 3	Rank 54	Scherer, Andreas Georg	Score: 4.95
+SDG 3	Rank 55	Strus, W?odzimierz	Score: 4.9
+SDG 3	Rank 56	Hartmann-Riemer, Matthias N	Score: 4.9
+SDG 3	Rank 57	Garbusow, Maria	Score: 4.9
+SDG 3	Rank 58	Al�s-Ferrer, Carlos	Score: 4.9
+SDG 3	Rank 59	Staub, Kevin E	Score: 4.85
+SDG 3	Rank 60	Weiskopf, N	Score: 4.8
+SDG 3	Rank 61	Burke, Christopher J	Score: 4.7
+SDG 3	Rank 62	Blackburn, Ang�lique M	Score: 4.7
+SDG 3	Rank 63	Singer, T	Score: 4.6
+SDG 3	Rank 64	Dorn, David	Score: 4.6
+SDG 3	Rank 65	Yanagizawa-Drott, David	Score: 4.6
+SDG 3	Rank 66	Nitsche, Michael A	Score: 4.5
+SDG 3	Rank 67	Jeftic, Alma	Score: 4.4
+SDG 3	Rank 68	Battiston, Stefano	Score: 4.35
+SDG 3	Rank 69	Howe, Lauren C	Score: 4.3
+SDG 3	Rank 70	Schoder, Johannes	Score: 4.3
+SDG 3	Rank 71	Huys, Quentin J M	Score: 4.3
+SDG 3	Rank 72	Voth, Hans-Joachim	Score: 4.2
+SDG 3	Rank 73	Menges, Jochen I	Score: 4.2
+SDG 3	Rank 74	Crum, Alia J	Score: 4.1
+SDG 3	Rank 75	Fischbacher, Urs	Score: 4.1
+SDG 3	Rank 76	Saposnik, Gustavo	Score: 4.1
+SDG 3	Rank 77	Boes, Stefan	Score: 4.1
+SDG 3	Rank 78	Schunk, Daniel	Score: 4.1
+SDG 3	Rank 79	Osterloh, Margit	Score: 4.05
+SDG 3	Rank 80	Vestergren, Sara	Score: 4.0
+SDG 3	Rank 81	Nagy, Zoltan	Score: 4.0
+SDG 3	Rank 82	Kuhn, Andreas	Score: 4.0
+SDG 3	Rank 83	Kahnt, Thorsten	Score: 3.9
+SDG 3	Rank 84	Howe, Lauren	Score: 3.85
+SDG 3	Rank 85	Steiner, Jakub	Score: 3.85
+SDG 3	Rank 86	Kiebel, S J	Score: 3.8
+SDG 3	Rank 87	Luechinger, Simon	Score: 3.7
+SDG 3	Rank 88	Rauh, Christopher	Score: 3.7
+SDG 3	Rank 89	Tottenham, Nim	Score: 3.7
+SDG 3	Rank 90	Boneva, Teodora	Score: 3.7
+SDG 3	Rank 91	Kleim, Birgit	Score: 3.7
+SDG 3	Rank 92	Seidl, David	Score: 3.65
+SDG 3	Rank 93	Hilty, Lorenz	Score: 3.6
+SDG 3	Rank 94	Bartling, Bj�rn	Score: 3.6
+SDG 3	Rank 95	Zimmermann, Ulrich S	Score: 3.6
+SDG 3	Rank 96	Z�litz, Ulf	Score: 3.6
+SDG 3	Rank 97	Wolf, Michael	Score: 3.55
+SDG 3	Rank 98	Currie, Janet	Score: 3.5
+SDG 3	Rank 99	Kuitunen-Paul, S�ren	Score: 3.5
+SDG 3	Rank 100	Antal, Andrea	Score: 3.5
+RANKING FOR SDG 4
+SDG 4	Rank 1	Backes-Gellner, Uschi	Score: 38.05
+SDG 4	Rank 2	Schwabe, Gerhard	Score: 26.3
+SDG 4	Rank 3	Frey, Bruno S	Score: 15.15
+SDG 4	Rank 4	Cieciuch, Jan	Score: 13.95
+SDG 4	Rank 5	Z�litz, Ulf	Score: 13.8
+SDG 4	Rank 6	Fehr, Ernst	Score: 12.6
+SDG 4	Rank 7	Bernstein, Abraham	Score: 11.75
+SDG 4	Rank 8	Ruff, Christian C	Score: 9.65
+SDG 4	Rank 9	Bacchelli, Alberto	Score: 9.5
+SDG 4	Rank 10	Davidov, Eldad	Score: 9.45
+SDG 4	Rank 11	Winkelmann, Rainer	Score: 8.9
+SDG 4	Rank 12	Schenker-Wicki, Andrea	Score: 8.3
+SDG 4	Rank 13	Tobler, Philippe N	Score: 7.95
+SDG 4	Rank 14	Lichand, Guilherme	Score: 7.55
+SDG 4	Rank 15	Hare, Todd A	Score: 6.85
+SDG 4	Rank 16	Falkinger, Josef	Score: 6.55
+SDG 4	Rank 17	Rossetto, Luca	Score: 6.55
+SDG 4	Rank 18	Osterloh, Margit	Score: 6.4
+SDG 4	Rank 19	Dolata, Mateusz	Score: 6.25
+SDG 4	Rank 20	Seidl, David	Score: 6.25
+SDG 4	Rank 21	Glinz, Martin	Score: 5.45
+SDG 4	Rank 22	Pull, Kerstin	Score: 5.4
+SDG 4	Rank 23	Pfister, Curdin	Score: 5.3
+SDG 4	Rank 24	G�th, Christoph	Score: 5.2
+SDG 4	Rank 25	Al�s-Ferrer, Carlos	Score: 5.1
+SDG 4	Rank 26	Grossmann, Volker	Score: 5.1
+SDG 4	Rank 27	Feld, Jan	Score: 5.0
+SDG 4	Rank 28	Seyff, Norbert	Score: 4.65
+SDG 4	Rank 29	Mader, Clemens	Score: 4.6
+SDG 4	Rank 30	Olivares, Maria	Score: 4.6
+SDG 4	Rank 31	Zilibotti, Fabrizio	Score: 4.55
+SDG 4	Rank 32	Fritz, Thomas	Score: 4.25
+SDG 4	Rank 33	Schunk, Daniel	Score: 4.2
+SDG 4	Rank 34	Bernard, J�rgen	Score: 4.15
+SDG 4	Rank 35	Lehnert, Patrick	Score: 4.15
+SDG 4	Rank 36	Bernstein, A	Score: 4.05
+SDG 4	Rank 37	Schwartz, Shalom H	Score: 3.95
+SDG 4	Rank 38	Schmidt, Peter	Score: 3.95
+SDG 4	Rank 39	Ongena, Steven	Score: 3.82
+SDG 4	Rank 40	Sorrenti, Giuseppe	Score: 3.8
+SDG 4	Rank 41	Christen, Markus	Score: 3.75
+SDG 4	Rank 42	Scherer, Andreas Georg	Score: 3.75
+SDG 4	Rank 43	Rupietta, Christian	Score: 3.7
+SDG 4	Rank 44	Frohberg, Dirk	Score: 3.7
+SDG 4	Rank 45	Tanner, Carmen	Score: 3.65
+SDG 4	Rank 46	Pajarola, R	Score: 3.65
+SDG 4	Rank 47	Woitek, Ulrich	Score: 3.6
+SDG 4	Rank 48	Biroli, Pietro	Score: 3.5
+SDG 4	Rank 49	Pycia, Marek	Score: 3.5
+SDG 4	Rank 50	B�ker, Agnes	Score: 3.5
+SDG 4	Rank 51	Hermes, Henning	Score: 3.5
+SDG 4	Rank 52	Zweim�ller, Josef	Score: 3.3
+SDG 4	Rank 53	Berger, Eva M	Score: 3.3
+SDG 4	Rank 54	Winkel, Kirsten	Score: 3.3
+SDG 4	Rank 55	Algesheimer, Ren�	Score: 3.25
+SDG 4	Rank 56	Scaramuzza, Davide	Score: 3.15
+SDG 4	Rank 57	Schenk, Birgit	Score: 3.15
+SDG 4	Rank 58	Schultheiss, Tobias	Score: 3.0
+SDG 4	Rank 59	Boppart, Timo	Score: 3.0
+SDG 4	Rank 60	Zweifel, Peter	Score: 2.95
+SDG 4	Rank 61	Palomba, Fabio	Score: 2.9
+SDG 4	Rank 62	Stephan, K E	Score: 2.9
+SDG 4	Rank 63	Balestra, Simone	Score: 2.8
+SDG 4	Rank 64	Gall, Harald C	Score: 2.8
+SDG 4	Rank 65	Casey, B J	Score: 2.75
+SDG 4	Rank 66	Golsteyn, Bart H H	Score: 2.7
+SDG 4	Rank 67	Salamanca, Nicolas	Score: 2.7
+SDG 4	Rank 68	Bernheim, B Douglas	Score: 2.7
+SDG 4	Rank 69	Rost, Katja	Score: 2.6
+SDG 4	Rank 70	Schlegel, Tobias	Score: 2.6
+SDG 4	Rank 71	Rauh, Christopher	Score: 2.6
+SDG 4	Rank 72	Boneva, Teodora	Score: 2.6
+SDG 4	Rank 73	Wolf, Michael	Score: 2.55
+SDG 4	Rank 74	Hilty, Lorenz	Score: 2.5
+SDG 4	Rank 75	Hens, Thorsten	Score: 2.5
+SDG 4	Rank 76	Pajarola, Renato	Score: 2.5
+SDG 4	Rank 77	Franck, E	Score: 2.46
+SDG 4	Rank 78	Stutzer, Alois	Score: 2.45
+SDG 4	Rank 79	Schuldt, Heiko	Score: 2.45
+SDG 4	Rank 80	Bren�e, Anne Ardila	Score: 2.45
+SDG 4	Rank 81	Eisner, Manuel	Score: 2.4
+SDG 4	Rank 82	Schwandt, Hannes	Score: 2.4
+SDG 4	Rank 83	Gnehm, Ann-Sophie	Score: 2.4
+SDG 4	Rank 84	Vecchione, Michele	Score: 2.4
+SDG 4	Rank 85	Loko?, Jakub	Score: 2.4
+SDG 4	Rank 86	Scherer, A G	Score: 2.4
+SDG 4	Rank 87	Ribeaud, Denis	Score: 2.4
+SDG 4	Rank 88	Meuleman, Bart	Score: 2.4
+SDG 4	Rank 89	Friston, K J	Score: 2.35
+SDG 4	Rank 90	Strus, W?odzimierz	Score: 2.3
+SDG 4	Rank 91	Schoeffmann, Klaus	Score: 2.3
+SDG 4	Rank 92	Giesbrecht, Tobias	Score: 2.3
+SDG 4	Rank 93	Gurrin, Cathal	Score: 2.3
+SDG 4	Rank 94	Epper, Thomas	Score: 2.25
+SDG 4	Rank 95	Schmocker, David	Score: 2.25
+SDG 4	Rank 96	Katsarov, Johannes	Score: 2.25
+SDG 4	Rank 97	Feldman, Michael	Score: 2.2
+SDG 4	Rank 98	Lalive, Rafael	Score: 2.15
+SDG 4	Rank 99	Reinecke, Katharina	Score: 2.1
+SDG 4	Rank 100	Amb�hl, Sandro	Score: 2.1
+RANKING FOR SDG 5
+SDG 5	Rank 1	Fehr, Ernst	Score: 14.55
+SDG 5	Rank 2	Backes-Gellner, Uschi	Score: 10.77
+SDG 5	Rank 3	Z�litz, Ulf	Score: 10.55
+SDG 5	Rank 4	Frey, Bruno S	Score: 9.25
+SDG 5	Rank 5	Davidov, Eldad	Score: 7.85
+SDG 5	Rank 6	Cieciuch, Jan	Score: 7.65
+SDG 5	Rank 7	Dietl, Helmut	Score: 6.85
+SDG 5	Rank 8	Zweim�ller, Josef	Score: 6.1
+SDG 5	Rank 9	Ongena, Steven	Score: 6.07
+SDG 5	Rank 10	Nesseler, Cornel	Score: 5.8
+SDG 5	Rank 11	G�mez Gonz�lez, Carlos	Score: 5.8
+SDG 5	Rank 12	Weber, Roberto A	Score: 5.62
+SDG 5	Rank 13	Bren�e, Anne Ardila	Score: 5.5
+SDG 5	Rank 14	Feld, Jan	Score: 5.2
+SDG 5	Rank 15	Schwabe, Gerhard	Score: 5.2
+SDG 5	Rank 16	Gloor, Jamie Lee	Score: 4.9
+SDG 5	Rank 17	Ranehill, Eva	Score: 4.6
+SDG 5	Rank 18	Stutzer, Alois	Score: 4.45
+SDG 5	Rank 19	Tobler, Philippe N	Score: 4.25
+SDG 5	Rank 20	Bernstein, Abraham	Score: 4.2
+SDG 5	Rank 21	Segal, Carmit	Score: 4.1
+SDG 5	Rank 22	Efferson, Charles	Score: 4.05
+SDG 5	Rank 23	Osterloh, Margit	Score: 3.65
+SDG 5	Rank 24	Winkelmann, Rainer	Score: 3.65
+SDG 5	Rank 25	Scherer, Andreas Georg	Score: 3.6
+SDG 5	Rank 26	Vogt, Sonja	Score: 3.6
+SDG 5	Rank 27	Zilibotti, Fabrizio	Score: 3.55
+SDG 5	Rank 28	Schwartz, Shalom H	Score: 3.45
+SDG 5	Rank 29	Miller, Amalia R	Score: 3.3
+SDG 5	Rank 30	Biroli, Pietro	Score: 3.0
+SDG 5	Rank 31	Boneva, Teodora	Score: 3.0
+SDG 5	Rank 32	Rauh, Christopher	Score: 3.0
+SDG 5	Rank 33	Lalive, Rafael	Score: 2.95
+SDG 5	Rank 34	Rost, Katja	Score: 2.85
+SDG 5	Rank 35	Steinhauer, Andreas	Score: 2.75
+SDG 5	Rank 36	Al�s-Ferrer, Carlos	Score: 2.7
+SDG 5	Rank 37	Ruff, Christian C	Score: 2.66
+SDG 5	Rank 38	Schmidt, Peter	Score: 2.65
+SDG 5	Rank 39	Doepke, Matthias	Score: 2.55
+SDG 5	Rank 40	Christen, Markus	Score: 2.55
+SDG 5	Rank 41	Menges, Jochen I	Score: 2.5
+SDG 5	Rank 42	Sauermann, Jan	Score: 2.5
+SDG 5	Rank 43	Tanner, Carmen	Score: 2.45
+SDG 5	Rank 44	Golin, Marta	Score: 2.45
+SDG 5	Rank 45	Pull, Kerstin	Score: 2.45
+SDG 5	Rank 46	Bursztyn, Leonardo	Score: 2.4
+SDG 5	Rank 47	Hare, Todd A	Score: 2.4
+SDG 5	Rank 48	Algesheimer, Ren�	Score: 2.35
+SDG 5	Rank 49	Bartling, Bj�rn	Score: 2.35
+SDG 5	Rank 50	Urman, Aleksandra	Score: 2.35
+SDG 5	Rank 51	Makhortykh, Mykola	Score: 2.25
+SDG 5	Rank 52	Lichand, Guilherme	Score: 2.15
+SDG 5	Rank 53	Dolata, Mateusz	Score: 2.15
+SDG 5	Rank 54	Scherer, A G	Score: 2.1
+SDG 5	Rank 55	Berri, David	Score: 2.1
+SDG 5	Rank 56	Hein, Grit	Score: 2.05
+SDG 5	Rank 57	Seidl, David	Score: 2.05
+SDG 5	Rank 58	Epper, Thomas	Score: 2.02
+SDG 5	Rank 59	Singer, T	Score: 2.0
+SDG 5	Rank 60	Vecchione, Michele	Score: 2.0
+SDG 5	Rank 61	Bacchelli, Alberto	Score: 1.95
+SDG 5	Rank 62	Fischbacher, Urs	Score: 1.9
+SDG 5	Rank 63	Torgler, Benno	Score: 1.9
+SDG 5	Rank 64	Yanagizawa-Drott, David	Score: 1.9
+SDG 5	Rank 65	S�ez-Mart�, Mar�a	Score: 1.85
+SDG 5	Rank 66	Ulloa, Roberto	Score: 1.85
+SDG 5	Rank 67	Voegtlin, Christian	Score: 1.85
+SDG 5	Rank 68	Kleven, Henrik	Score: 1.8
+SDG 5	Rank 69	Landais, Camille	Score: 1.8
+SDG 5	Rank 70	Savage, David A	Score: 1.8
+SDG 5	Rank 71	Posch, Johanna	Score: 1.8
+SDG 5	Rank 72	Lehnert, Patrick	Score: 1.77
+SDG 5	Rank 73	Falkinger, Josef	Score: 1.75
+SDG 5	Rank 74	Mengel, Friederike	Score: 1.7
+SDG 5	Rank 75	Adams-Prassl, Abi	Score: 1.7
+SDG 5	Rank 76	Katsarov, Johannes	Score: 1.65
+SDG 5	Rank 77	Schmocker, David	Score: 1.65
+SDG 5	Rank 78	Heursen, Lea	Score: 1.6
+SDG 5	Rank 79	Gonz�lez, Alessandra L	Score: 1.6
+SDG 5	Rank 80	Hens, Thorsten	Score: 1.6
+SDG 5	Rank 81	Soutschek, Alexander	Score: 1.6
+SDG 5	Rank 82	Palazzo, G	Score: 1.6
+SDG 5	Rank 83	Rendall, Michelle	Score: 1.6
+SDG 5	Rank 84	Palmtag, Tabea	Score: 1.6
+SDG 5	Rank 85	Reinecke, Katharina	Score: 1.5
+SDG 5	Rank 86	Howe, Lauren C	Score: 1.5
+SDG 5	Rank 87	Bhalotra, Sonia	Score: 1.5
+SDG 5	Rank 88	Heitz, Christoph	Score: 1.5
+SDG 5	Rank 89	Guvenen, Fatih	Score: 1.5
+SDG 5	Rank 90	Paustian-Underdahl, Samantha C	Score: 1.5
+SDG 5	Rank 91	Salamanca, Nicolas	Score: 1.5
+SDG 5	Rank 92	Morf, Manuela Christina	Score: 1.5
+SDG 5	Rank 93	Maselko, Joanna	Score: 1.5
+SDG 5	Rank 94	Lamm, Claus	Score: 1.45
+SDG 5	Rank 95	Schunk, Daniel	Score: 1.4
+SDG 5	Rank 96	Jaimovich, Nir	Score: 1.4
+SDG 5	Rank 97	de Gendre, Alexandra	Score: 1.4
+SDG 5	Rank 98	Hertweck, Corinna	Score: 1.4
+SDG 5	Rank 99	Mar�chal, Michel Andr�	Score: 1.4
+SDG 5	Rank 100	Tuor, Simone	Score: 1.4
+RANKING FOR SDG 6
+SDG 6	Rank 1	Hilty, Lorenz M	Score: 4.8
+SDG 6	Rank 2	Hilty, Lorenz	Score: 3.8
+SDG 6	Rank 3	Ongena, Steven	Score: 2.87
+SDG 6	Rank 4	Scherer, Andreas Georg	Score: 2.55
+SDG 6	Rank 5	Frey, Bruno S	Score: 2.43
+SDG 6	Rank 6	Schmutzler, Armin	Score: 2.3
+SDG 6	Rank 7	Schiller, Eryk	Score: 2.15
+SDG 6	Rank 8	Schwabe, Gerhard	Score: 2.1
+SDG 6	Rank 9	Nowack, Bernd	Score: 2.05
+SDG 6	Rank 10	Fehr, Ernst	Score: 2.0
+SDG 6	Rank 11	Meins, Erika	Score: 2.0
+SDG 6	Rank 12	Lapin, Andrei	Score: 1.8
+SDG 6	Rank 13	Kropf, Peter	Score: 1.8
+SDG 6	Rank 14	Brunner, Philip	Score: 1.8
+SDG 6	Rank 15	Battiston, Stefano	Score: 1.6
+SDG 6	Rank 16	Zea Escamilla, Edwin	Score: 1.6
+SDG 6	Rank 17	Bornh�ft, Nikolaus A	Score: 1.55
+SDG 6	Rank 18	H�jer, Mattias	Score: 1.5
+SDG 6	Rank 19	Palazzo, Guido	Score: 1.5
+SDG 6	Rank 20	Chesney, Marc	Score: 1.45
+SDG 6	Rank 21	Baumann-Pauly, Dorothee	Score: 1.35
+SDG 6	Rank 22	Pohl, Johanna	Score: 1.3
+SDG 6	Rank 23	Meister, Urs	Score: 1.3
+SDG 6	Rank 24	Hunkeler, Daniel	Score: 1.3
+SDG 6	Rank 25	Leippold, Markus	Score: 1.28
+SDG 6	Rank 26	Fedosov, Anton	Score: 1.2
+SDG 6	Rank 27	Stutzer, Alois	Score: 1.2
+SDG 6	Rank 28	Mader, Clemens	Score: 1.2
+SDG 6	Rank 29	Hummel, Katrin	Score: 1.2
+SDG 6	Rank 30	Schilling, Oliver	Score: 1.2
+SDG 6	Rank 31	Braun, Torsten	Score: 1.15
+SDG 6	Rank 32	Zilibotti, Fabrizio	Score: 1.15
+SDG 6	Rank 33	Paetzold, Falko	Score: 1.1
+SDG 6	Rank 34	Scherer, A G	Score: 1.1
+SDG 6	Rank 35	Aerni, Philipp	Score: 1.1
+SDG 6	Rank 36	Schenker-Wicki, Andrea	Score: 1.1
+SDG 6	Rank 37	Backes-Gellner, Uschi	Score: 1.07
+SDG 6	Rank 38	Bieser, Jan C T	Score: 1.05
+SDG 6	Rank 39	Stiller, Burkhard	Score: 1.05
+SDG 6	Rank 40	Zweim�ller, Josef	Score: 1.05
+SDG 6	Rank 41	Santarius, Tilman	Score: 1.0
+SDG 6	Rank 42	Lange, Steffen	Score: 1.0
+SDG 6	Rank 43	Lohmann, Wolfgang	Score: 1.0
+SDG 6	Rank 44	Scherer, Andreas	Score: 1.0
+SDG 6	Rank 45	Habert, Guillaume	Score: 1.0
+SDG 6	Rank 46	Weber, Roberto A	Score: 0.97
+SDG 6	Rank 47	Busch, Timo	Score: 0.95
+SDG 6	Rank 48	Zavolokina, Liudmila	Score: 0.9
+SDG 6	Rank 49	Palazzo, G	Score: 0.9
+SDG 6	Rank 50	Pycia, Marek	Score: 0.9
+SDG 6	Rank 51	F�llmi, Reto	Score: 0.9
+SDG 6	Rank 52	Dorn, David	Score: 0.85
+SDG 6	Rank 53	Lalive, Rafael	Score: 0.85
+SDG 6	Rank 54	Seidl, David	Score: 0.85
+SDG 6	Rank 55	Zweifel, Peter	Score: 0.8
+SDG 6	Rank 56	Diez, Tomas	Score: 0.8
+SDG 6	Rank 57	Hankey, Stephanie	Score: 0.8
+SDG 6	Rank 58	Hilbeck, Angelika	Score: 0.8
+SDG 6	Rank 59	Sun, Tian Yin	Score: 0.8
+SDG 6	Rank 60	Ferreboeuf, Hugues	Score: 0.8
+SDG 6	Rank 61	Beck, Mathias	Score: 0.8
+SDG 6	Rank 62	Miyashita, Shuhei	Score: 0.8
+SDG 6	Rank 63	Pfeifer, Rolf	Score: 0.8
+SDG 6	Rank 64	Wagner, Alexander F	Score: 0.8
+SDG 6	Rank 65	Voegtlin, Christian	Score: 0.8
+SDG 6	Rank 66	Kleine, Dorothea	Score: 0.8
+SDG 6	Rank 67	Ryghaug, Marianne	Score: 0.8
+SDG 6	Rank 68	Schwanen, Tim	Score: 0.8
+SDG 6	Rank 69	Staab, Philipp	Score: 0.8
+SDG 6	Rank 70	Cieciuch, Jan	Score: 0.8
+SDG 6	Rank 71	Dencik, Lina	Score: 0.8
+SDG 6	Rank 72	Sachs, Sybille	Score: 0.77
+SDG 6	Rank 73	Foellmi, Reto	Score: 0.75
+SDG 6	Rank 74	Bartling, Bj�rn	Score: 0.75
+SDG 6	Rank 75	Feige, Annika	Score: 0.7
+SDG 6	Rank 76	Puschmann, Thomas	Score: 0.7
+SDG 6	Rank 77	Osterloh, Margit	Score: 0.7
+SDG 6	Rank 78	Dolata, Mateusz	Score: 0.7
+SDG 6	Rank 79	Hens, Thorsten	Score: 0.7
+SDG 6	Rank 80	Huang, Elaine M	Score: 0.7
+SDG 6	Rank 81	Tobler, Philippe N	Score: 0.7
+SDG 6	Rank 82	Dietl, Helmut	Score: 0.7
+SDG 6	Rank 83	Trujillo, David	Score: 0.7
+SDG 6	Rank 84	M�ller, A	Score: 0.7
+SDG 6	Rank 85	Huang, Elaine May	Score: 0.7
+SDG 6	Rank 86	Winkelmann, Rainer	Score: 0.67
+SDG 6	Rank 87	Luechinger, Simon	Score: 0.65
+SDG 6	Rank 88	Woitek, Ulrich	Score: 0.65
+SDG 6	Rank 89	Miscione, Gianluca	Score: 0.65
+SDG 6	Rank 90	Monasterolo, Irene	Score: 0.65
+SDG 6	Rank 91	Wagner, Alexander	Score: 0.65
+SDG 6	Rank 92	Falkinger, Josef	Score: 0.65
+SDG 6	Rank 93	Polk, Andreas	Score: 0.6
+SDG 6	Rank 94	Holm, Stefan	Score: 0.6
+SDG 6	Rank 95	Kraus, Mathias	Score: 0.6
+SDG 6	Rank 96	Schibler, Andreas	Score: 0.6
+SDG 6	Rank 97	Raman, Sainath	Score: 0.6
+SDG 6	Rank 98	St�ckli, Sabrina	Score: 0.6
+SDG 6	Rank 99	Tang, Qi	Score: 0.6
+SDG 6	Rank 100	Vereecken, Harry	Score: 0.6
+RANKING FOR SDG 7
+SDG 7	Rank 1	Hilty, Lorenz M	Score: 12.7
+SDG 7	Rank 2	Hilty, Lorenz	Score: 11.9
+SDG 7	Rank 3	Stiller, Burkhard	Score: 9.65
+SDG 7	Rank 4	Zweifel, Peter	Score: 9.25
+SDG 7	Rank 5	Ongena, Steven	Score: 5.44
+SDG 7	Rank 6	Scaramuzza, Davide	Score: 5.42
+SDG 7	Rank 7	Schiller, Eryk	Score: 5.2
+SDG 7	Rank 8	Meins, Erika	Score: 4.6
+SDG 7	Rank 9	H�mous, David	Score: 4.5
+SDG 7	Rank 10	Chesney, Marc	Score: 4.0
+SDG 7	Rank 11	Schwabe, Gerhard	Score: 3.97
+SDG 7	Rank 12	Battiston, Stefano	Score: 3.95
+SDG 7	Rank 13	Aghion, Philippe	Score: 3.55
+SDG 7	Rank 14	Bieser, Jan C T	Score: 3.5
+SDG 7	Rank 15	Krey, Boris	Score: 3.45
+SDG 7	Rank 16	H�jer, Mattias	Score: 3.2
+SDG 7	Rank 17	Coroama, Vlad C	Score: 3.2
+SDG 7	Rank 18	Acemoglu, Daron	Score: 3.0
+SDG 7	Rank 19	Leippold, Markus	Score: 2.83
+SDG 7	Rank 20	Bieser, Jan	Score: 2.8
+SDG 7	Rank 21	Schmutzler, Armin	Score: 2.65
+SDG 7	Rank 22	Hischier, Roland	Score: 2.5
+SDG 7	Rank 23	Lohmann, Wolfgang	Score: 2.5
+SDG 7	Rank 24	Frey, Bruno S	Score: 2.5
+SDG 7	Rank 25	Kern, Eva	Score: 2.5
+SDG 7	Rank 26	Pohl, Johanna	Score: 2.4
+SDG 7	Rank 27	Puschmann, Thomas	Score: 2.35
+SDG 7	Rank 28	Wagner, Alexander F	Score: 2.3
+SDG 7	Rank 29	Scherer, Andreas Georg	Score: 2.3
+SDG 7	Rank 30	Kubler, Felix	Score: 2.27
+SDG 7	Rank 31	Madlener, Reinhard	Score: 2.2
+SDG 7	Rank 32	Naumann, Stefan	Score: 2.2
+SDG 7	Rank 33	Vargas, Carlos	Score: 2.2
+SDG 7	Rank 34	Guldner, Achim	Score: 2.2
+SDG 7	Rank 35	Barrage, Lint	Score: 2.1
+SDG 7	Rank 36	Zilibotti, Fabrizio	Score: 1.9
+SDG 7	Rank 37	Bornh�ft, Nikolaus A	Score: 1.85
+SDG 7	Rank 38	Pfeifer, Rolf	Score: 1.85
+SDG 7	Rank 39	Monasterolo, Irene	Score: 1.85
+SDG 7	Rank 40	Aebischer, Bernard	Score: 1.8
+SDG 7	Rank 41	Ramelli, Stefano	Score: 1.8
+SDG 7	Rank 42	Kramers, Anna	Score: 1.7
+SDG 7	Rank 43	Paetzold, Falko	Score: 1.7
+SDG 7	Rank 44	Hausheer, David	Score: 1.7
+SDG 7	Rank 45	Zavolokina, Liudmila	Score: 1.67
+SDG 7	Rank 46	Santarius, Tilman	Score: 1.6
+SDG 7	Rank 47	Scherer, Andreas	Score: 1.6
+SDG 7	Rank 48	Polbin, Andrey	Score: 1.6
+SDG 7	Rank 49	Kotlikoff, Laurence	Score: 1.6
+SDG 7	Rank 50	Gr�ger, Jens	Score: 1.6
+SDG 7	Rank 51	Aerni, Philipp	Score: 1.6
+SDG 7	Rank 52	Scheidegger, Simon	Score: 1.6
+SDG 7	Rank 53	Wagner, Alexander	Score: 1.6
+SDG 7	Rank 54	Lange, Steffen	Score: 1.6
+SDG 7	Rank 55	Huang, Elaine May	Score: 1.55
+SDG 7	Rank 56	Fehr, Ernst	Score: 1.52
+SDG 7	Rank 57	Dolata, Mateusz	Score: 1.5
+SDG 7	Rank 58	Preist, Chris	Score: 1.5
+SDG 7	Rank 59	Erdmann, Georg	Score: 1.5
+SDG 7	Rank 60	Busch, Timo	Score: 1.45
+SDG 7	Rank 61	et al	Score: 1.45
+SDG 7	Rank 62	Lalive, Rafael	Score: 1.45
+SDG 7	Rank 63	Palazzo, Guido	Score: 1.45
+SDG 7	Rank 64	Scherer, A G	Score: 1.4
+SDG 7	Rank 65	Hidalgo-Carrio, Javier	Score: 1.4
+SDG 7	Rank 66	Hintemann, Ralph	Score: 1.4
+SDG 7	Rank 67	Neustadt, Ilja	Score: 1.4
+SDG 7	Rank 68	Seuken, Sven	Score: 1.35
+SDG 7	Rank 69	Ziegler, Andreas	Score: 1.35
+SDG 7	Rank 70	Sheikh, Farrukh Iqbal	Score: 1.3
+SDG 7	Rank 71	Aryananda, Lijin	Score: 1.3
+SDG 7	Rank 72	Behrendt, Siegfried	Score: 1.3
+SDG 7	Rank 73	Evers-W�lk, Michaela	Score: 1.3
+SDG 7	Rank 74	Fichter, Klaus	Score: 1.3
+SDG 7	Rank 75	Cioffi, Giovanni	Score: 1.3
+SDG 7	Rank 76	Khoban, Roza	Score: 1.3
+SDG 7	Rank 77	Hummel, Katrin	Score: 1.3
+SDG 7	Rank 78	Salvi, Marco	Score: 1.3
+SDG 7	Rank 79	Filler, Andreas	Score: 1.3
+SDG 7	Rank 80	Casanova, Flurin	Score: 1.3
+SDG 7	Rank 81	Ferreboeuf, Hugues	Score: 1.3
+SDG 7	Rank 82	Vu Quy, Hung	Score: 1.3
+SDG 7	Rank 83	Bocek, Thomas	Score: 1.3
+SDG 7	Rank 84	Shann, Michael	Score: 1.3
+SDG 7	Rank 85	Backes-Gellner, Uschi	Score: 1.27
+SDG 7	Rank 86	Miyashita, Shuhei	Score: 1.25
+SDG 7	Rank 87	Zea Escamilla, Edwin	Score: 1.25
+SDG 7	Rank 88	Stiller, B	Score: 1.25
+SDG 7	Rank 89	Bernstein, Abraham	Score: 1.25
+SDG 7	Rank 90	Rochet, Jean-Charles	Score: 1.2
+SDG 7	Rank 91	Heeb, Florian	Score: 1.2
+SDG 7	Rank 92	Baumann-Pauly, Dorothee	Score: 1.2
+SDG 7	Rank 93	Schien, Daniel	Score: 1.2
+SDG 7	Rank 94	Ho�feld, Tobias	Score: 1.2
+SDG 7	Rank 95	Braun, Torsten	Score: 1.2
+SDG 7	Rank 96	Hens, Thorsten	Score: 1.2
+SDG 7	Rank 97	Nikaein, Navid	Score: 1.2
+SDG 7	Rank 98	Stutzer, Alois	Score: 1.15
+SDG 7	Rank 99	Tessone, Claudio	Score: 1.15
+SDG 7	Rank 100	Vaddadi, Bhavana	Score: 1.1
+RANKING FOR SDG 8
+SDG 8	Rank 1	Ongena, Steven	Score: 75.5
+SDG 8	Rank 2	Fehr, Ernst	Score: 42.0
+SDG 8	Rank 3	Backes-Gellner, Uschi	Score: 40.95
+SDG 8	Rank 4	Zweim�ller, Josef	Score: 35.85
+SDG 8	Rank 5	Hens, Thorsten	Score: 35.75
+SDG 8	Rank 6	Schwabe, Gerhard	Score: 32.95
+SDG 8	Rank 7	Battiston, Stefano	Score: 28.2
+SDG 8	Rank 8	Zilibotti, Fabrizio	Score: 23.25
+SDG 8	Rank 9	Frey, Bruno S	Score: 23.05
+SDG 8	Rank 10	Stiller, Burkhard	Score: 22.25
+SDG 8	Rank 11	Schmutzler, Armin	Score: 20.85
+SDG 8	Rank 12	Scaramuzza, Davide	Score: 18.4
+SDG 8	Rank 13	Dorn, David	Score: 17.8
+SDG 8	Rank 14	Hoffmann, Mathias	Score: 15.32
+SDG 8	Rank 15	Rochet, Jean-Charles	Score: 15.3
+SDG 8	Rank 16	Leippold, Markus	Score: 15.22
+SDG 8	Rank 17	Natter, Martin	Score: 14.8
+SDG 8	Rank 18	Kubler, Felix	Score: 14.35
+SDG 8	Rank 19	Lalive, Rafael	Score: 14.35
+SDG 8	Rank 20	Keil, Thomas	Score: 13.35
+SDG 8	Rank 21	Winkelmann, Rainer	Score: 13.15
+SDG 8	Rank 22	Bernstein, Abraham	Score: 13.1
+SDG 8	Rank 23	Fritz, Thomas	Score: 12.6
+SDG 8	Rank 24	Al�s-Ferrer, Carlos	Score: 12.35
+SDG 8	Rank 25	Dietl, Helmut	Score: 12.25
+SDG 8	Rank 26	Osterloh, Margit	Score: 12.1
+SDG 8	Rank 27	Wolf, Michael	Score: 12.0
+SDG 8	Rank 28	Lang, Markus	Score: 11.95
+SDG 8	Rank 29	Weber, Roberto A	Score: 11.37
+SDG 8	Rank 30	Seidl, David	Score: 11.3
+SDG 8	Rank 31	Bartling, Bj�rn	Score: 11.3
+SDG 8	Rank 32	Bacchelli, Alberto	Score: 10.8
+SDG 8	Rank 33	Jaimovich, Nir	Score: 10.0
+SDG 8	Rank 34	Gall, Harald C	Score: 9.75
+SDG 8	Rank 35	Falkinger, Josef	Score: 9.7
+SDG 8	Rank 36	Schmedders, Karl	Score: 9.4
+SDG 8	Rank 37	Schenk-Hopp�, Klaus Reiner	Score: 9.4
+SDG 8	Rank 38	Zweifel, Peter	Score: 9.3
+SDG 8	Rank 39	Dolata, Mateusz	Score: 9.25
+SDG 8	Rank 40	Zehnder, Christian	Score: 9.2
+SDG 8	Rank 41	Franck, E	Score: 9.05
+SDG 8	Rank 42	Wagner, Alexander	Score: 8.95
+SDG 8	Rank 43	Ledoit, Olivier	Score: 8.9
+SDG 8	Rank 44	Goeree, Jacob K	Score: 8.8
+SDG 8	Rank 45	Voth, Hans-Joachim	Score: 8.5
+SDG 8	Rank 46	Akyildirim, Erdin�	Score: 8.5
+SDG 8	Rank 47	Chesney, Marc	Score: 8.35
+SDG 8	Rank 48	Paolella, Marc S	Score: 8.3
+SDG 8	Rank 49	Acemoglu, Daron	Score: 8.2
+SDG 8	Rank 50	Autor, David	Score: 8.1
+SDG 8	Rank 51	Nyborg, Kjell G	Score: 8.1
+SDG 8	Rank 52	Caldarelli, Guido	Score: 8.1
+SDG 8	Rank 53	Stutzer, Alois	Score: 7.95
+SDG 8	Rank 54	Buehler, Stefan	Score: 7.95
+SDG 8	Rank 55	Basten, Christoph	Score: 7.9
+SDG 8	Rank 56	Egger, H	Score: 7.8
+SDG 8	Rank 57	Wagner, Alexander F	Score: 7.8
+SDG 8	Rank 58	Schenker-Wicki, Andrea	Score: 7.8
+SDG 8	Rank 59	Woitek, Ulrich	Score: 7.65
+SDG 8	Rank 60	Scheuer, Florian	Score: 7.55
+SDG 8	Rank 61	Seyff, Norbert	Score: 7.4
+SDG 8	Rank 62	Hanson, Gordon H	Score: 7.2
+SDG 8	Rank 63	Berentsen, Aleksander	Score: 7.2
+SDG 8	Rank 64	Farkas, Walter	Score: 7.15
+SDG 8	Rank 65	Pycia, Marek	Score: 7.05
+SDG 8	Rank 66	Scherer, Andreas Georg	Score: 7.05
+SDG 8	Rank 67	Cohn, Alain	Score: 7.0
+SDG 8	Rank 68	Glinz, Martin	Score: 7.0
+SDG 8	Rank 69	Storesletten, Kjetil	Score: 6.85
+SDG 8	Rank 70	Degryse, Hans	Score: 6.8
+SDG 8	Rank 71	Dietl, H	Score: 6.7
+SDG 8	Rank 72	Ewerhart, Christian	Score: 6.7
+SDG 8	Rank 73	Hilty, Lorenz	Score: 6.65
+SDG 8	Rank 74	Koch-Medina, Pablo	Score: 6.5
+SDG 8	Rank 75	Algesheimer, Ren�	Score: 6.4
+SDG 8	Rank 76	Ossa, Ralph	Score: 6.3
+SDG 8	Rank 77	Franck, Egon	Score: 6.2
+SDG 8	Rank 78	Kaiser, Ulrich	Score: 6.2
+SDG 8	Rank 79	Gersbach, Hans	Score: 6.15
+SDG 8	Rank 80	Netzer, Nick	Score: 6.1
+SDG 8	Rank 81	Braggion, Fabio	Score: 6.1
+SDG 8	Rank 82	Sautner, Zacharias	Score: 6.0
+SDG 8	Rank 83	Crawford, Gregory S	Score: 5.95
+SDG 8	Rank 84	Schiller, Eryk	Score: 5.85
+SDG 8	Rank 85	Zeisberger, Stefan	Score: 5.85
+SDG 8	Rank 86	Evstigneev, Igor V	Score: 5.8
+SDG 8	Rank 87	Garcia-Appendini, Emilia	Score: 5.7
+SDG 8	Rank 88	Foellmi, Reto	Score: 5.7
+SDG 8	Rank 89	Habib, Michel A	Score: 5.7
+SDG 8	Rank 90	Zavolokina, Liudmila	Score: 5.65
+SDG 8	Rank 91	De Giorgi, Enrico	Score: 5.6
+SDG 8	Rank 92	Pfaff, Dieter	Score: 5.55
+SDG 8	Rank 93	Aghion, Philippe	Score: 5.55
+SDG 8	Rank 94	Falk, Armin	Score: 5.5
+SDG 8	Rank 95	Egger, P	Score: 5.5
+SDG 8	Rank 96	Panichella, Sebastiano	Score: 5.45
+SDG 8	Rank 97	Mar�chal, Michel Andr�	Score: 5.4
+SDG 8	Rank 98	Menges, Jochen I	Score: 5.4
+SDG 8	Rank 99	Ziegler, Alexandre	Score: 5.4
+SDG 8	Rank 100	Stiller, B	Score: 5.3
+RANKING FOR SDG 9
+SDG 9	Rank 1	Scaramuzza, Davide	Score: 71.9
+SDG 9	Rank 2	Ongena, Steven	Score: 58.4
+SDG 9	Rank 3	Stiller, Burkhard	Score: 57.05
+SDG 9	Rank 4	Schwabe, Gerhard	Score: 56.95
+SDG 9	Rank 5	Bernstein, Abraham	Score: 40.5
+SDG 9	Rank 6	Backes-Gellner, Uschi	Score: 35.15
+SDG 9	Rank 7	Fehr, Ernst	Score: 35.0
+SDG 9	Rank 8	Battiston, Stefano	Score: 30.8
+SDG 9	Rank 9	Frey, Bruno S	Score: 26.0
+SDG 9	Rank 10	Bacchelli, Alberto	Score: 24.85
+SDG 9	Rank 11	Schmutzler, Armin	Score: 24.25
+SDG 9	Rank 12	Hens, Thorsten	Score: 21.75
+SDG 9	Rank 13	Pajarola, R	Score: 20.8
+SDG 9	Rank 14	Zilibotti, Fabrizio	Score: 20.45
+SDG 9	Rank 15	Schiller, Eryk	Score: 19.3
+SDG 9	Rank 16	Rossetto, Luca	Score: 17.9
+SDG 9	Rank 17	Gall, Harald C	Score: 17.8
+SDG 9	Rank 18	Seidl, David	Score: 16.9
+SDG 9	Rank 19	Al�s-Ferrer, Carlos	Score: 16.5
+SDG 9	Rank 20	Keil, Thomas	Score: 15.9
+SDG 9	Rank 21	Wolf, Michael	Score: 15.65
+SDG 9	Rank 22	Huertas Celdran, Alberto	Score: 15.4
+SDG 9	Rank 23	Glinz, Martin	Score: 15.4
+SDG 9	Rank 24	Dolata, Mateusz	Score: 15.3
+SDG 9	Rank 25	Stiller, B	Score: 14.8
+SDG 9	Rank 26	Hilty, Lorenz	Score: 14.6
+SDG 9	Rank 27	Zweim�ller, Josef	Score: 14.45
+SDG 9	Rank 28	Rochet, Jean-Charles	Score: 14.0
+SDG 9	Rank 29	Natter, Martin	Score: 14.0
+SDG 9	Rank 30	Hilty, Lorenz M	Score: 13.7
+SDG 9	Rank 31	Leippold, Markus	Score: 13.4
+SDG 9	Rank 32	Schenker-Wicki, Andrea	Score: 13.2
+SDG 9	Rank 33	Osterloh, Margit	Score: 13.1
+SDG 9	Rank 34	Bovet, G�r�me	Score: 12.75
+SDG 9	Rank 35	Pfeifer, Rolf	Score: 12.7
+SDG 9	Rank 36	Hoffmann, Mathias	Score: 12.65
+SDG 9	Rank 37	Seyff, Norbert	Score: 12.5
+SDG 9	Rank 38	Ruff, Christian C	Score: 12.3
+SDG 9	Rank 39	Kubler, Felix	Score: 11.75
+SDG 9	Rank 40	Fritz, Thomas	Score: 11.7
+SDG 9	Rank 41	Pajarola, Renato	Score: 11.5
+SDG 9	Rank 42	Dorn, David	Score: 11.2
+SDG 9	Rank 43	B�hlen, Michael Hanspeter	Score: 11.1
+SDG 9	Rank 44	Zavolokina, Liudmila	Score: 11.0
+SDG 9	Rank 45	Zweifel, Peter	Score: 10.8
+SDG 9	Rank 46	Bernstein, A	Score: 10.8
+SDG 9	Rank 47	Pycia, Marek	Score: 10.55
+SDG 9	Rank 48	Scherer, Andreas Georg	Score: 10.4
+SDG 9	Rank 49	Palomba, Fabio	Score: 10.1
+SDG 9	Rank 50	Panichella, Sebastiano	Score: 10.1
+SDG 9	Rank 51	Goeree, Jacob K	Score: 10.0
+SDG 9	Rank 52	Schmedders, Karl	Score: 9.75
+SDG 9	Rank 53	Weber, Roberto A	Score: 9.52
+SDG 9	Rank 54	Gallego, Guillermo	Score: 9.4
+SDG 9	Rank 55	Caldarelli, Guido	Score: 9.2
+SDG 9	Rank 56	Bernard, J�rgen	Score: 9.1
+SDG 9	Rank 57	Ledoit, Olivier	Score: 9.0
+SDG 9	Rank 58	B�hlen, Michael	Score: 9.0
+SDG 9	Rank 59	Braun, Torsten	Score: 8.9
+SDG 9	Rank 60	Schuldt, Heiko	Score: 8.85
+SDG 9	Rank 61	Tobler, Philippe N	Score: 8.85
+SDG 9	Rank 62	Dietl, Helmut	Score: 8.8
+SDG 9	Rank 63	Bartling, Bj�rn	Score: 8.8
+SDG 9	Rank 64	Friston, K J	Score: 8.7
+SDG 9	Rank 65	Algesheimer, Ren�	Score: 8.55
+SDG 9	Rank 66	Winkelmann, Rainer	Score: 8.4
+SDG 9	Rank 67	Lang, Markus	Score: 8.4
+SDG 9	Rank 68	Gall, H C	Score: 8.4
+SDG 9	Rank 69	Falkinger, Josef	Score: 8.35
+SDG 9	Rank 70	Franck, E	Score: 8.35
+SDG 9	Rank 71	Chesney, Marc	Score: 8.35
+SDG 9	Rank 72	Gall, Harald	Score: 8.3
+SDG 9	Rank 73	Lalive, Rafael	Score: 8.25
+SDG 9	Rank 74	Gamper, Johann	Score: 8.25
+SDG 9	Rank 75	Acemoglu, Daron	Score: 8.2
+SDG 9	Rank 76	P�rez, Gregorio Mart�nez	Score: 7.9
+SDG 9	Rank 77	Nakajima, Kohei	Score: 7.8
+SDG 9	Rank 78	Stephan, K E	Score: 7.75
+SDG 9	Rank 79	Beck, Mathias	Score: 7.7
+SDG 9	Rank 80	Nyborg, Kjell G	Score: 7.5
+SDG 9	Rank 81	Ewerhart, Christian	Score: 7.45
+SDG 9	Rank 82	Scherer, A G	Score: 7.4
+SDG 9	Rank 83	Farkas, Walter	Score: 7.3
+SDG 9	Rank 84	Bocek, Thomas	Score: 7.3
+SDG 9	Rank 85	Gehrig, Daniel	Score: 7.15
+SDG 9	Rank 86	Hausheer, D	Score: 7.1
+SDG 9	Rank 87	Tessone, Claudio	Score: 7.05
+SDG 9	Rank 88	Seuken, Sven	Score: 7.0
+SDG 9	Rank 89	Buehler, Stefan	Score: 7.0
+SDG 9	Rank 90	Schulze, Anja	Score: 7.0
+SDG 9	Rank 91	Kaiser, Ulrich	Score: 7.0
+SDG 9	Rank 92	Rebecq, Henri	Score: 7.0
+SDG 9	Rank 93	Wagner, Alexander	Score: 6.9
+SDG 9	Rank 94	Koch-Medina, Pablo	Score: 6.85
+SDG 9	Rank 95	Kaufmann, Elia	Score: 6.75
+SDG 9	Rank 96	S�nchez S�nchez, Pedro Miguel	Score: 6.7
+SDG 9	Rank 97	Aghion, Philippe	Score: 6.7
+SDG 9	Rank 98	Gersbach, Hans	Score: 6.65
+SDG 9	Rank 99	Richter, Alexander	Score: 6.6
+SDG 9	Rank 100	Mariani, Manuel	Score: 6.55
+RANKING FOR SDG 10
+SDG 10	Rank 1	Fehr, Ernst	Score: 36.4
+SDG 10	Rank 2	Ongena, Steven	Score: 27.95
+SDG 10	Rank 3	Zweim�ller, Josef	Score: 24.3
+SDG 10	Rank 4	Frey, Bruno S	Score: 23.75
+SDG 10	Rank 5	Davidov, Eldad	Score: 18.75
+SDG 10	Rank 6	Zilibotti, Fabrizio	Score: 15.3
+SDG 10	Rank 7	Backes-Gellner, Uschi	Score: 14.8
+SDG 10	Rank 8	Schwabe, Gerhard	Score: 14.7
+SDG 10	Rank 9	Cieciuch, Jan	Score: 11.65
+SDG 10	Rank 10	Scherer, Andreas Georg	Score: 10.2
+SDG 10	Rank 11	Dorn, David	Score: 10.0
+SDG 10	Rank 12	Winkelmann, Rainer	Score: 10.0
+SDG 10	Rank 13	Weber, Roberto A	Score: 9.95
+SDG 10	Rank 14	Dietl, Helmut	Score: 9.2
+SDG 10	Rank 15	Scheuer, Florian	Score: 8.7
+SDG 10	Rank 16	Stutzer, Alois	Score: 8.5
+SDG 10	Rank 17	Lalive, Rafael	Score: 8.45
+SDG 10	Rank 18	Bernstein, Abraham	Score: 8.2
+SDG 10	Rank 19	Bartling, Bj�rn	Score: 8.0
+SDG 10	Rank 20	Schmidt, Peter	Score: 8.0
+SDG 10	Rank 21	Nesseler, Cornel	Score: 7.9
+SDG 10	Rank 22	Voth, Hans-Joachim	Score: 7.5
+SDG 10	Rank 23	Battiston, Stefano	Score: 7.5
+SDG 10	Rank 24	G�mez Gonz�lez, Carlos	Score: 7.5
+SDG 10	Rank 25	Foellmi, Reto	Score: 7.2
+SDG 10	Rank 26	Tobler, Philippe N	Score: 7.2
+SDG 10	Rank 27	Z�litz, Ulf	Score: 6.95
+SDG 10	Rank 28	Osterloh, Margit	Score: 6.7
+SDG 10	Rank 29	Al�s-Ferrer, Carlos	Score: 6.55
+SDG 10	Rank 30	Pomeranz, Dina	Score: 6.3
+SDG 10	Rank 31	Epper, Thomas	Score: 6.05
+SDG 10	Rank 32	Zweifel, Peter	Score: 5.95
+SDG 10	Rank 33	Fischbacher, Urs	Score: 5.9
+SDG 10	Rank 34	Falkinger, Josef	Score: 5.85
+SDG 10	Rank 35	Jaimovich, Nir	Score: 5.8
+SDG 10	Rank 36	Hens, Thorsten	Score: 5.75
+SDG 10	Rank 37	Schwartz, Shalom H	Score: 5.75
+SDG 10	Rank 38	Schmutzler, Armin	Score: 5.6
+SDG 10	Rank 39	Ruff, Christian C	Score: 5.55
+SDG 10	Rank 40	Dolata, Mateusz	Score: 5.45
+SDG 10	Rank 41	Stiller, Burkhard	Score: 5.45
+SDG 10	Rank 42	Falk, Armin	Score: 5.4
+SDG 10	Rank 43	Urman, Aleksandra	Score: 5.2
+SDG 10	Rank 44	Cohn, Alain	Score: 5.0
+SDG 10	Rank 45	Scherer, A G	Score: 5.0
+SDG 10	Rank 46	Algesheimer, Ren�	Score: 4.9
+SDG 10	Rank 47	Woitek, Ulrich	Score: 4.85
+SDG 10	Rank 48	Egger, H	Score: 4.85
+SDG 10	Rank 49	Rochet, Jean-Charles	Score: 4.7
+SDG 10	Rank 50	Storesletten, Kjetil	Score: 4.65
+SDG 10	Rank 51	Rauh, Christopher	Score: 4.6
+SDG 10	Rank 52	Boneva, Teodora	Score: 4.6
+SDG 10	Rank 53	Makhortykh, Mykola	Score: 4.6
+SDG 10	Rank 54	Senn, Julien	Score: 4.55
+SDG 10	Rank 55	Torgler, Benno	Score: 4.5
+SDG 10	Rank 56	Seidl, David	Score: 4.4
+SDG 10	Rank 57	Yanagizawa-Drott, David	Score: 4.4
+SDG 10	Rank 58	Rohner, Dominic	Score: 4.35
+SDG 10	Rank 59	Oechslin, Manuel	Score: 4.3
+SDG 10	Rank 60	Efferson, Charles	Score: 4.25
+SDG 10	Rank 61	Zavolokina, Liudmila	Score: 4.25
+SDG 10	Rank 62	Hoffmann, Mathias	Score: 4.2
+SDG 10	Rank 63	Gloor, Jamie Lee	Score: 4.1
+SDG 10	Rank 64	Autor, David	Score: 4.0
+SDG 10	Rank 65	Doepke, Matthias	Score: 3.8
+SDG 10	Rank 66	Hanson, Gordon H	Score: 3.8
+SDG 10	Rank 67	Lichand, Guilherme	Score: 3.75
+SDG 10	Rank 68	Steinhauer, Andreas	Score: 3.7
+SDG 10	Rank 69	Baumann-Pauly, Dorothee	Score: 3.7
+SDG 10	Rank 70	Franck, E	Score: 3.65
+SDG 10	Rank 71	Tanner, Carmen	Score: 3.6
+SDG 10	Rank 72	Hilty, Lorenz	Score: 3.6
+SDG 10	Rank 73	Palazzo, G	Score: 3.6
+SDG 10	Rank 74	Lang, Markus	Score: 3.55
+SDG 10	Rank 75	Gancia, Gino	Score: 3.5
+SDG 10	Rank 76	Mar�chal, Michel Andr�	Score: 3.45
+SDG 10	Rank 77	Golin, Marta	Score: 3.45
+SDG 10	Rank 78	Ulloa, Roberto	Score: 3.4
+SDG 10	Rank 79	Bren�e, Anne Ardila	Score: 3.35
+SDG 10	Rank 80	Meier, Stephan	Score: 3.3
+SDG 10	Rank 81	H�mous, David	Score: 3.3
+SDG 10	Rank 82	Caprettini, Bruno	Score: 3.3
+SDG 10	Rank 83	Rost, Katja	Score: 3.3
+SDG 10	Rank 84	Schmidt, Klaus M	Score: 3.3
+SDG 10	Rank 85	Palazzo, Guido	Score: 3.3
+SDG 10	Rank 86	Pull, Kerstin	Score: 3.25
+SDG 10	Rank 87	Kubler, Felix	Score: 3.22
+SDG 10	Rank 88	Zehnder, Christian	Score: 3.2
+SDG 10	Rank 89	Feld, Jan	Score: 3.2
+SDG 10	Rank 90	Keil, Thomas	Score: 3.17
+SDG 10	Rank 91	Wagner, Alexander	Score: 3.15
+SDG 10	Rank 92	Segal, Carmit	Score: 3.1
+SDG 10	Rank 93	Biroli, Pietro	Score: 3.1
+SDG 10	Rank 94	Acemoglu, Daron	Score: 3.0
+SDG 10	Rank 95	Sachs, Sybille	Score: 2.95
+SDG 10	Rank 96	Ossa, Ralph	Score: 2.9
+SDG 10	Rank 97	Meuleman, Bart	Score: 2.9
+SDG 10	Rank 98	Ranehill, Eva	Score: 2.9
+SDG 10	Rank 99	Hein, Grit	Score: 2.9
+SDG 10	Rank 100	S�ez-Mart�, Mar�a	Score: 2.85
+RANKING FOR SDG 11
+SDG 11	Rank 1	Schwabe, Gerhard	Score: 23.75
+SDG 11	Rank 2	Scaramuzza, Davide	Score: 22.55
+SDG 11	Rank 3	Stiller, Burkhard	Score: 14.65
+SDG 11	Rank 4	Frey, Bruno S	Score: 14.2
+SDG 11	Rank 5	Ongena, Steven	Score: 13.4
+SDG 11	Rank 6	Fehr, Ernst	Score: 12.85
+SDG 11	Rank 7	Hilty, Lorenz	Score: 12.05
+SDG 11	Rank 8	Bernstein, Abraham	Score: 10.8
+SDG 11	Rank 9	Hilty, Lorenz M	Score: 9.65
+SDG 11	Rank 10	Meins, Erika	Score: 7.6
+SDG 11	Rank 11	Scherer, Andreas Georg	Score: 7.5
+SDG 11	Rank 12	Schmutzler, Armin	Score: 7.25
+SDG 11	Rank 13	Pajarola, R	Score: 6.95
+SDG 11	Rank 14	Battiston, Stefano	Score: 6.55
+SDG 11	Rank 15	Backes-Gellner, Uschi	Score: 6.5
+SDG 11	Rank 16	Zilibotti, Fabrizio	Score: 6.45
+SDG 11	Rank 17	Schiller, Eryk	Score: 5.9
+SDG 11	Rank 18	Davidov, Eldad	Score: 5.9
+SDG 11	Rank 19	Zavolokina, Liudmila	Score: 5.65
+SDG 11	Rank 20	Dolata, Mateusz	Score: 5.45
+SDG 11	Rank 21	Seyff, Norbert	Score: 5.25
+SDG 11	Rank 22	Cieciuch, Jan	Score: 5.25
+SDG 11	Rank 23	Weber, Roberto A	Score: 5.12
+SDG 11	Rank 24	Seidl, David	Score: 4.75
+SDG 11	Rank 25	Zweim�ller, Josef	Score: 4.4
+SDG 11	Rank 26	Natter, Martin	Score: 4.35
+SDG 11	Rank 27	Gamper, Johann	Score: 4.31
+SDG 11	Rank 28	Huang, Elaine May	Score: 4.15
+SDG 11	Rank 29	Algesheimer, Ren�	Score: 4.15
+SDG 11	Rank 30	Lalive, Rafael	Score: 4.15
+SDG 11	Rank 31	Fedosov, Anton	Score: 4.1
+SDG 11	Rank 32	Scherer, A G	Score: 4.05
+SDG 11	Rank 33	Bartling, Bj�rn	Score: 4.05
+SDG 11	Rank 34	Osterloh, Margit	Score: 3.9
+SDG 11	Rank 35	Pycia, Marek	Score: 3.9
+SDG 11	Rank 36	Rossetto, Luca	Score: 3.85
+SDG 11	Rank 37	Stiller, B	Score: 3.75
+SDG 11	Rank 38	Zweifel, Peter	Score: 3.7
+SDG 11	Rank 39	Schenker-Wicki, Andrea	Score: 3.7
+SDG 11	Rank 40	Chesney, Marc	Score: 3.7
+SDG 11	Rank 41	Dietl, Helmut	Score: 3.7
+SDG 11	Rank 42	Dorn, David	Score: 3.5
+SDG 11	Rank 43	Baumann-Pauly, Dorothee	Score: 3.5
+SDG 11	Rank 44	Glinz, Martin	Score: 3.5
+SDG 11	Rank 45	Aerni, Philipp	Score: 3.5
+SDG 11	Rank 46	Rochet, Jean-Charles	Score: 3.45
+SDG 11	Rank 47	B�hlen, Michael	Score: 3.41
+SDG 11	Rank 48	Goeree, Jacob K	Score: 3.4
+SDG 11	Rank 49	Pfeifer, Rolf	Score: 3.4
+SDG 11	Rank 50	Stutzer, Alois	Score: 3.4
+SDG 11	Rank 51	Al�s-Ferrer, Carlos	Score: 3.4
+SDG 11	Rank 52	Palazzo, Guido	Score: 3.4
+SDG 11	Rank 53	Hoffmann, Mathias	Score: 3.35
+SDG 11	Rank 54	Franck, E	Score: 3.25
+SDG 11	Rank 55	Keil, Thomas	Score: 3.25
+SDG 11	Rank 56	Leippold, Markus	Score: 3.25
+SDG 11	Rank 57	Falkinger, Josef	Score: 3.2
+SDG 11	Rank 58	Steiner, Lasse	Score: 3.15
+SDG 11	Rank 59	Schmidt, Peter	Score: 3.15
+SDG 11	Rank 60	Palazzo, G	Score: 3.15
+SDG 11	Rank 61	Braun, Torsten	Score: 3.0
+SDG 11	Rank 62	Zea Escamilla, Edwin	Score: 3.0
+SDG 11	Rank 63	Hummel, Katrin	Score: 3.0
+SDG 11	Rank 64	Schenk, Birgit	Score: 3.0
+SDG 11	Rank 65	Hens, Thorsten	Score: 2.95
+SDG 11	Rank 66	Giesbrecht, Tobias	Score: 2.9
+SDG 11	Rank 67	Pajarola, Renato	Score: 2.9
+SDG 11	Rank 68	Bovet, G�r�me	Score: 2.85
+SDG 11	Rank 69	Paetzold, Falko	Score: 2.75
+SDG 11	Rank 70	Sachs, Sybille	Score: 2.75
+SDG 11	Rank 71	Mader, Clemens	Score: 2.7
+SDG 11	Rank 72	Loquercio, Antonio	Score: 2.7
+SDG 11	Rank 73	Remy, Christian	Score: 2.7
+SDG 11	Rank 74	Kubler, Felix	Score: 2.67
+SDG 11	Rank 75	Tanner, Carmen	Score: 2.65
+SDG 11	Rank 76	Voegtlin, Christian	Score: 2.65
+SDG 11	Rank 77	St�ckli, Sabrina	Score: 2.6
+SDG 11	Rank 78	Huertas Celdran, Alberto	Score: 2.6
+SDG 11	Rank 79	Tessone, Claudio	Score: 2.6
+SDG 11	Rank 80	Fischbacher, Urs	Score: 2.55
+SDG 11	Rank 81	Tobler, Philippe N	Score: 2.55
+SDG 11	Rank 82	Pamini, Paolo	Score: 2.5
+SDG 11	Rank 83	B�hlen, Michael Hanspeter	Score: 2.45
+SDG 11	Rank 84	Storesletten, Kjetil	Score: 2.45
+SDG 11	Rank 85	Gallego, Guillermo	Score: 2.45
+SDG 11	Rank 86	Winkelmann, Rainer	Score: 2.45
+SDG 11	Rank 87	M�ggler, Elias	Score: 2.45
+SDG 11	Rank 88	Bieser, Jan C T	Score: 2.4
+SDG 11	Rank 89	Bernstein, A	Score: 2.4
+SDG 11	Rank 90	Nakajima, Kohei	Score: 2.4
+SDG 11	Rank 91	H�jer, Mattias	Score: 2.3
+SDG 11	Rank 92	Burkhard, Hans-Peter	Score: 2.3
+SDG 11	Rank 93	Schuldt, Heiko	Score: 2.3
+SDG 11	Rank 94	Delmerico, Jeffrey	Score: 2.3
+SDG 11	Rank 95	Miscione, Gianluca	Score: 2.25
+SDG 11	Rank 96	Fritz, Thomas	Score: 2.25
+SDG 11	Rank 97	Schwartz, Shalom H	Score: 2.25
+SDG 11	Rank 98	Falk, Armin	Score: 2.2
+SDG 11	Rank 99	Bernard, J�rgen	Score: 2.2
+SDG 11	Rank 100	Schneider, Anselm	Score: 2.2
+RANKING FOR SDG 12
+SDG 12	Rank 1	Hilty, Lorenz M	Score: 23.5
+SDG 12	Rank 2	Hilty, Lorenz	Score: 19.65
+SDG 12	Rank 3	Schwabe, Gerhard	Score: 13.65
+SDG 12	Rank 4	Stiller, Burkhard	Score: 13.65
+SDG 12	Rank 5	Ongena, Steven	Score: 10.72
+SDG 12	Rank 6	Frey, Bruno S	Score: 9.8
+SDG 12	Rank 7	Scaramuzza, Davide	Score: 9.65
+SDG 12	Rank 8	Natter, Martin	Score: 8.8
+SDG 12	Rank 9	Bernstein, Abraham	Score: 7.7
+SDG 12	Rank 10	Battiston, Stefano	Score: 7.65
+SDG 12	Rank 11	Chesney, Marc	Score: 6.85
+SDG 12	Rank 12	Fehr, Ernst	Score: 6.42
+SDG 12	Rank 13	Schmutzler, Armin	Score: 6.4
+SDG 12	Rank 14	St�ckli, Sabrina	Score: 6.25
+SDG 12	Rank 15	Leippold, Markus	Score: 6.23
+SDG 12	Rank 16	Meins, Erika	Score: 6.2
+SDG 12	Rank 17	Scherer, Andreas Georg	Score: 5.45
+SDG 12	Rank 18	Bieser, Jan C T	Score: 5.4
+SDG 12	Rank 19	Weber, Roberto A	Score: 5.3
+SDG 12	Rank 20	Schiller, Eryk	Score: 4.9
+SDG 12	Rank 21	Zilibotti, Fabrizio	Score: 4.65
+SDG 12	Rank 22	Hummel, Katrin	Score: 4.6
+SDG 12	Rank 23	Backes-Gellner, Uschi	Score: 4.5
+SDG 12	Rank 24	Bartling, Bj�rn	Score: 4.5
+SDG 12	Rank 25	Zavolokina, Liudmila	Score: 4.45
+SDG 12	Rank 26	Scherer, A G	Score: 4.4
+SDG 12	Rank 27	Schenker-Wicki, Andrea	Score: 4.4
+SDG 12	Rank 28	Hens, Thorsten	Score: 4.35
+SDG 12	Rank 29	Huang, Elaine May	Score: 4.3
+SDG 12	Rank 30	H�mous, David	Score: 4.3
+SDG 12	Rank 31	Keil, Thomas	Score: 4.2
+SDG 12	Rank 32	Seyff, Norbert	Score: 4.15
+SDG 12	Rank 33	Hischier, Roland	Score: 4.1
+SDG 12	Rank 34	Wagner, Alexander	Score: 3.9
+SDG 12	Rank 35	Bacchelli, Alberto	Score: 3.85
+SDG 12	Rank 36	Stiller, B	Score: 3.85
+SDG 12	Rank 37	Coroama, Vlad C	Score: 3.8
+SDG 12	Rank 38	Hoffmann, Mathias	Score: 3.77
+SDG 12	Rank 39	Bernard, J�rgen	Score: 3.75
+SDG 12	Rank 40	Falkinger, Josef	Score: 3.6
+SDG 12	Rank 41	Zweim�ller, Josef	Score: 3.55
+SDG 12	Rank 42	Acemoglu, Daron	Score: 3.55
+SDG 12	Rank 43	Gall, Harald C	Score: 3.55
+SDG 12	Rank 44	Aerni, Philipp	Score: 3.5
+SDG 12	Rank 45	Remy, Christian	Score: 3.5
+SDG 12	Rank 46	H�jer, Mattias	Score: 3.4
+SDG 12	Rank 47	Stutzer, Alois	Score: 3.35
+SDG 12	Rank 48	Pajarola, R	Score: 3.35
+SDG 12	Rank 49	Bieser, Jan	Score: 3.3
+SDG 12	Rank 50	Dorn, Michael	Score: 3.3
+SDG 12	Rank 51	Tanner, Carmen	Score: 3.25
+SDG 12	Rank 52	Nowack, Bernd	Score: 3.25
+SDG 12	Rank 53	Mild, Andreas	Score: 3.2
+SDG 12	Rank 54	Schluep, Mathias	Score: 3.2
+SDG 12	Rank 55	Palazzo, G	Score: 3.2
+SDG 12	Rank 56	Monasterolo, Irene	Score: 3.2
+SDG 12	Rank 57	Faulstich, Martin	Score: 3.2
+SDG 12	Rank 58	Mader, Clemens	Score: 3.2
+SDG 12	Rank 59	Lohmann, Wolfgang	Score: 3.1
+SDG 12	Rank 60	Rochet, Jean-Charles	Score: 3.05
+SDG 12	Rank 61	Aghion, Philippe	Score: 3.05
+SDG 12	Rank 62	Paetzold, Falko	Score: 3.05
+SDG 12	Rank 63	Fedosov, Anton	Score: 3.0
+SDG 12	Rank 64	Penzenstadler, Birgit	Score: 3.0
+SDG 12	Rank 65	Pfeifer, Rolf	Score: 3.0
+SDG 12	Rank 66	Zweifel, Peter	Score: 2.95
+SDG 12	Rank 67	Seidl, David	Score: 2.9
+SDG 12	Rank 68	Kern, Eva	Score: 2.9
+SDG 12	Rank 69	Kubler, Felix	Score: 2.87
+SDG 12	Rank 70	Kraus, Mathias	Score: 2.85
+SDG 12	Rank 71	Dolata, Mateusz	Score: 2.85
+SDG 12	Rank 72	Palazzo, Guido	Score: 2.85
+SDG 12	Rank 73	Bornh�ft, Nikolaus A	Score: 2.85
+SDG 12	Rank 74	Osterloh, Margit	Score: 2.85
+SDG 12	Rank 75	Zea Escamilla, Edwin	Score: 2.8
+SDG 12	Rank 76	Algesheimer, Ren�	Score: 2.75
+SDG 12	Rank 77	Dorn, David	Score: 2.7
+SDG 12	Rank 78	Naumann, Stefan	Score: 2.7
+SDG 12	Rank 79	Guldner, Achim	Score: 2.7
+SDG 12	Rank 80	Beck, Mathias	Score: 2.7
+SDG 12	Rank 81	Baumann-Pauly, Dorothee	Score: 2.7
+SDG 12	Rank 82	Panichella, Sebastiano	Score: 2.7
+SDG 12	Rank 83	Puschmann, Thomas	Score: 2.65
+SDG 12	Rank 84	Palomba, Fabio	Score: 2.65
+SDG 12	Rank 85	Braun, Torsten	Score: 2.6
+SDG 12	Rank 86	Chitchyan, Ruzanna	Score: 2.6
+SDG 12	Rank 87	Sachs, Sybille	Score: 2.6
+SDG 12	Rank 88	Dietl, Helmut	Score: 2.6
+SDG 12	Rank 89	Busch, Timo	Score: 2.55
+SDG 12	Rank 90	Kaiser, Ulrich	Score: 2.55
+SDG 12	Rank 91	Pohl, Johanna	Score: 2.5
+SDG 12	Rank 92	K�lbel, Julian	Score: 2.5
+SDG 12	Rank 93	Glinz, Martin	Score: 2.4
+SDG 12	Rank 94	Franck, E	Score: 2.35
+SDG 12	Rank 95	Hausheer, D	Score: 2.35
+SDG 12	Rank 96	Miscione, Gianluca	Score: 2.35
+SDG 12	Rank 97	Voegtlin, Christian	Score: 2.35
+SDG 12	Rank 98	Goeree, Jacob K	Score: 2.3
+SDG 12	Rank 99	Betz, Stefanie	Score: 2.3
+SDG 12	Rank 100	Bocek, Thomas	Score: 2.3
+RANKING FOR SDG 13
+SDG 13	Rank 1	Hilty, Lorenz M	Score: 19.7
+SDG 13	Rank 2	Hilty, Lorenz	Score: 19.05
+SDG 13	Rank 3	Battiston, Stefano	Score: 14.1
+SDG 13	Rank 4	Ongena, Steven	Score: 11.72
+SDG 13	Rank 5	Leippold, Markus	Score: 10.86
+SDG 13	Rank 6	Chesney, Marc	Score: 8.95
+SDG 13	Rank 7	Stiller, Burkhard	Score: 8.55
+SDG 13	Rank 8	Scaramuzza, Davide	Score: 8.4
+SDG 13	Rank 9	Monasterolo, Irene	Score: 8.0
+SDG 13	Rank 10	H�mous, David	Score: 7.2
+SDG 13	Rank 11	Ramelli, Stefano	Score: 6.9
+SDG 13	Rank 12	Kubler, Felix	Score: 6.52
+SDG 13	Rank 13	Scheidegger, Simon	Score: 6.2
+SDG 13	Rank 14	Wagner, Alexander	Score: 6.0
+SDG 13	Rank 15	Kraus, Mathias	Score: 5.9
+SDG 13	Rank 16	Schmutzler, Armin	Score: 5.8
+SDG 13	Rank 17	Zweifel, Peter	Score: 5.65
+SDG 13	Rank 18	Aghion, Philippe	Score: 5.65
+SDG 13	Rank 19	Bieser, Jan	Score: 4.9
+SDG 13	Rank 20	Bieser, Jan C T	Score: 4.9
+SDG 13	Rank 21	Webersinke, Nicolas	Score: 4.9
+SDG 13	Rank 22	Acemoglu, Daron	Score: 4.6
+SDG 13	Rank 23	Hischier, Roland	Score: 4.5
+SDG 13	Rank 24	Lontzek, Thomas S	Score: 4.4
+SDG 13	Rank 25	Fehr, Ernst	Score: 4.32
+SDG 13	Rank 26	Meins, Erika	Score: 4.3
+SDG 13	Rank 27	Polbin, Andrey	Score: 4.3
+SDG 13	Rank 28	Frey, Bruno S	Score: 4.15
+SDG 13	Rank 29	Bingler, Julia Anna	Score: 4.1
+SDG 13	Rank 30	Coroama, Vlad C	Score: 4.1
+SDG 13	Rank 31	Sautner, Zacharias	Score: 3.9
+SDG 13	Rank 32	Schiller, Eryk	Score: 3.8
+SDG 13	Rank 33	Wang, Qian	Score: 3.7
+SDG 13	Rank 34	Schwabe, Gerhard	Score: 3.7
+SDG 13	Rank 35	Bornh�ft, Nikolaus A	Score: 3.7
+SDG 13	Rank 36	Delis, Manthos D	Score: 3.65
+SDG 13	Rank 37	Nowack, Bernd	Score: 3.6
+SDG 13	Rank 38	K�lbel, Julian	Score: 3.6
+SDG 13	Rank 39	Hummel, Katrin	Score: 3.6
+SDG 13	Rank 40	Aerni, Philipp	Score: 3.5
+SDG 13	Rank 41	H�jer, Mattias	Score: 3.4
+SDG 13	Rank 42	Kotlikoff, Laurence	Score: 3.4
+SDG 13	Rank 43	Penzenstadler, Birgit	Score: 3.3
+SDG 13	Rank 44	Gheyssens, Jonathan	Score: 3.2
+SDG 13	Rank 45	Scherer, Andreas Georg	Score: 3.1
+SDG 13	Rank 46	Pohl, Johanna	Score: 3.0
+SDG 13	Rank 47	Barrage, Lint	Score: 3.0
+SDG 13	Rank 48	Bernstein, Abraham	Score: 3.0
+SDG 13	Rank 49	De Greiff, Kathrin	Score: 3.0
+SDG 13	Rank 50	Beyene, Winta	Score: 2.9
+SDG 13	Rank 51	Seyff, Norbert	Score: 2.9
+SDG 13	Rank 52	St�ckli, Sabrina	Score: 2.85
+SDG 13	Rank 53	Puschmann, Thomas	Score: 2.85
+SDG 13	Rank 54	Zea Escamilla, Edwin	Score: 2.8
+SDG 13	Rank 55	Wagner, Alexander F	Score: 2.7
+SDG 13	Rank 56	Zilibotti, Fabrizio	Score: 2.6
+SDG 13	Rank 57	Lohmann, Wolfgang	Score: 2.6
+SDG 13	Rank 58	Luechinger, Simon	Score: 2.55
+SDG 13	Rank 59	Ziegler, Alexandre	Score: 2.55
+SDG 13	Rank 60	Stammbach, Dominik	Score: 2.5
+SDG 13	Rank 61	Naumann, Stefan	Score: 2.5
+SDG 13	Rank 62	Ossola, Elisa	Score: 2.5
+SDG 13	Rank 63	Guldner, Achim	Score: 2.5
+SDG 13	Rank 64	Rancan, Michela	Score: 2.5
+SDG 13	Rank 65	Chitchyan, Ruzanna	Score: 2.5
+SDG 13	Rank 66	Goeree, Jacob K	Score: 2.4
+SDG 13	Rank 67	Schenker-Wicki, Andrea	Score: 2.4
+SDG 13	Rank 68	Kern, Eva	Score: 2.4
+SDG 13	Rank 69	Le Moigne, Mathilde	Score: 2.4
+SDG 13	Rank 70	Betz, Stefanie	Score: 2.4
+SDG 13	Rank 71	Pajarola, R	Score: 2.35
+SDG 13	Rank 72	Mader, Clemens	Score: 2.3
+SDG 13	Rank 73	Khoban, Roza	Score: 2.3
+SDG 13	Rank 74	Stutzer, Alois	Score: 2.3
+SDG 13	Rank 75	Falkinger, Josef	Score: 2.25
+SDG 13	Rank 76	Becker, Christoph	Score: 2.2
+SDG 13	Rank 77	Huang, Elaine May	Score: 2.15
+SDG 13	Rank 78	Starks, Laura T	Score: 2.1
+SDG 13	Rank 79	Ferreboeuf, Hugues	Score: 2.1
+SDG 13	Rank 80	Krey, Boris	Score: 2.1
+SDG 13	Rank 81	Krueger, Philipp	Score: 2.1
+SDG 13	Rank 82	Pfeifer, Rolf	Score: 2.1
+SDG 13	Rank 83	Schmedders, Karl	Score: 2.05
+SDG 13	Rank 84	Hens, Thorsten	Score: 2.05
+SDG 13	Rank 85	Ossa, Ralph	Score: 2.0
+SDG 13	Rank 86	Scherer, A G	Score: 2.0
+SDG 13	Rank 87	Narita, Daiju	Score: 2.0
+SDG 13	Rank 88	Santarius, Tilman	Score: 2.0
+SDG 13	Rank 89	Lange, Steffen	Score: 2.0
+SDG 13	Rank 90	Zeckhauser, Richard	Score: 2.0
+SDG 13	Rank 91	Judd, Kenneth L	Score: 2.0
+SDG 13	Rank 92	Scherer, Andreas	Score: 2.0
+SDG 13	Rank 93	Burtraw, Dallas	Score: 2.0
+SDG 13	Rank 94	Zavolokina, Liudmila	Score: 1.95
+SDG 13	Rank 95	Paetzold, Falko	Score: 1.9
+SDG 13	Rank 96	Ziegler, Andreas	Score: 1.85
+SDG 13	Rank 97	Palazzo, Guido	Score: 1.85
+SDG 13	Rank 98	Weber, Roberto A	Score: 1.82
+SDG 13	Rank 99	Alessi, Lucia	Score: 1.8
+SDG 13	Rank 100	Schimanski, Tobias	Score: 1.8
+RANKING FOR SDG 14
+SDG 14	Rank 1	Ongena, Steven	Score: 3.02
+SDG 14	Rank 2	Hilty, Lorenz	Score: 2.6
+SDG 14	Rank 3	Hilty, Lorenz M	Score: 2.5
+SDG 14	Rank 4	Fehr, Ernst	Score: 2.2
+SDG 14	Rank 5	Battiston, Stefano	Score: 2.1
+SDG 14	Rank 6	Frey, Bruno S	Score: 1.95
+SDG 14	Rank 7	Puschmann, Thomas	Score: 1.6
+SDG 14	Rank 8	Chesney, Marc	Score: 1.6
+SDG 14	Rank 9	Scherer, Andreas Georg	Score: 1.45
+SDG 14	Rank 10	Kunz, Hanspeter	Score: 1.4
+SDG 14	Rank 11	Bieser, Jan C T	Score: 1.35
+SDG 14	Rank 12	Schwabe, Gerhard	Score: 1.35
+SDG 14	Rank 13	Eggenberger Hotz, P	Score: 1.3
+SDG 14	Rank 14	Schatz, W	Score: 1.3
+SDG 14	Rank 15	H�mous, David	Score: 1.2
+SDG 14	Rank 16	Monasterolo, Irene	Score: 1.15
+SDG 14	Rank 17	Tessone, Claudio	Score: 1.15
+SDG 14	Rank 18	Hummel, Katrin	Score: 1.1
+SDG 14	Rank 19	Delis, Manthos D	Score: 1.1
+SDG 14	Rank 20	Germann, D P	Score: 1.1
+SDG 14	Rank 21	Zilibotti, Fabrizio	Score: 1.05
+SDG 14	Rank 22	Leibbrandt, Andreas	Score: 1.0
+SDG 14	Rank 23	Hemelrijk, Charlotte K	Score: 1.0
+SDG 14	Rank 24	Scherer, A G	Score: 0.95
+SDG 14	Rank 25	Leippold, Markus	Score: 0.93
+SDG 14	Rank 26	De Greiff, Kathrin	Score: 0.9
+SDG 14	Rank 27	Beyene, Winta	Score: 0.9
+SDG 14	Rank 28	Le Moigne, Mathilde	Score: 0.9
+SDG 14	Rank 29	Kubler, Felix	Score: 0.89
+SDG 14	Rank 30	Mader, Clemens	Score: 0.85
+SDG 14	Rank 31	Palazzo, G	Score: 0.85
+SDG 14	Rank 32	Pohl, Johanna	Score: 0.8
+SDG 14	Rank 33	Zweim�ller, Josef	Score: 0.8
+SDG 14	Rank 34	Poll, Luca	Score: 0.8
+SDG 14	Rank 35	H�jer, Mattias	Score: 0.8
+SDG 14	Rank 36	Quattrocchi, Dario	Score: 0.8
+SDG 14	Rank 37	Schiller, Eryk	Score: 0.8
+SDG 14	Rank 38	Dorn, David	Score: 0.8
+SDG 14	Rank 39	Bressan, Giacomo	Score: 0.8
+SDG 14	Rank 40	Penzenstadler, Birgit	Score: 0.8
+SDG 14	Rank 41	Olsen, Morten G	Score: 0.8
+SDG 14	Rank 42	Cicala, Steve	Score: 0.8
+SDG 14	Rank 43	Palazzo, Guido	Score: 0.8
+SDG 14	Rank 44	?uranovi?, Anja	Score: 0.8
+SDG 14	Rank 45	Sachs, Sybille	Score: 0.77
+SDG 14	Rank 46	Paetzold, Falko	Score: 0.75
+SDG 14	Rank 47	Backes-Gellner, Uschi	Score: 0.73
+SDG 14	Rank 48	Mariani, Manuel	Score: 0.72
+SDG 14	Rank 49	Santarius, Tilman	Score: 0.7
+SDG 14	Rank 50	Lange, Steffen	Score: 0.7
+SDG 14	Rank 51	Hens, Thorsten	Score: 0.7
+SDG 14	Rank 52	Acemoglu, Daron	Score: 0.7
+SDG 14	Rank 53	Scherer, Andreas	Score: 0.7
+SDG 14	Rank 54	Nowack, Bernd	Score: 0.7
+SDG 14	Rank 55	Vargas, Carlos	Score: 0.7
+SDG 14	Rank 56	Baumann-Pauly, Dorothee	Score: 0.7
+SDG 14	Rank 57	Balietti, Anca	Score: 0.7
+SDG 14	Rank 58	Busch, Timo	Score: 0.7
+SDG 14	Rank 59	Meins, Erika	Score: 0.7
+SDG 14	Rank 60	Zavolokina, Liudmila	Score: 0.65
+SDG 14	Rank 61	Stutzer, Alois	Score: 0.65
+SDG 14	Rank 62	Tobler, Philippe N	Score: 0.65
+SDG 14	Rank 63	Osterloh, Margit	Score: 0.65
+SDG 14	Rank 64	Falkinger, Josef	Score: 0.65
+SDG 14	Rank 65	Winkelmann, Rainer	Score: 0.62
+SDG 14	Rank 66	Weber, Roberto A	Score: 0.62
+SDG 14	Rank 67	Fedosov, Anton	Score: 0.6
+SDG 14	Rank 68	Pfeifer, Rolf	Score: 0.6
+SDG 14	Rank 69	Carbajal, Juan Pablo	Score: 0.6
+SDG 14	Rank 70	Lapin, Andrei	Score: 0.6
+SDG 14	Rank 71	Germann, Daniel P	Score: 0.6
+SDG 14	Rank 72	Beck, Mathias	Score: 0.6
+SDG 14	Rank 73	Betz, Stefanie	Score: 0.6
+SDG 14	Rank 74	Schenker-Wicki, Andrea	Score: 0.6
+SDG 14	Rank 75	Becker, Christoph	Score: 0.6
+SDG 14	Rank 76	Chitchyan, Ruzanna	Score: 0.6
+SDG 14	Rank 77	Venters, Colin C	Score: 0.6
+SDG 14	Rank 78	Schmutzler, Armin	Score: 0.6
+SDG 14	Rank 79	Seyff, Norbert	Score: 0.6
+SDG 14	Rank 80	Nakajima, Kohei	Score: 0.6
+SDG 14	Rank 81	Hoepner, Andreas G F	Score: 0.6
+SDG 14	Rank 82	Voegtlin, Christian	Score: 0.6
+SDG 14	Rank 83	Wagner, Alexander F	Score: 0.6
+SDG 14	Rank 84	Aerni, Philipp	Score: 0.6
+SDG 14	Rank 85	Gibson, Rajna	Score: 0.55
+SDG 14	Rank 86	Seidl, David	Score: 0.55
+SDG 14	Rank 87	Miscione, Gianluca	Score: 0.55
+SDG 14	Rank 88	Scaramuzza, Davide	Score: 0.55
+SDG 14	Rank 89	Bernstein, Abraham	Score: 0.55
+SDG 14	Rank 90	Ossa, Ralph	Score: 0.5
+SDG 14	Rank 91	Hare, Todd A	Score: 0.5
+SDG 14	Rank 92	Schlaepfer, Felix	Score: 0.5
+SDG 14	Rank 93	Zah, Rainer	Score: 0.5
+SDG 14	Rank 94	Sol�-Ribalta, Albert	Score: 0.5
+SDG 14	Rank 95	Storesletten, Kjetil	Score: 0.5
+SDG 14	Rank 96	Ziolkowski, Rafael	Score: 0.5
+SDG 14	Rank 97	Ryghaug, Marianne	Score: 0.5
+SDG 14	Rank 98	Schwanen, Tim	Score: 0.5
+SDG 14	Rank 99	Staab, Philipp	Score: 0.5
+SDG 14	Rank 100	Dencik, Lina	Score: 0.5
+RANKING FOR SDG 15
+SDG 15	Rank 1	Hilty, Lorenz M	Score: 4.25
+SDG 15	Rank 2	Hilty, Lorenz	Score: 3.45
+SDG 15	Rank 3	Frey, Bruno S	Score: 3.25
+SDG 15	Rank 4	Fehr, Ernst	Score: 3.2
+SDG 15	Rank 5	Scherer, Andreas Georg	Score: 2.5
+SDG 15	Rank 6	Ongena, Steven	Score: 2.5
+SDG 15	Rank 7	Chesney, Marc	Score: 1.95
+SDG 15	Rank 8	Scaramuzza, Davide	Score: 1.95
+SDG 15	Rank 9	Schwabe, Gerhard	Score: 1.82
+SDG 15	Rank 10	Wagner, Alexander	Score: 1.8
+SDG 15	Rank 11	Sautner, Zacharias	Score: 1.7
+SDG 15	Rank 12	Battiston, Stefano	Score: 1.7
+SDG 15	Rank 13	Tessone, Claudio	Score: 1.55
+SDG 15	Rank 14	Mader, Clemens	Score: 1.5
+SDG 15	Rank 15	Romec, Arthur	Score: 1.5
+SDG 15	Rank 16	Garel, Alexandre	Score: 1.5
+SDG 15	Rank 17	Gheyssens, Jonathan	Score: 1.4
+SDG 15	Rank 18	Scherer, A G	Score: 1.4
+SDG 15	Rank 19	Baumann-Pauly, Dorothee	Score: 1.4
+SDG 15	Rank 20	Meins, Erika	Score: 1.4
+SDG 15	Rank 21	Leippold, Markus	Score: 1.38
+SDG 15	Rank 22	Zilibotti, Fabrizio	Score: 1.35
+SDG 15	Rank 23	Palazzo, Guido	Score: 1.35
+SDG 15	Rank 24	Nowack, Bernd	Score: 1.3
+SDG 15	Rank 25	Leibbrandt, Andreas	Score: 1.3
+SDG 15	Rank 26	Holm, Stefan	Score: 1.3
+SDG 15	Rank 27	Bernstein, Abraham	Score: 1.25
+SDG 15	Rank 28	Schiller, Eryk	Score: 1.2
+SDG 15	Rank 29	Palazzo, G	Score: 1.2
+SDG 15	Rank 30	Schenker-Wicki, Andrea	Score: 1.2
+SDG 15	Rank 31	Thees, Oliver	Score: 1.2
+SDG 15	Rank 32	Zweim�ller, Josef	Score: 1.2
+SDG 15	Rank 33	Lemm, Renato	Score: 1.2
+SDG 15	Rank 34	Hummel, Katrin	Score: 1.2
+SDG 15	Rank 35	Sol�-Ribalta, Albert	Score: 1.1
+SDG 15	Rank 36	Sachs, Sybille	Score: 1.07
+SDG 15	Rank 37	Falkinger, Josef	Score: 1.05
+SDG 15	Rank 38	Backes-Gellner, Uschi	Score: 1.03
+SDG 15	Rank 39	H�jer, Mattias	Score: 1.0
+SDG 15	Rank 40	Paetzold, Falko	Score: 1.0
+SDG 15	Rank 41	Stutzer, Alois	Score: 1.0
+SDG 15	Rank 42	Hens, Thorsten	Score: 1.0
+SDG 15	Rank 43	Bornh�ft, Nikolaus A	Score: 1.0
+SDG 15	Rank 44	Aerni, Philipp	Score: 1.0
+SDG 15	Rank 45	Pfeifer, Rolf	Score: 1.0
+SDG 15	Rank 46	Zavolokina, Liudmila	Score: 0.97
+SDG 15	Rank 47	Cieciuch, Jan	Score: 0.96
+SDG 15	Rank 48	Steiner, Lasse	Score: 0.95
+SDG 15	Rank 49	Busch, Timo	Score: 0.95
+SDG 15	Rank 50	Zea Escamilla, Edwin	Score: 0.95
+SDG 15	Rank 51	Lontzek, Thomas S	Score: 0.95
+SDG 15	Rank 52	Pohl, Johanna	Score: 0.9
+SDG 15	Rank 53	Stiller, Burkhard	Score: 0.9
+SDG 15	Rank 54	Voegtlin, Christian	Score: 0.9
+SDG 15	Rank 55	Dorn, David	Score: 0.9
+SDG 15	Rank 56	Fedosov, Anton	Score: 0.9
+SDG 15	Rank 57	Bieser, Jan C T	Score: 0.9
+SDG 15	Rank 58	Zweifel, Peter	Score: 0.9
+SDG 15	Rank 59	Scherer, Andreas	Score: 0.9
+SDG 15	Rank 60	Braun, Torsten	Score: 0.9
+SDG 15	Rank 61	Tanner, Carmen	Score: 0.85
+SDG 15	Rank 62	Mariani, Manuel	Score: 0.85
+SDG 15	Rank 63	Narita, Daiju	Score: 0.85
+SDG 15	Rank 64	Kubler, Felix	Score: 0.84
+SDG 15	Rank 65	Lapin, Andrei	Score: 0.8
+SDG 15	Rank 66	Kropf, Peter	Score: 0.8
+SDG 15	Rank 67	Eggenberger Hotz, P	Score: 0.8
+SDG 15	Rank 68	Miyashita, Shuhei	Score: 0.8
+SDG 15	Rank 69	Kunz, Hanspeter	Score: 0.8
+SDG 15	Rank 70	Acemoglu, Daron	Score: 0.8
+SDG 15	Rank 71	Beck, Mathias	Score: 0.8
+SDG 15	Rank 72	Burkhard, Hans-Peter	Score: 0.8
+SDG 15	Rank 73	Puschmann, Thomas	Score: 0.8
+SDG 15	Rank 74	Schatz, W	Score: 0.8
+SDG 15	Rank 75	Penzenstadler, Birgit	Score: 0.8
+SDG 15	Rank 76	Brunner, Philip	Score: 0.8
+SDG 15	Rank 77	Weber, Roberto A	Score: 0.77
+SDG 15	Rank 78	Wagner, Alexander F	Score: 0.75
+SDG 15	Rank 79	Santarius, Tilman	Score: 0.7
+SDG 15	Rank 80	Schmutzler, Armin	Score: 0.7
+SDG 15	Rank 81	Lange, Steffen	Score: 0.7
+SDG 15	Rank 82	Osterloh, Margit	Score: 0.7
+SDG 15	Rank 83	Betz, Stefanie	Score: 0.7
+SDG 15	Rank 84	Seidl, David	Score: 0.7
+SDG 15	Rank 85	Becker, Christoph	Score: 0.7
+SDG 15	Rank 86	Chitchyan, Ruzanna	Score: 0.7
+SDG 15	Rank 87	Menza, Gianpiero	Score: 0.7
+SDG 15	Rank 88	Marchis, Alexandru	Score: 0.7
+SDG 15	Rank 89	Capri, Ettore	Score: 0.7
+SDG 15	Rank 90	De Vivo, Romano	Score: 0.7
+SDG 15	Rank 91	Gaudioso, Antonio	Score: 0.7
+SDG 15	Rank 92	Rueff, Henri	Score: 0.7
+SDG 15	Rank 93	Hunkeler, Daniel	Score: 0.7
+SDG 15	Rank 94	Caldarelli, Guido	Score: 0.7
+SDG 15	Rank 95	Pana, Anca Claudia	Score: 0.7
+SDG 15	Rank 96	Seyff, Norbert	Score: 0.7
+SDG 15	Rank 97	Kraus, Mathias	Score: 0.65
+SDG 15	Rank 98	Monasterolo, Irene	Score: 0.65
+SDG 15	Rank 99	Rohner, Dominic	Score: 0.65
+SDG 15	Rank 100	Wilms, Ole	Score: 0.65
+RANKING FOR SDG 16
+SDG 16	Rank 1	Fehr, Ernst	Score: 38.55
+SDG 16	Rank 2	Frey, Bruno S	Score: 36.65
+SDG 16	Rank 3	Stiller, Burkhard	Score: 20.35
+SDG 16	Rank 4	Schwabe, Gerhard	Score: 19.6
+SDG 16	Rank 5	Ongena, Steven	Score: 17.27
+SDG 16	Rank 6	Davidov, Eldad	Score: 14.7
+SDG 16	Rank 7	Rohner, Dominic	Score: 13.3
+SDG 16	Rank 8	Stutzer, Alois	Score: 13.1
+SDG 16	Rank 9	Scherer, Andreas Georg	Score: 12.9
+SDG 16	Rank 10	Voth, Hans-Joachim	Score: 11.6
+SDG 16	Rank 11	Tanner, Carmen	Score: 11.25
+SDG 16	Rank 12	Weber, Roberto A	Score: 11.0
+SDG 16	Rank 13	Cieciuch, Jan	Score: 10.25
+SDG 16	Rank 14	Bernstein, Abraham	Score: 9.95
+SDG 16	Rank 15	Zilibotti, Fabrizio	Score: 9.65
+SDG 16	Rank 16	Fischbacher, Urs	Score: 9.3
+SDG 16	Rank 17	Al�s-Ferrer, Carlos	Score: 8.55
+SDG 16	Rank 18	Luechinger, Simon	Score: 7.95
+SDG 16	Rank 19	Osterloh, Margit	Score: 7.95
+SDG 16	Rank 20	Scherer, A G	Score: 7.3
+SDG 16	Rank 21	Bartling, Bj�rn	Score: 7.25
+SDG 16	Rank 22	Dolata, Mateusz	Score: 7.2
+SDG 16	Rank 23	Bovet, G�r�me	Score: 7.0
+SDG 16	Rank 24	Tobler, Philippe N	Score: 6.9
+SDG 16	Rank 25	Huertas Celdran, Alberto	Score: 6.8
+SDG 16	Rank 26	Battiston, Stefano	Score: 6.45
+SDG 16	Rank 27	Cohn, Alain	Score: 6.2
+SDG 16	Rank 28	Schmidt, Peter	Score: 6.2
+SDG 16	Rank 29	Mar�chal, Michel Andr�	Score: 6.1
+SDG 16	Rank 30	Urman, Aleksandra	Score: 6.1
+SDG 16	Rank 31	Ruff, Christian C	Score: 5.86
+SDG 16	Rank 32	Yanagizawa-Drott, David	Score: 5.6
+SDG 16	Rank 33	Wagner, Alexander F	Score: 5.55
+SDG 16	Rank 34	Christen, Markus	Score: 5.45
+SDG 16	Rank 35	Thoenig, Mathias	Score: 5.4
+SDG 16	Rank 36	Schwartz, Shalom H	Score: 5.35
+SDG 16	Rank 37	Rodrigues, Bruno	Score: 5.15
+SDG 16	Rank 38	Palazzo, Guido	Score: 5.15
+SDG 16	Rank 39	Zavolokina, Liudmila	Score: 5.1
+SDG 16	Rank 40	Makhortykh, Mykola	Score: 5.1
+SDG 16	Rank 41	Palazzo, G	Score: 4.9
+SDG 16	Rank 42	Seidl, David	Score: 4.75
+SDG 16	Rank 43	Scherer, Andreas	Score: 4.5
+SDG 16	Rank 44	Ziolkowski, Rafael	Score: 4.5
+SDG 16	Rank 45	Rost, Katja	Score: 4.4
+SDG 16	Rank 46	Baumann-Pauly, Dorothee	Score: 4.35
+SDG 16	Rank 47	Mart�nez P�rez, Gregorio	Score: 4.3
+SDG 16	Rank 48	Torgler, Benno	Score: 4.25
+SDG 16	Rank 49	Falk, Armin	Score: 4.15
+SDG 16	Rank 50	Efferson, Charles	Score: 4.1
+SDG 16	Rank 51	Dorn, David	Score: 4.1
+SDG 16	Rank 52	Killer, Christian	Score: 4.0
+SDG 16	Rank 53	Miscione, Gianluca	Score: 4.0
+SDG 16	Rank 54	S�nchez S�nchez, Pedro Miguel	Score: 3.9
+SDG 16	Rank 55	Zweim�ller, Josef	Score: 3.9
+SDG 16	Rank 56	Caprettini, Bruno	Score: 3.8
+SDG 16	Rank 57	Algesheimer, Ren�	Score: 3.75
+SDG 16	Rank 58	Vecchione, Michele	Score: 3.7
+SDG 16	Rank 59	Voegtlin, Christian	Score: 3.7
+SDG 16	Rank 60	Von der Assen, Jan	Score: 3.6
+SDG 16	Rank 61	Falkinger, Josef	Score: 3.5
+SDG 16	Rank 62	Schenker-Wicki, Andrea	Score: 3.5
+SDG 16	Rank 63	Rochet, Jean-Charles	Score: 3.3
+SDG 16	Rank 64	Chesney, Marc	Score: 3.3
+SDG 16	Rank 65	Hu, Daning	Score: 3.3
+SDG 16	Rank 66	Haack, Patrick	Score: 3.3
+SDG 16	Rank 67	Singer, T	Score: 3.2
+SDG 16	Rank 68	Segal, Carmit	Score: 3.2
+SDG 16	Rank 69	Buckenmaier, Johannes	Score: 3.2
+SDG 16	Rank 70	Miller, Amalia R	Score: 3.2
+SDG 16	Rank 71	Lamm, Claus	Score: 3.2
+SDG 16	Rank 72	Pfaff, Dieter	Score: 3.15
+SDG 16	Rank 73	Benz, Matthias	Score: 3.1
+SDG 16	Rank 74	Hein, Grit	Score: 3.05
+SDG 16	Rank 75	Hens, Thorsten	Score: 3.05
+SDG 16	Rank 76	Schenk, Birgit	Score: 3.0
+SDG 16	Rank 77	Kosfeld, Michael	Score: 2.95
+SDG 16	Rank 78	Netzer, Nick	Score: 2.92
+SDG 16	Rank 79	Chen, Hsinchun	Score: 2.9
+SDG 16	Rank 80	Giesbrecht, Tobias	Score: 2.9
+SDG 16	Rank 81	Pomeranz, Dina	Score: 2.9
+SDG 16	Rank 82	Amb�hl, Sandro	Score: 2.9
+SDG 16	Rank 83	Hilty, Lorenz	Score: 2.85
+SDG 16	Rank 84	Backes-Gellner, Uschi	Score: 2.83
+SDG 16	Rank 85	Schembera, Stefan	Score: 2.8
+SDG 16	Rank 86	Singer, Tania	Score: 2.8
+SDG 16	Rank 87	Sohn, Matthias	Score: 2.8
+SDG 16	Rank 88	Storesletten, Kjetil	Score: 2.7
+SDG 16	Rank 89	Voigtl�nder, Nico	Score: 2.65
+SDG 16	Rank 90	Katsarov, Johannes	Score: 2.65
+SDG 16	Rank 91	Schmocker, David	Score: 2.65
+SDG 16	Rank 92	M�ller, Katharina O E	Score: 2.65
+SDG 16	Rank 93	Engelmann, Jan B	Score: 2.65
+SDG 16	Rank 94	G�chter, Simon	Score: 2.6
+SDG 16	Rank 95	Gartzke, Erik	Score: 2.6
+SDG 16	Rank 96	Hummel, Katrin	Score: 2.6
+SDG 16	Rank 97	Ugazio, Giuseppe	Score: 2.6
+SDG 16	Rank 98	Garagnani, Michele	Score: 2.55
+SDG 16	Rank 99	Celdran, Alberto Huertas	Score: 2.5
+SDG 16	Rank 100	Tolmeijer, Suzanne	Score: 2.5
+RANKING FOR SDG 17
+SDG 17	Rank 1	Schwabe, Gerhard	Score: 30.1
+SDG 17	Rank 2	Ongena, Steven	Score: 25.4
+SDG 17	Rank 3	Frey, Bruno S	Score: 19.0
+SDG 17	Rank 4	Stiller, Burkhard	Score: 17.45
+SDG 17	Rank 5	Scaramuzza, Davide	Score: 15.7
+SDG 17	Rank 6	Fehr, Ernst	Score: 15.45
+SDG 17	Rank 7	Bernstein, Abraham	Score: 14.75
+SDG 17	Rank 8	Battiston, Stefano	Score: 13.05
+SDG 17	Rank 9	Scherer, Andreas Georg	Score: 10.8
+SDG 17	Rank 10	Zilibotti, Fabrizio	Score: 10.75
+SDG 17	Rank 11	Backes-Gellner, Uschi	Score: 9.75
+SDG 17	Rank 12	Zavolokina, Liudmila	Score: 9.3
+SDG 17	Rank 13	Seidl, David	Score: 8.9
+SDG 17	Rank 14	Davidov, Eldad	Score: 7.25
+SDG 17	Rank 15	Hilty, Lorenz	Score: 7.1
+SDG 17	Rank 16	Dolata, Mateusz	Score: 6.75
+SDG 17	Rank 17	Weber, Roberto A	Score: 6.75
+SDG 17	Rank 18	Hilty, Lorenz M	Score: 6.7
+SDG 17	Rank 19	Schenker-Wicki, Andrea	Score: 6.5
+SDG 17	Rank 20	Scherer, A G	Score: 6.45
+SDG 17	Rank 21	Cieciuch, Jan	Score: 6.3
+SDG 17	Rank 22	Osterloh, Margit	Score: 6.25
+SDG 17	Rank 23	Stutzer, Alois	Score: 6.1
+SDG 17	Rank 24	Zweim�ller, Josef	Score: 5.75
+SDG 17	Rank 25	Al�s-Ferrer, Carlos	Score: 5.6
+SDG 17	Rank 26	Leippold, Markus	Score: 5.23
+SDG 17	Rank 27	Palazzo, G	Score: 5.15
+SDG 17	Rank 28	Algesheimer, Ren�	Score: 5.1
+SDG 17	Rank 29	Ziolkowski, Rafael	Score: 4.95
+SDG 17	Rank 30	Bovet, G�r�me	Score: 4.9
+SDG 17	Rank 31	Schmidt, Peter	Score: 4.85
+SDG 17	Rank 32	Keil, Thomas	Score: 4.8
+SDG 17	Rank 33	Miscione, Gianluca	Score: 4.75
+SDG 17	Rank 34	Rossetto, Luca	Score: 4.75
+SDG 17	Rank 35	Seyff, Norbert	Score: 4.7
+SDG 17	Rank 36	Palazzo, Guido	Score: 4.65
+SDG 17	Rank 37	Schmutzler, Armin	Score: 4.6
+SDG 17	Rank 38	Hoffmann, Mathias	Score: 4.57
+SDG 17	Rank 39	Bartling, Bj�rn	Score: 4.55
+SDG 17	Rank 40	Wagner, Alexander	Score: 4.5
+SDG 17	Rank 41	Chesney, Marc	Score: 4.45
+SDG 17	Rank 42	Beck, Mathias	Score: 4.4
+SDG 17	Rank 43	Rochet, Jean-Charles	Score: 4.35
+SDG 17	Rank 44	Ossa, Ralph	Score: 4.25
+SDG 17	Rank 45	Stiller, B	Score: 4.25
+SDG 17	Rank 46	Mader, Clemens	Score: 4.2
+SDG 17	Rank 47	Voegtlin, Christian	Score: 4.2
+SDG 17	Rank 48	Hens, Thorsten	Score: 4.15
+SDG 17	Rank 49	Kubler, Felix	Score: 4.12
+SDG 17	Rank 50	Zweifel, Peter	Score: 4.1
+SDG 17	Rank 51	Storesletten, Kjetil	Score: 4.0
+SDG 17	Rank 52	Tobler, Philippe N	Score: 3.95
+SDG 17	Rank 53	Baumann-Pauly, Dorothee	Score: 3.95
+SDG 17	Rank 54	Huertas Celdran, Alberto	Score: 3.9
+SDG 17	Rank 55	Bacchelli, Alberto	Score: 3.9
+SDG 17	Rank 56	Hummel, Katrin	Score: 3.9
+SDG 17	Rank 57	Glinz, Martin	Score: 3.82
+SDG 17	Rank 58	Falkinger, Josef	Score: 3.8
+SDG 17	Rank 59	Sachs, Sybille	Score: 3.8
+SDG 17	Rank 60	Caldarelli, Guido	Score: 3.8
+SDG 17	Rank 61	Dorn, David	Score: 3.55
+SDG 17	Rank 62	Tanner, Carmen	Score: 3.5
+SDG 17	Rank 63	Schiller, Eryk	Score: 3.5
+SDG 17	Rank 64	Ruff, Christian C	Score: 3.47
+SDG 17	Rank 65	Hu, Daning	Score: 3.45
+SDG 17	Rank 66	Fedosov, Anton	Score: 3.4
+SDG 17	Rank 67	Fritz, Thomas	Score: 3.4
+SDG 17	Rank 68	Puschmann, Thomas	Score: 3.35
+SDG 17	Rank 69	Fischbacher, Urs	Score: 3.3
+SDG 17	Rank 70	Rohner, Dominic	Score: 3.3
+SDG 17	Rank 71	Pomeranz, Dina	Score: 3.25
+SDG 17	Rank 72	Mariani, Manuel	Score: 3.22
+SDG 17	Rank 73	Paetzold, Falko	Score: 3.2
+SDG 17	Rank 74	Scherer, Andreas	Score: 3.2
+SDG 17	Rank 75	Wagner, Alexander F	Score: 3.1
+SDG 17	Rank 76	Winkelmann, Rainer	Score: 3.02
+SDG 17	Rank 77	Meins, Erika	Score: 3.0
+SDG 17	Rank 78	Acemoglu, Daron	Score: 3.0
+SDG 17	Rank 79	Schwartz, Shalom H	Score: 2.95
+SDG 17	Rank 80	Mart�nez P�rez, Gregorio	Score: 2.9
+SDG 17	Rank 81	Aerni, Philipp	Score: 2.9
+SDG 17	Rank 82	Dietl, Helmut	Score: 2.85
+SDG 17	Rank 83	Tessone, Claudio	Score: 2.85
+SDG 17	Rank 84	S�nchez S�nchez, Pedro Miguel	Score: 2.8
+SDG 17	Rank 85	Bernard, J�rgen	Score: 2.8
+SDG 17	Rank 86	Pycia, Marek	Score: 2.8
+SDG 17	Rank 87	et al	Score: 2.8
+SDG 17	Rank 88	Kaiser, Ulrich	Score: 2.8
+SDG 17	Rank 89	Schmedders, Karl	Score: 2.75
+SDG 17	Rank 90	Pajarola, R	Score: 2.75
+SDG 17	Rank 91	Voth, Hans-Joachim	Score: 2.7
+SDG 17	Rank 92	Schneider, Anselm	Score: 2.7
+SDG 17	Rank 93	St�ckli, Sabrina	Score: 2.7
+SDG 17	Rank 94	Mar�chal, Michel Andr�	Score: 2.65
+SDG 17	Rank 95	Lalive, Rafael	Score: 2.65
+SDG 17	Rank 96	Natter, Martin	Score: 2.65
+SDG 17	Rank 97	Busch, Timo	Score: 2.65
+SDG 17	Rank 98	Rodrigues, Bruno	Score: 2.6
+SDG 17	Rank 99	Aghion, Philippe	Score: 2.6
+SDG 17	Rank 100	Christen, Markus	Score: 2.55

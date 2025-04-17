@@ -1,0 +1,100 @@
+RANKING FOR SDG 3SDG 3	Rank 1	Tobler, Philippe N	Score: 40.11
+SDG 3	Rank 2	Ruff, Christian C	Score: 29.465
+SDG 3	Rank 3	Zweifel, Peter	Score: 25.982
+SDG 3	Rank 4	Fehr, Ernst	Score: 21.115
+SDG 3	Rank 5	Stephan, K E	Score: 19.378
+SDG 3	Rank 6	Hare, Todd A	Score: 18.319
+SDG 3	Rank 7	Frey, Bruno S	Score: 15.096
+SDG 3	Rank 8	Friston, K J	Score: 14.469
+SDG 3	Rank 9	Winkelmann, Rainer	Score: 13.919
+SDG 3	Rank 10	Cieciuch, Jan	Score: 12.805
+SDG 3	Rank 11	Seifritz, Erich	Score: 11.227
+SDG 3	Rank 12	Stutzer, Alois	Score: 10.987
+SDG 3	Rank 13	Schwabe, Gerhard	Score: 10.851
+SDG 3	Rank 14	Kaiser, Stefan	Score: 10.027
+SDG 3	Rank 15	Zweim�ller, Josef	Score: 8.855
+SDG 3	Rank 16	Polania, Rafael	Score: 8.818
+SDG 3	Rank 17	Kirschner, Matthias	Score: 8.164
+SDG 3	Rank 18	St�ckli, Sabrina	Score: 7.864
+SDG 3	Rank 19	Nebe, Stephan	Score: 7.7
+SDG 3	Rank 20	Telser, Harry	Score: 7.464
+SDG 3	Rank 21	Bernstein, Abraham	Score: 6.905
+SDG 3	Rank 22	Beck, Konstantin	Score: 6.782
+SDG 3	Rank 23	Ongena, Steven	Score: 6.719
+SDG 3	Rank 24	Grueschow, Marcus	Score: 6.627
+SDG 3	Rank 25	Dolan, R J	Score: 5.964
+SDG 3	Rank 26	Smolka, Michael N	Score: 5.909
+SDG 3	Rank 27	Backes-Gellner, Uschi	Score: 5.819
+SDG 3	Rank 28	Soutschek, Alexander	Score: 5.818
+SDG 3	Rank 29	Moisa, Marius	Score: 5.691
+SDG 3	Rank 30	Blankenburg, F	Score: 5.664
+SDG 3	Rank 31	Casey, B J	Score: 5.582
+SDG 3	Rank 32	Schwandt, Hannes	Score: 5.427
+SDG 3	Rank 33	Heinz, Andreas	Score: 5.355
+SDG 3	Rank 34	Sebold, Miriam	Score: 5.355
+SDG 3	Rank 35	Driver, J	Score: 5.346
+SDG 3	Rank 36	Paulus, Walter	Score: 5.2
+SDG 3	Rank 37	Woitek, Ulrich	Score: 5.146
+SDG 3	Rank 38	Dolata, Mateusz	Score: 4.987
+SDG 3	Rank 39	Bestmann, S	Score: 4.882
+SDG 3	Rank 40	Lalive, Rafael	Score: 4.773
+SDG 3	Rank 41	Fritz, Thomas	Score: 4.773
+SDG 3	Rank 42	Biroli, Pietro	Score: 4.527
+SDG 3	Rank 43	Han, Hyemin	Score: 4.518
+SDG 3	Rank 44	Huertas Celdran, Alberto	Score: 4.482
+SDG 3	Rank 45	Davidov, Eldad	Score: 4.478
+SDG 3	Rank 46	Beck, K	Score: 4.446
+SDG 3	Rank 47	Hartmann-Riemer, Matthias N	Score: 4.246
+SDG 3	Rank 48	Blackburn, Ang�lique M	Score: 4.191
+SDG 3	Rank 49	Garbusow, Maria	Score: 4.173
+SDG 3	Rank 50	Stiller, Burkhard	Score: 4.128
+SDG 3	Rank 51	Daunizeau, J	Score: 4.127
+SDG 3	Rank 52	Weiskopf, N	Score: 4.073
+SDG 3	Rank 53	Stephan, Klaas E	Score: 4.055
+SDG 3	Rank 54	Staub, Kevin E	Score: 3.927
+SDG 3	Rank 55	Nitsche, Michael A	Score: 3.918
+SDG 3	Rank 56	Jeftic, Alma	Score: 3.891
+SDG 3	Rank 57	Yanagizawa-Drott, David	Score: 3.873
+SDG 3	Rank 58	Zilibotti, Fabrizio	Score: 3.8
+SDG 3	Rank 59	Schoder, Johannes	Score: 3.791
+SDG 3	Rank 60	Burke, Christopher J	Score: 3.755
+SDG 3	Rank 61	Singer, T	Score: 3.727
+SDG 3	Rank 62	Howe, Lauren C	Score: 3.646
+SDG 3	Rank 63	Huys, Quentin J M	Score: 3.646
+SDG 3	Rank 64	Crum, Alia J	Score: 3.591
+SDG 3	Rank 65	Tanner, Carmen	Score: 3.573
+SDG 3	Rank 66	Vestergren, Sara	Score: 3.564
+SDG 3	Rank 67	Strus, W?odzimierz	Score: 3.446
+SDG 3	Rank 68	Saposnik, Gustavo	Score: 3.446
+SDG 3	Rank 69	Boes, Stefan	Score: 3.3
+SDG 3	Rank 70	Kuhn, Andreas	Score: 3.273
+SDG 3	Rank 71	Al�s-Ferrer, Carlos	Score: 3.2
+SDG 3	Rank 72	Rauh, Christopher	Score: 3.191
+SDG 3	Rank 73	Boneva, Teodora	Score: 3.191
+SDG 3	Rank 74	Kleim, Birgit	Score: 3.191
+SDG 3	Rank 75	Tottenham, Nim	Score: 3.191
+SDG 3	Rank 76	Antal, Andrea	Score: 3.136
+SDG 3	Rank 77	Nagy, Zoltan	Score: 3.127
+SDG 3	Rank 78	Zimmermann, Ulrich S	Score: 3.091
+SDG 3	Rank 79	Schunk, Daniel	Score: 3.082
+SDG 3	Rank 80	Scherer, Andreas Georg	Score: 3.082
+SDG 3	Rank 81	Currie, Janet	Score: 3.064
+SDG 3	Rank 82	Howe, Lauren	Score: 3.0
+SDG 3	Rank 83	Kiebel, S J	Score: 3.0
+SDG 3	Rank 84	Kuitunen-Paul, S�ren	Score: 2.991
+SDG 3	Rank 85	Voth, Hans-Joachim	Score: 2.964
+SDG 3	Rank 86	Menges, Jochen I	Score: 2.964
+SDG 3	Rank 87	Kahnt, Thorsten	Score: 2.882
+SDG 3	Rank 88	Dorn, David	Score: 2.855
+SDG 3	Rank 89	Leibowitz, Kari A	Score: 2.836
+SDG 3	Rank 90	Milfont, Taciano L	Score: 2.836
+SDG 3	Rank 91	Reifler, Jason	Score: 2.836
+SDG 3	Rank 92	R�hli, Frank J	Score: 2.818
+SDG 3	Rank 93	Hein, Grit	Score: 2.818
+SDG 3	Rank 94	Z�litz, Ulf	Score: 2.8
+SDG 3	Rank 95	Steiner, Jakub	Score: 2.8
+SDG 3	Rank 96	Fischbacher, Urs	Score: 2.764
+SDG 3	Rank 97	Raja Beharelle, Anjali	Score: 2.764
+SDG 3	Rank 98	Hare, Todd	Score: 2.764
+SDG 3	Rank 99	Hellrung, Lydia	Score: 2.764
+SDG 3	Rank 100	Luechinger, Simon	Score: 2.755

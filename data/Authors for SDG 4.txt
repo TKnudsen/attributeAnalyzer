@@ -1,0 +1,100 @@
+RANKING FOR SDG 4SDG 4	Rank 1	Backes-Gellner, Uschi	Score: 31.646
+SDG 4	Rank 2	Schwabe, Gerhard	Score: 18.964
+SDG 4	Rank 3	Z�litz, Ulf	Score: 11.837
+SDG 4	Rank 4	Cieciuch, Jan	Score: 9.805
+SDG 4	Rank 5	Frey, Bruno S	Score: 9.61
+SDG 4	Rank 6	Fehr, Ernst	Score: 7.914
+SDG 4	Rank 7	Bernstein, Abraham	Score: 7.601
+SDG 4	Rank 8	Bacchelli, Alberto	Score: 7.028
+SDG 4	Rank 9	Schenker-Wicki, Andrea	Score: 6.918
+SDG 4	Rank 10	Winkelmann, Rainer	Score: 6.764
+SDG 4	Rank 11	Ruff, Christian C	Score: 6.764
+SDG 4	Rank 12	Davidov, Eldad	Score: 6.687
+SDG 4	Rank 13	Lichand, Guilherme	Score: 6.627
+SDG 4	Rank 14	Falkinger, Josef	Score: 5.409
+SDG 4	Rank 15	Tobler, Philippe N	Score: 5.009
+SDG 4	Rank 16	Pfister, Curdin	Score: 4.646
+SDG 4	Rank 17	Hare, Todd A	Score: 4.618
+SDG 4	Rank 18	G�th, Christoph	Score: 4.473
+SDG 4	Rank 19	Osterloh, Margit	Score: 4.432
+SDG 4	Rank 20	Pull, Kerstin	Score: 4.427
+SDG 4	Rank 21	Dolata, Mateusz	Score: 4.4
+SDG 4	Rank 22	Grossmann, Volker	Score: 4.373
+SDG 4	Rank 23	Rossetto, Luca	Score: 4.268
+SDG 4	Rank 24	Feld, Jan	Score: 4.127
+SDG 4	Rank 25	Mader, Clemens	Score: 4.018
+SDG 4	Rank 26	Olivares, Maria	Score: 3.946
+SDG 4	Rank 27	Lehnert, Patrick	Score: 3.714
+SDG 4	Rank 28	Schunk, Daniel	Score: 3.618
+SDG 4	Rank 29	Seidl, David	Score: 3.582
+SDG 4	Rank 30	Glinz, Martin	Score: 3.555
+SDG 4	Rank 31	Sorrenti, Giuseppe	Score: 3.364
+SDG 4	Rank 32	Frohberg, Dirk	Score: 3.191
+SDG 4	Rank 33	Hermes, Henning	Score: 3.136
+SDG 4	Rank 34	Seyff, Norbert	Score: 3.073
+SDG 4	Rank 35	Rupietta, Christian	Score: 3.046
+SDG 4	Rank 36	Berger, Eva M	Score: 3.009
+SDG 4	Rank 37	Winkel, Kirsten	Score: 3.009
+SDG 4	Rank 38	Bernard, J�rgen	Score: 2.864
+SDG 4	Rank 39	Biroli, Pietro	Score: 2.846
+SDG 4	Rank 40	B�ker, Agnes	Score: 2.846
+SDG 4	Rank 41	Christen, Markus	Score: 2.827
+SDG 4	Rank 42	Fritz, Thomas	Score: 2.818
+SDG 4	Rank 43	Zilibotti, Fabrizio	Score: 2.8
+SDG 4	Rank 44	Tanner, Carmen	Score: 2.773
+SDG 4	Rank 45	Schmidt, Peter	Score: 2.737
+SDG 4	Rank 46	Woitek, Ulrich	Score: 2.727
+SDG 4	Rank 47	Schwartz, Shalom H	Score: 2.714
+SDG 4	Rank 48	Schultheiss, Tobias	Score: 2.709
+SDG 4	Rank 49	Boppart, Timo	Score: 2.636
+SDG 4	Rank 50	Bernstein, A	Score: 2.618
+SDG 4	Rank 51	Pajarola, R	Score: 2.582
+SDG 4	Rank 52	Al�s-Ferrer, Carlos	Score: 2.528
+SDG 4	Rank 53	Schenk, Birgit	Score: 2.518
+SDG 4	Rank 54	Balestra, Simone	Score: 2.436
+SDG 4	Rank 55	Golsteyn, Bart H H	Score: 2.409
+SDG 4	Rank 56	Scherer, Andreas Georg	Score: 2.364
+SDG 4	Rank 57	Salamanca, Nicolas	Score: 2.336
+SDG 4	Rank 58	Pycia, Marek	Score: 2.259
+SDG 4	Rank 59	Schlegel, Tobias	Score: 2.236
+SDG 4	Rank 60	Bernheim, B Douglas	Score: 2.191
+SDG 4	Rank 61	Eisner, Manuel	Score: 2.182
+SDG 4	Rank 62	Ribeaud, Denis	Score: 2.182
+SDG 4	Rank 63	Gnehm, Ann-Sophie	Score: 2.109
+SDG 4	Rank 64	Rauh, Christopher	Score: 2.018
+SDG 4	Rank 65	Boneva, Teodora	Score: 2.018
+SDG 4	Rank 66	Casey, B J	Score: 1.973
+SDG 4	Rank 67	Pajarola, Renato	Score: 1.964
+SDG 4	Rank 68	Meuleman, Bart	Score: 1.964
+SDG 4	Rank 69	Algesheimer, Ren�	Score: 1.941
+SDG 4	Rank 70	Palomba, Fabio	Score: 1.882
+SDG 4	Rank 71	Scaramuzza, Davide	Score: 1.882
+SDG 4	Rank 72	Isphording, Ingo E	Score: 1.882
+SDG 4	Rank 73	Bren�e, Anne Ardila	Score: 1.868
+SDG 4	Rank 74	Franck, E	Score: 1.841
+SDG 4	Rank 75	Rost, Katja	Score: 1.823
+SDG 4	Rank 76	Vecchione, Michele	Score: 1.818
+SDG 4	Rank 77	Katsarov, Johannes	Score: 1.764
+SDG 4	Rank 78	Schmocker, David	Score: 1.764
+SDG 4	Rank 79	Schwandt, Hannes	Score: 1.746
+SDG 4	Rank 80	Schuldt, Heiko	Score: 1.746
+SDG 4	Rank 81	Zweim�ller, Josef	Score: 1.718
+SDG 4	Rank 82	Giesbrecht, Tobias	Score: 1.718
+SDG 4	Rank 83	Schoeffmann, Klaus	Score: 1.718
+SDG 4	Rank 84	Stephan, K E	Score: 1.709
+SDG 4	Rank 85	Feldman, Michael	Score: 1.691
+SDG 4	Rank 86	Loko?, Jakub	Score: 1.673
+SDG 4	Rank 87	Reinecke, Katharina	Score: 1.664
+SDG 4	Rank 88	Opitz, C	Score: 1.659
+SDG 4	Rank 89	Gurrin, Cathal	Score: 1.646
+SDG 4	Rank 90	Gall, Harald C	Score: 1.637
+SDG 4	Rank 91	Zweifel, Peter	Score: 1.609
+SDG 4	Rank 92	Amb�hl, Sandro	Score: 1.591
+SDG 4	Rank 93	Geel, Regula	Score: 1.586
+SDG 4	Rank 94	Scherer, A G	Score: 1.55
+SDG 4	Rank 95	Jain, Ronak	Score: 1.482
+SDG 4	Rank 96	Hens, Thorsten	Score: 1.473
+SDG 4	Rank 97	Cohn, Alain	Score: 1.464
+SDG 4	Rank 98	El-Assady, Mennatallah	Score: 1.464
+SDG 4	Rank 99	Pfeifer, R	Score: 1.464
+SDG 4	Rank 100	Dlouh�, Jana	Score: 1.455

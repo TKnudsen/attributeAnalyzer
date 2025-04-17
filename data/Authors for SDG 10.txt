@@ -1,0 +1,100 @@
+RANKING FOR SDG 10SDG 10	Rank 1	Fehr, Ernst	Score: 26.047
+SDG 10	Rank 2	Zweim�ller, Josef	Score: 19.501
+SDG 10	Rank 3	Ongena, Steven	Score: 18.251
+SDG 10	Rank 4	Frey, Bruno S	Score: 16.087
+SDG 10	Rank 5	Davidov, Eldad	Score: 15.355
+SDG 10	Rank 6	Zilibotti, Fabrizio	Score: 11.71
+SDG 10	Rank 7	Backes-Gellner, Uschi	Score: 10.046
+SDG 10	Rank 8	Cieciuch, Jan	Score: 8.619
+SDG 10	Rank 9	Schwabe, Gerhard	Score: 7.996
+SDG 10	Rank 10	Scherer, Andreas Georg	Score: 7.873
+SDG 10	Rank 11	Dorn, David	Score: 7.6
+SDG 10	Rank 12	Winkelmann, Rainer	Score: 7.405
+SDG 10	Rank 13	Scheuer, Florian	Score: 7.173
+SDG 10	Rank 14	Weber, Roberto A	Score: 6.919
+SDG 10	Rank 15	Dietl, Helmut	Score: 6.918
+SDG 10	Rank 16	Nesseler, Cornel	Score: 6.737
+SDG 10	Rank 17	Schmidt, Peter	Score: 6.618
+SDG 10	Rank 18	G�mez Gonz�lez, Carlos	Score: 6.409
+SDG 10	Rank 19	Foellmi, Reto	Score: 6.327
+SDG 10	Rank 20	Lalive, Rafael	Score: 6.218
+SDG 10	Rank 21	Voth, Hans-Joachim	Score: 5.827
+SDG 10	Rank 22	Bernstein, Abraham	Score: 5.818
+SDG 10	Rank 23	Stutzer, Alois	Score: 5.709
+SDG 10	Rank 24	Bartling, Bj�rn	Score: 5.6
+SDG 10	Rank 25	Z�litz, Ulf	Score: 5.468
+SDG 10	Rank 26	Pomeranz, Dina	Score: 5.064
+SDG 10	Rank 27	Epper, Thomas	Score: 4.837
+SDG 10	Rank 28	Tobler, Philippe N	Score: 4.796
+SDG 10	Rank 29	Osterloh, Margit	Score: 4.664
+SDG 10	Rank 30	Jaimovich, Nir	Score: 4.637
+SDG 10	Rank 31	Falkinger, Josef	Score: 4.396
+SDG 10	Rank 32	Schwartz, Shalom H	Score: 4.391
+SDG 10	Rank 33	Al�s-Ferrer, Carlos	Score: 4.291
+SDG 10	Rank 34	Battiston, Stefano	Score: 4.228
+SDG 10	Rank 35	Fischbacher, Urs	Score: 4.082
+SDG 10	Rank 36	Ruff, Christian C	Score: 4.068
+SDG 10	Rank 37	Urman, Aleksandra	Score: 4.037
+SDG 10	Rank 38	Falk, Armin	Score: 4.018
+SDG 10	Rank 39	Rauh, Christopher	Score: 3.946
+SDG 10	Rank 40	Boneva, Teodora	Score: 3.946
+SDG 10	Rank 41	Zweifel, Peter	Score: 3.937
+SDG 10	Rank 42	Oechslin, Manuel	Score: 3.864
+SDG 10	Rank 43	Cohn, Alain	Score: 3.837
+SDG 10	Rank 44	Senn, Julien	Score: 3.773
+SDG 10	Rank 45	Scherer, A G	Score: 3.764
+SDG 10	Rank 46	Makhortykh, Mykola	Score: 3.727
+SDG 10	Rank 47	Efferson, Charles	Score: 3.618
+SDG 10	Rank 48	Egger, H	Score: 3.614
+SDG 10	Rank 49	Torgler, Benno	Score: 3.555
+SDG 10	Rank 50	Woitek, Ulrich	Score: 3.541
+SDG 10	Rank 51	Gloor, Jamie Lee	Score: 3.518
+SDG 10	Rank 52	Storesletten, Kjetil	Score: 3.509
+SDG 10	Rank 53	Yanagizawa-Drott, David	Score: 3.455
+SDG 10	Rank 54	Dolata, Mateusz	Score: 3.359
+SDG 10	Rank 55	Algesheimer, Ren�	Score: 3.346
+SDG 10	Rank 56	Rohner, Dominic	Score: 3.282
+SDG 10	Rank 57	Steinhauer, Andreas	Score: 3.118
+SDG 10	Rank 58	Lichand, Guilherme	Score: 3.096
+SDG 10	Rank 59	Hanson, Gordon H	Score: 3.073
+SDG 10	Rank 60	Autor, David	Score: 3.055
+SDG 10	Rank 61	Rochet, Jean-Charles	Score: 3.027
+SDG 10	Rank 62	Doepke, Matthias	Score: 3.0
+SDG 10	Rank 63	Baumann-Pauly, Dorothee	Score: 2.973
+SDG 10	Rank 64	Golin, Marta	Score: 2.964
+SDG 10	Rank 65	Hens, Thorsten	Score: 2.955
+SDG 10	Rank 66	Schmutzler, Armin	Score: 2.928
+SDG 10	Rank 67	Ulloa, Roberto	Score: 2.891
+SDG 10	Rank 68	Palazzo, G	Score: 2.8
+SDG 10	Rank 69	Gancia, Gino	Score: 2.773
+SDG 10	Rank 70	Stiller, Burkhard	Score: 2.773
+SDG 10	Rank 71	Zavolokina, Liudmila	Score: 2.718
+SDG 10	Rank 72	Bren�e, Anne Ardila	Score: 2.646
+SDG 10	Rank 73	Caprettini, Bruno	Score: 2.646
+SDG 10	Rank 74	Feld, Jan	Score: 2.546
+SDG 10	Rank 75	Seidl, David	Score: 2.527
+SDG 10	Rank 76	Segal, Carmit	Score: 2.518
+SDG 10	Rank 77	Biroli, Pietro	Score: 2.518
+SDG 10	Rank 78	Hoffmann, Mathias	Score: 2.5
+SDG 10	Rank 79	Rost, Katja	Score: 2.5
+SDG 10	Rank 80	H�mous, David	Score: 2.473
+SDG 10	Rank 81	Meuleman, Bart	Score: 2.464
+SDG 10	Rank 82	Mar�chal, Michel Andr�	Score: 2.455
+SDG 10	Rank 83	Schmidt, Klaus M	Score: 2.427
+SDG 10	Rank 84	Reinecke, Katharina	Score: 2.364
+SDG 10	Rank 85	F�llmi, Reto	Score: 2.364
+SDG 10	Rank 86	Palazzo, Guido	Score: 2.355
+SDG 10	Rank 87	Pull, Kerstin	Score: 2.327
+SDG 10	Rank 88	Hein, Grit	Score: 2.318
+SDG 10	Rank 89	Ranehill, Eva	Score: 2.318
+SDG 10	Rank 90	Vogt, Sonja	Score: 2.309
+SDG 10	Rank 91	S�ez-Mart�, Mar�a	Score: 2.291
+SDG 10	Rank 92	Miller, Amalia R	Score: 2.291
+SDG 10	Rank 93	Meier, Stephan	Score: 2.282
+SDG 10	Rank 94	Hilty, Lorenz	Score: 2.264
+SDG 10	Rank 95	Acemoglu, Daron	Score: 2.246
+SDG 10	Rank 96	Tanner, Carmen	Score: 2.218
+SDG 10	Rank 97	Carrillo, Paul	Score: 2.136
+SDG 10	Rank 98	Schwandt, Hannes	Score: 2.118
+SDG 10	Rank 99	Franck, E	Score: 2.118
+SDG 10	Rank 100	Grossmann, Volker	Score: 2.118

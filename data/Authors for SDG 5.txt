@@ -1,0 +1,100 @@
+RANKING FOR SDG 5SDG 5	Rank 1	Fehr, Ernst	Score: 9.378
+SDG 5	Rank 2	Z�litz, Ulf	Score: 8.973
+SDG 5	Rank 3	Backes-Gellner, Uschi	Score: 8.291
+SDG 5	Rank 4	Dietl, Helmut	Score: 5.682
+SDG 5	Rank 5	Davidov, Eldad	Score: 5.4
+SDG 5	Rank 6	G�mez Gonz�lez, Carlos	Score: 5.073
+SDG 5	Rank 7	Frey, Bruno S	Score: 5.064
+SDG 5	Rank 8	Cieciuch, Jan	Score: 4.982
+SDG 5	Rank 9	Nesseler, Cornel	Score: 4.927
+SDG 5	Rank 10	Bren�e, Anne Ardila	Score: 4.65
+SDG 5	Rank 11	Feld, Jan	Score: 4.473
+SDG 5	Rank 12	Zweim�ller, Josef	Score: 4.446
+SDG 5	Rank 13	Gloor, Jamie Lee	Score: 4.318
+SDG 5	Rank 14	Weber, Roberto A	Score: 4.264
+SDG 5	Rank 15	Ranehill, Eva	Score: 4.164
+SDG 5	Rank 16	Ongena, Steven	Score: 3.727
+SDG 5	Rank 17	Segal, Carmit	Score: 3.591
+SDG 5	Rank 18	Efferson, Charles	Score: 3.491
+SDG 5	Rank 19	Vogt, Sonja	Score: 3.164
+SDG 5	Rank 20	Stutzer, Alois	Score: 2.918
+SDG 5	Rank 21	Tobler, Philippe N	Score: 2.914
+SDG 5	Rank 22	Miller, Amalia R	Score: 2.864
+SDG 5	Rank 23	Bernstein, Abraham	Score: 2.741
+SDG 5	Rank 24	Schwabe, Gerhard	Score: 2.614
+SDG 5	Rank 25	Biroli, Pietro	Score: 2.491
+SDG 5	Rank 26	Boneva, Teodora	Score: 2.491
+SDG 5	Rank 27	Rauh, Christopher	Score: 2.491
+SDG 5	Rank 28	Osterloh, Margit	Score: 2.382
+SDG 5	Rank 29	Rost, Katja	Score: 2.364
+SDG 5	Rank 30	Winkelmann, Rainer	Score: 2.337
+SDG 5	Rank 31	Sauermann, Jan	Score: 2.282
+SDG 5	Rank 32	Steinhauer, Andreas	Score: 2.264
+SDG 5	Rank 33	Schwartz, Shalom H	Score: 2.237
+SDG 5	Rank 34	Lalive, Rafael	Score: 2.173
+SDG 5	Rank 35	Zilibotti, Fabrizio	Score: 2.164
+SDG 5	Rank 36	Scherer, Andreas Georg	Score: 2.118
+SDG 5	Rank 37	Bursztyn, Leonardo	Score: 2.109
+SDG 5	Rank 38	Doepke, Matthias	Score: 2.064
+SDG 5	Rank 39	Golin, Marta	Score: 2.036
+SDG 5	Rank 40	Pull, Kerstin	Score: 1.964
+SDG 5	Rank 41	Berri, David	Score: 1.882
+SDG 5	Rank 42	Menges, Jochen I	Score: 1.846
+SDG 5	Rank 43	Schmidt, Peter	Score: 1.8
+SDG 5	Rank 44	Urman, Aleksandra	Score: 1.791
+SDG 5	Rank 45	Makhortykh, Mykola	Score: 1.764
+SDG 5	Rank 46	Al�s-Ferrer, Carlos	Score: 1.727
+SDG 5	Rank 47	Christen, Markus	Score: 1.7
+SDG 5	Rank 48	Bacchelli, Alberto	Score: 1.609
+SDG 5	Rank 49	Lichand, Guilherme	Score: 1.591
+SDG 5	Rank 50	Kleven, Henrik	Score: 1.582
+SDG 5	Rank 51	Posch, Johanna	Score: 1.582
+SDG 5	Rank 52	Landais, Camille	Score: 1.582
+SDG 5	Rank 53	Hein, Grit	Score: 1.564
+SDG 5	Rank 54	Mengel, Friederike	Score: 1.555
+SDG 5	Rank 55	Yanagizawa-Drott, David	Score: 1.536
+SDG 5	Rank 56	S�ez-Mart�, Mar�a	Score: 1.509
+SDG 5	Rank 57	Ulloa, Roberto	Score: 1.509
+SDG 5	Rank 58	Algesheimer, Ren�	Score: 1.5
+SDG 5	Rank 59	Singer, T	Score: 1.491
+SDG 5	Rank 60	Adams-Prassl, Abi	Score: 1.482
+SDG 5	Rank 61	Lehnert, Patrick	Score: 1.482
+SDG 5	Rank 62	Torgler, Benno	Score: 1.464
+SDG 5	Rank 63	Ruff, Christian C	Score: 1.459
+SDG 5	Rank 64	Heursen, Lea	Score: 1.455
+SDG 5	Rank 65	Gonz�lez, Alessandra L	Score: 1.455
+SDG 5	Rank 66	Savage, David A	Score: 1.436
+SDG 5	Rank 67	Tanner, Carmen	Score: 1.427
+SDG 5	Rank 68	Hare, Todd A	Score: 1.427
+SDG 5	Rank 69	Vecchione, Michele	Score: 1.418
+SDG 5	Rank 70	Rendall, Michelle	Score: 1.382
+SDG 5	Rank 71	Guvenen, Fatih	Score: 1.355
+SDG 5	Rank 72	Paustian-Underdahl, Samantha C	Score: 1.355
+SDG 5	Rank 73	Morf, Manuela Christina	Score: 1.355
+SDG 5	Rank 74	Dolata, Mateusz	Score: 1.318
+SDG 5	Rank 75	Palmtag, Tabea	Score: 1.309
+SDG 5	Rank 76	Howe, Lauren C	Score: 1.282
+SDG 5	Rank 77	Heitz, Christoph	Score: 1.282
+SDG 5	Rank 78	Salamanca, Nicolas	Score: 1.282
+SDG 5	Rank 79	Bartling, Bj�rn	Score: 1.277
+SDG 5	Rank 80	P�lffy, Patricia	Score: 1.255
+SDG 5	Rank 81	Bosworth, Steven	Score: 1.255
+SDG 5	Rank 82	Jaworska, Sylvia	Score: 1.255
+SDG 5	Rank 83	Di Girolamo, Amalia	Score: 1.255
+SDG 5	Rank 84	de Gendre, Alexandra	Score: 1.255
+SDG 5	Rank 85	Vollen, Jeremy	Score: 1.255
+SDG 5	Rank 86	Soutschek, Alexander	Score: 1.236
+SDG 5	Rank 87	Epper, Thomas	Score: 1.223
+SDG 5	Rank 88	Voegtlin, Christian	Score: 1.218
+SDG 5	Rank 89	Reinecke, Katharina	Score: 1.209
+SDG 5	Rank 90	Bhalotra, Sonia	Score: 1.209
+SDG 5	Rank 91	Maselko, Joanna	Score: 1.209
+SDG 5	Rank 92	Baranov, Victoria	Score: 1.182
+SDG 5	Rank 93	Tuor, Simone	Score: 1.182
+SDG 5	Rank 94	Janssen, Simon	Score: 1.182
+SDG 5	Rank 95	Hertweck, Corinna	Score: 1.182
+SDG 5	Rank 96	Katsarov, Johannes	Score: 1.164
+SDG 5	Rank 97	Schmocker, David	Score: 1.164
+SDG 5	Rank 98	Joecks, Jasmin	Score: 1.155
+SDG 5	Rank 99	Fischbacher, Urs	Score: 1.146
+SDG 5	Rank 100	Scherer, A G	Score: 1.127

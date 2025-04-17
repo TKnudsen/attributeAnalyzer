@@ -1,0 +1,100 @@
+RANKING FOR SDG 6SDG 6	Rank 1	Hilty, Lorenz M	Score: 3.246
+SDG 6	Rank 2	Hilty, Lorenz	Score: 2.609
+SDG 6	Rank 3	Schiller, Eryk	Score: 1.736
+SDG 6	Rank 4	Nowack, Bernd	Score: 1.686
+SDG 6	Rank 5	Lapin, Andrei	Score: 1.582
+SDG 6	Rank 6	Kropf, Peter	Score: 1.582
+SDG 6	Rank 7	Brunner, Philip	Score: 1.582
+SDG 6	Rank 8	Schmutzler, Armin	Score: 1.373
+SDG 6	Rank 9	Scherer, Andreas Georg	Score: 1.309
+SDG 6	Rank 10	Meins, Erika	Score: 1.273
+SDG 6	Rank 11	Bornh�ft, Nikolaus A	Score: 1.259
+SDG 6	Rank 12	Zea Escamilla, Edwin	Score: 1.236
+SDG 6	Rank 13	Hunkeler, Daniel	Score: 1.155
+SDG 6	Rank 14	Meister, Urs	Score: 1.155
+SDG 6	Rank 15	H�jer, Mattias	Score: 1.064
+SDG 6	Rank 16	Schilling, Oliver	Score: 1.055
+SDG 6	Rank 17	Pohl, Johanna	Score: 1.009
+SDG 6	Rank 18	Braun, Torsten	Score: 0.955
+SDG 6	Rank 19	Palazzo, Guido	Score: 0.891
+SDG 6	Rank 20	Leippold, Markus	Score: 0.882
+SDG 6	Rank 21	Ongena, Steven	Score: 0.864
+SDG 6	Rank 22	Lohmann, Wolfgang	Score: 0.855
+SDG 6	Rank 23	Chesney, Marc	Score: 0.791
+SDG 6	Rank 24	Baumann-Pauly, Dorothee	Score: 0.791
+SDG 6	Rank 25	Santarius, Tilman	Score: 0.782
+SDG 6	Rank 26	Lange, Steffen	Score: 0.782
+SDG 6	Rank 27	Habert, Guillaume	Score: 0.782
+SDG 6	Rank 28	Battiston, Stefano	Score: 0.746
+SDG 6	Rank 29	Schenker-Wicki, Andrea	Score: 0.736
+SDG 6	Rank 30	Fedosov, Anton	Score: 0.691
+SDG 6	Rank 31	Mader, Clemens	Score: 0.691
+SDG 6	Rank 32	F�llmi, Reto	Score: 0.682
+SDG 6	Rank 33	Aerni, Philipp	Score: 0.664
+SDG 6	Rank 34	Ferreboeuf, Hugues	Score: 0.655
+SDG 6	Rank 35	Hilbeck, Angelika	Score: 0.655
+SDG 6	Rank 36	Ryghaug, Marianne	Score: 0.655
+SDG 6	Rank 37	Schwanen, Tim	Score: 0.655
+SDG 6	Rank 38	Staab, Philipp	Score: 0.655
+SDG 6	Rank 39	Dencik, Lina	Score: 0.655
+SDG 6	Rank 40	Diez, Tomas	Score: 0.655
+SDG 6	Rank 41	Hankey, Stephanie	Score: 0.655
+SDG 6	Rank 42	Sun, Tian Yin	Score: 0.655
+SDG 6	Rank 43	Kleine, Dorothea	Score: 0.655
+SDG 6	Rank 44	Bieser, Jan C T	Score: 0.636
+SDG 6	Rank 45	Frey, Bruno S	Score: 0.635
+SDG 6	Rank 46	Paetzold, Falko	Score: 0.564
+SDG 6	Rank 47	Feige, Annika	Score: 0.555
+SDG 6	Rank 48	Trujillo, David	Score: 0.555
+SDG 6	Rank 49	M�ller, A	Score: 0.555
+SDG 6	Rank 50	Huang, Elaine M	Score: 0.555
+SDG 6	Rank 51	Fehr, Ernst	Score: 0.555
+SDG 6	Rank 52	Hummel, Katrin	Score: 0.546
+SDG 6	Rank 53	Scherer, Andreas	Score: 0.536
+SDG 6	Rank 54	Raman, Sainath	Score: 0.527
+SDG 6	Rank 55	Goel, Skand	Score: 0.527
+SDG 6	Rank 56	von Jagow, Adrian	Score: 0.527
+SDG 6	Rank 57	Colesanti Senni, Chiara	Score: 0.527
+SDG 6	Rank 58	Gibbons, Kristen S	Score: 0.527
+SDG 6	Rank 59	Hendricks Franssen, Harrie-Jan	Score: 0.527
+SDG 6	Rank 60	Sudicky, Edward	Score: 0.527
+SDG 6	Rank 61	Schibler, Andreas	Score: 0.527
+SDG 6	Rank 62	Mattke, Adrian	Score: 0.527
+SDG 6	Rank 63	Kurtz, Wolfgang	Score: 0.527
+SDG 6	Rank 64	Capri, Ettore	Score: 0.527
+SDG 6	Rank 65	Le Marsney, Renate	Score: 0.527
+SDG 6	Rank 66	De Vivo, Romano	Score: 0.527
+SDG 6	Rank 67	Schlapbach, Luregn J	Score: 0.527
+SDG 6	Rank 68	Gaudioso, Antonio	Score: 0.527
+SDG 6	Rank 69	Rueff, Henri	Score: 0.527
+SDG 6	Rank 70	Schilling, Oliver S	Score: 0.527
+SDG 6	Rank 71	Tang, Qi	Score: 0.527
+SDG 6	Rank 72	Vereecken, Harry	Score: 0.527
+SDG 6	Rank 73	Hintemann, Ralph	Score: 0.527
+SDG 6	Rank 74	Behrendt, Siegfried	Score: 0.527
+SDG 6	Rank 75	Evers-W�lk, Michaela	Score: 0.527
+SDG 6	Rank 76	Foellmi, Reto	Score: 0.527
+SDG 6	Rank 77	Fichter, Klaus	Score: 0.527
+SDG 6	Rank 78	Menza, Gianpiero	Score: 0.527
+SDG 6	Rank 79	Trnka, Peter	Score: 0.527
+SDG 6	Rank 80	Kennedy, Melanie	Score: 0.527
+SDG 6	Rank 81	Marchis, Alexandru	Score: 0.527
+SDG 6	Rank 82	Pfeifer, Rolf	Score: 0.509
+SDG 6	Rank 83	Miyashita, Shuhei	Score: 0.509
+SDG 6	Rank 84	Seidl, David	Score: 0.482
+SDG 6	Rank 85	Busch, Timo	Score: 0.464
+SDG 6	Rank 86	Stutzer, Alois	Score: 0.464
+SDG 6	Rank 87	Polk, Andreas	Score: 0.455
+SDG 6	Rank 88	Schwabe, Gerhard	Score: 0.455
+SDG 6	Rank 89	Kraus, Mathias	Score: 0.455
+SDG 6	Rank 90	Fern�ndez Maim�, Lorenzo	Score: 0.455
+SDG 6	Rank 91	Monasterolo, Irene	Score: 0.455
+SDG 6	Rank 92	Hoepner, Andreas G F	Score: 0.455
+SDG 6	Rank 93	Weber, Roberto A	Score: 0.436
+SDG 6	Rank 94	Voegtlin, Christian	Score: 0.436
+SDG 6	Rank 95	Beck, Mathias	Score: 0.436
+SDG 6	Rank 96	G�mez, �ngel L Perales	Score: 0.427
+SDG 6	Rank 97	Clemente, F�lix J Garc�a	Score: 0.427
+SDG 6	Rank 98	Archilla, Hector F	Score: 0.427
+SDG 6	Rank 99	Reisch, Lucia A	Score: 0.427
+SDG 6	Rank 100	Hungerb�hler, Konrad	Score: 0.427

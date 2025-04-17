@@ -1,0 +1,100 @@
+RANKING FOR SDG 1SDG 1	Rank 1	Ongena, Steven	Score: 10.397
+SDG 1	Rank 2	Zweim�ller, Josef	Score: 9.941
+SDG 1	Rank 3	Zilibotti, Fabrizio	Score: 7.282
+SDG 1	Rank 4	Fehr, Ernst	Score: 7.237
+SDG 1	Rank 5	Frey, Bruno S	Score: 5.592
+SDG 1	Rank 6	Pomeranz, Dina	Score: 4.182
+SDG 1	Rank 7	Lalive, Rafael	Score: 3.614
+SDG 1	Rank 8	Lichand, Guilherme	Score: 3.573
+SDG 1	Rank 9	Backes-Gellner, Uschi	Score: 3.428
+SDG 1	Rank 10	Dorn, David	Score: 3.418
+SDG 1	Rank 11	Scherer, Andreas Georg	Score: 3.418
+SDG 1	Rank 12	Battiston, Stefano	Score: 3.291
+SDG 1	Rank 13	Storesletten, Kjetil	Score: 3.237
+SDG 1	Rank 14	Winkelmann, Rainer	Score: 3.082
+SDG 1	Rank 15	Zweifel, Peter	Score: 2.873
+SDG 1	Rank 16	Woitek, Ulrich	Score: 2.8
+SDG 1	Rank 17	Foellmi, Reto	Score: 2.727
+SDG 1	Rank 18	Kast, Felipe	Score: 2.636
+SDG 1	Rank 19	Schwabe, Gerhard	Score: 2.528
+SDG 1	Rank 20	Voth, Hans-Joachim	Score: 2.482
+SDG 1	Rank 21	Jaimovich, Nir	Score: 2.409
+SDG 1	Rank 22	Falkinger, Josef	Score: 2.368
+SDG 1	Rank 23	Scheuer, Florian	Score: 2.282
+SDG 1	Rank 24	Rochet, Jean-Charles	Score: 2.109
+SDG 1	Rank 25	Hens, Thorsten	Score: 2.109
+SDG 1	Rank 26	Stutzer, Alois	Score: 2.091
+SDG 1	Rank 27	Cohn, Alain	Score: 1.982
+SDG 1	Rank 28	Doepke, Matthias	Score: 1.973
+SDG 1	Rank 29	Schwandt, Hannes	Score: 1.846
+SDG 1	Rank 30	Hanson, Gordon H	Score: 1.8
+SDG 1	Rank 31	Hilty, Lorenz	Score: 1.764
+SDG 1	Rank 32	Weber, Roberto A	Score: 1.691
+SDG 1	Rank 33	Staubli, Stefan	Score: 1.664
+SDG 1	Rank 34	F�llmi, Reto	Score: 1.664
+SDG 1	Rank 35	Casaburi, Lorenzo	Score: 1.646
+SDG 1	Rank 36	Boes, Stefan	Score: 1.6
+SDG 1	Rank 37	Fu, Jonathan	Score: 1.591
+SDG 1	Rank 38	Meier, Stephan	Score: 1.573
+SDG 1	Rank 39	Aerni, Philipp	Score: 1.546
+SDG 1	Rank 40	Osterloh, Margit	Score: 1.537
+SDG 1	Rank 41	Yanagizawa-Drott, David	Score: 1.527
+SDG 1	Rank 42	Hassler, John	Score: 1.464
+SDG 1	Rank 43	Grossmann, Volker	Score: 1.464
+SDG 1	Rank 44	Autor, David	Score: 1.427
+SDG 1	Rank 45	Mar�chal, Michel Andr�	Score: 1.382
+SDG 1	Rank 46	Currie, Janet	Score: 1.364
+SDG 1	Rank 47	Song, Zheng	Score: 1.364
+SDG 1	Rank 48	Epper, Thomas	Score: 1.355
+SDG 1	Rank 49	Kubler, Felix	Score: 1.346
+SDG 1	Rank 50	Svensson, Jakob	Score: 1.336
+SDG 1	Rank 51	Hoffmann, Mathias	Score: 1.291
+SDG 1	Rank 52	Slemrod, Joel	Score: 1.282
+SDG 1	Rank 53	Wagner, Alexander	Score: 1.264
+SDG 1	Rank 54	Steinhauer, Andreas	Score: 1.264
+SDG 1	Rank 55	Floris, Jo�l	Score: 1.264
+SDG 1	Rank 56	Fringuellotti, Fulvia	Score: 1.232
+SDG 1	Rank 57	Palazzo, Guido	Score: 1.227
+SDG 1	Rank 58	Hare, Todd A	Score: 1.209
+SDG 1	Rank 59	Scherer, A G	Score: 1.209
+SDG 1	Rank 60	Acemoglu, Daron	Score: 1.155
+SDG 1	Rank 61	Paetzold, Falko	Score: 1.146
+SDG 1	Rank 62	Biroli, Pietro	Score: 1.146
+SDG 1	Rank 63	Braggion, Fabio	Score: 1.146
+SDG 1	Rank 64	Caldarelli, Guido	Score: 1.137
+SDG 1	Rank 65	Neustadt, Ilja	Score: 1.136
+SDG 1	Rank 66	Hilty, Lorenz M	Score: 1.1
+SDG 1	Rank 67	Bartling, Bj�rn	Score: 1.1
+SDG 1	Rank 68	Goette, Lorenz	Score: 1.091
+SDG 1	Rank 69	Willis, Jack	Score: 1.082
+SDG 1	Rank 70	Haushofer, Johannes	Score: 1.082
+SDG 1	Rank 71	Meins, Erika	Score: 1.082
+SDG 1	Rank 72	Baumann-Pauly, Dorothee	Score: 1.073
+SDG 1	Rank 73	Ruff, Christian C	Score: 1.055
+SDG 1	Rank 74	S�ez-Mart�, Mar�a	Score: 1.036
+SDG 1	Rank 75	Oechslin, Manuel	Score: 1.036
+SDG 1	Rank 76	Egger, H	Score: 1.032
+SDG 1	Rank 77	Falk, Armin	Score: 1.027
+SDG 1	Rank 78	Rohner, Dominic	Score: 1.027
+SDG 1	Rank 79	Basten, Christoph	Score: 1.027
+SDG 1	Rank 80	Voegtlin, Christian	Score: 1.018
+SDG 1	Rank 81	Autor, David H	Score: 0.991
+SDG 1	Rank 82	Caprettini, Bruno	Score: 0.973
+SDG 1	Rank 83	Zavolokina, Liudmila	Score: 0.964
+SDG 1	Rank 84	Dietl, Helmut	Score: 0.964
+SDG 1	Rank 85	Hepenstrick, Christian	Score: 0.955
+SDG 1	Rank 86	Schmutzler, Armin	Score: 0.955
+SDG 1	Rank 87	Chesney, Marc	Score: 0.937
+SDG 1	Rank 88	Remy, Christian	Score: 0.936
+SDG 1	Rank 89	Berentsen, Aleksander	Score: 0.927
+SDG 1	Rank 90	Wickert, Christopher	Score: 0.909
+SDG 1	Rank 91	Hummel, Katrin	Score: 0.9
+SDG 1	Rank 92	Davidov, Eldad	Score: 0.9
+SDG 1	Rank 93	Saporta-Eksten, Itay	Score: 0.882
+SDG 1	Rank 94	Yedid-Levi, Yaniv	Score: 0.882
+SDG 1	Rank 95	Dwarkasing, Mintra	Score: 0.882
+SDG 1	Rank 96	Palazzo, G	Score: 0.873
+SDG 1	Rank 97	Schmedders, Karl	Score: 0.873
+SDG 1	Rank 98	Torgler, Benno	Score: 0.864
+SDG 1	Rank 99	van Ours, Jan C	Score: 0.864
+SDG 1	Rank 100	Wolf, Sharon	Score: 0.855
